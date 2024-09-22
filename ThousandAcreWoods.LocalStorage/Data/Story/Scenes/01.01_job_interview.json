@@ -1,0 +1,32 @@
+{
+  "SceneId": "JOBINTV",
+  "SceneName": "John's Job Interview'",
+  "ImageName":  "INTERV"
+  "Script": [
+    {
+      "Character": "ME",
+      "Subtitle": "I'm {ME}"
+    },
+    {
+      "Character": "HR1",
+      "Subtitles": [
+        "Hello {ME}",
+        "I'm {HR1} and this is {BOASSAC}"
+      ]
+    },
+    {
+      "Character": "BOASSAC",
+      "Subtitles": [
+        {
+          "Text": "Wait a minute",
+          "DelayBefore": 100
+        },
+        "Hello {ME}",
+        "Pleased to meet you"
+      ]
+
+    }
+
+
+  ]
+}

@@ -1,0 +1,25 @@
+﻿<style>
+    @CssRules()
+</style>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="@(Width)px" height="@(Height)px"
+        viewBox="0 0 @ViewBoxWidth @ViewBoxHeight">
+        <defs>
+            <filter id="chalk" height="2" width="1.6" color-interpolation-filters="sRGB" y="-0.5" x="-0.3">
+              <feTurbulence baseFrequency="0.32065" seed="115" result="result1" numOctaves="1" type="turbulence"/>
+              <feOffset result="result2" dx="-5" dy="-5"/>
+              <feDisplacementMap scale="2" yChannelSelector="G" in2="result1" xChannelSelector="R" in="SourceGraphic"/>
+              <feGaussianBlur stdDeviation="0.4"/>
+            </filter>
+        </defs>
+
+    @foreach(var (path, indx) in _paths.Select((p,indx) => (p,indx)))
+    {
+    <path id="@_elementId.IdFor(indx.ToString())" class="@_elementId.IdFor((indx.ToString()))" filter="url(#chalk)"
+            fill="none" stroke="white" stroke-width="6"
+            d="@path.PathSpecification"/>
+        
+    }
+</svg>
+

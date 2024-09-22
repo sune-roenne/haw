@@ -1,0 +1,1843 @@
+{
+  "ChapterDate": "2024-05-21T00:00:00",
+  "ChapterName": "On Weddings and Psychopaths",
+  "ChapterFileName": "2024-05-21-A-Karl on Psychopathy.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... and can someone please tell me, WHY it\u0027s considered OK for her to want to spend 30.000 EUR on a fucking wedding...",
+          "Description": null
+        },
+        {
+          "PartText": "because she\u0027s \u0027always dreamed of being wedded like a fucking princess\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "but it\u0027s NOT alright for me to spend 30.000 EUR after the wedding on stunt-men and extras so me and the boys can reenact The Battle of Falkirk from Braveheart...",
+          "Description": null
+        },
+        {
+          "PartText": "that was MY childhood dream?",
+          "Description": "challenging the rest of the group"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, it\u0027s your money",
+          "Description": "folding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You do you, man",
+          "Description": "folding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know Karl, it wouldn\u0027t hurt to give her this one thing, she is, after all, going to be married to YOU for the rest of her life",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "There wasn\u0027t even a pot, man... Take it",
+          "Description": "folding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "holding a hand up, dismissing getting involved in the dirty affair"
+        },
+        {
+          "PartText": "So Mike... Are you still finding the exciting world of financial services to your liking?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I sure am boss",
+          "Description": "broad fake smile"
+        },
+        {
+          "PartText": "In honesty... I like it here and all...",
+          "Description": null
+        },
+        {
+          "PartText": "But... I don\u0027t know how to explain it...",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe I\u0027m feeling a little \u0027under-whelmed\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "I guess I\u0027m glad the financial sector didn\u0027t live up to my expectations...",
+          "Description": null
+        },
+        {
+          "PartText": "but I came in expecting pots of coins at the entrance for people to throw around in decadence...",
+          "Description": null
+        },
+        {
+          "PartText": "people snorting cocaine off the butts of hookers while \u0027landing big deals over the phone\u0027",
+          "Description": "gestures holding a telephone receiver between head and shoulder"
+        },
+        {
+          "PartText": "and out-of-touch professional psychopath management driving stock of replaceable labor over the Cliff of Exhaustion in suicide!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Would one of you guys please show Mike around to the Employee Fountain of Nickles? ... tsk, tsk tsk",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ll get you set up for FunBox TM Mike",
+          "Description": "winking"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now we just gotta find you a boss psychopath for Mike and he\u0027ll be a happy camper",
+          "Description": "smiling at Mike"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "We\u0027ve got Pissy Frank come Audit time... Will that do?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "in deep contemplation, apparently brooding over an idea"
+        },
+        {
+          "PartText": "You guys know what?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone else",
+        "CharacterName": "Everyone else",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t believe in psychopaths",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Good for you my friend, psychopaths are known to lie",
+          "Description": "flashing fake smile at Karl"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m serious... I think this whole spiel about \u0027psychopathy\u0027 is just something the square Johns have come up with to make sure the world stays a boring place",
+          "Description": "challenging"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking puzzled at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugging shoulders as if to say \u0027Hell if I know, let\u0027s see where this takes us\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look at the traits commonly associated with a \u0027psychopath\u0027",
+          "Description": "making a big show about putting quotation marks around \u0027psychopath\u0027"
+        },
+        {
+          "PartText": "- lack of empathy",
+          "Description": null
+        },
+        {
+          "PartText": "- impulsivity",
+          "Description": null
+        },
+        {
+          "PartText": "- aggressiveness",
+          "Description": null
+        },
+        {
+          "PartText": "Yeah? Really?",
+          "Description": null
+        },
+        {
+          "PartText": "You know what I call someone like that? A WARRIOR",
+          "Description": "drawing out the pronunciation of the word \u0027warrior\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are we back at Falkirk Karl?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Funny! Real funny!",
+          "Description": null
+        },
+        {
+          "PartText": "But honestly, if the Russian Bear decides to get up and go for a little snack run around Europe",
+          "Description": null
+        },
+        {
+          "PartText": "What type of people will we be looking to to ward off the foreign threat?",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s right... The so-called \u0027psychopaths\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ll want people who are not afraid to act and who are willing and able to act violently against other people",
+          "Description": null
+        },
+        {
+          "PartText": "Think of Gilles de Rais: outstanding military career during The Hundred Year\u0027s War, returns home, and is declared a \u0027psychopath\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "THE GUY WAS A FUCKING PEDOPHILE WHO MURDERED MORE THAN A HUNDRED CHILDREN!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking accusingly at Karl"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, alright... I\u0027ll fold on Gilles...",
+          "Description": null
+        },
+        {
+          "PartText": "I didn\u0027t think any of you knew any history ...",
+          "Description": "half muttering to himself"
+        },
+        {
+          "PartText": "BUT! My point still stands: what we think of as a \u0027psychopath\u0027 is someone who would be a real hero during times of war",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not so sure about that...",
+          "Description": null
+        },
+        {
+          "PartText": "Didn\u0027t you guys see that Ted Talk about the guy who trained Navy Seals?",
+          "Description": null
+        },
+        {
+          "PartText": "He made a big deal about how social skills are like the absolute most important skill a prospective Navy Seal can have",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe in the days of madly charging the enemy while you are swinging an ax above your head, the type of self-centeredness you associate with psychopaths was OK...",
+          "Description": null
+        },
+        {
+          "PartText": "but in modern-day warfare where each soldier represents a large investment, you need someone who will look out for more than #1",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You guys are missing the point!",
+          "Description": null
+        },
+        {
+          "PartText": "But we\u0027ll go about it another way...",
+          "Description": null
+        },
+        {
+          "PartText": "If I started punching you guys randomly throughout the day... You might call me a psychopath, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know about \u0027psychopath\u0027 but we\u0027d definitely think you were and asshole!",
+          "Description": "conceding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Which really isn\u0027t that much of a stretch to status quo to be honest",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But what if I came from a place where that was the norm... Say, I had 3 older brothers who used to punch me whenever I let my guard down",
+          "Description": null
+        },
+        {
+          "PartText": "You guys might \u0027think I was an asshole\u0027",
+          "Description": "looking at John"
+        },
+        {
+          "PartText": "but would that make me a psychopath?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "puzzled, not really getting what Karl is driving at"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Karl, did your father do mean things to you when you were a child?",
+          "Description": "touching Karl\u0027s hand with a concerned expression on his face"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Shut up!",
+          "Description": null
+        },
+        {
+          "PartText": "Alright...",
+          "Description": null
+        },
+        {
+          "PartText": "You remember Jacob, right John?",
+          "Description": "looking at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course...",
+          "Description": null
+        },
+        {
+          "PartText": "Jacob was our colleague in Client Management up until a couple of months ago and then he just disappeared",
+          "Description": "explaining to Cecil and Mike"
+        },
+        {
+          "PartText": "There were rumors that he eloped to Brazil on embezzlement charges, but nothing official has come out",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, check this out...",
+          "Description": null
+        },
+        {
+          "PartText": "Jacob is dead!",
+          "Description": null
+        },
+        {
+          "PartText": "I know someone who knows someone in the Police, who said he was found murdered in his plane or motor glider or whatever...",
+          "Description": null
+        },
+        {
+          "PartText": "Shot 10 times in the head!",
+          "Description": null
+        },
+        {
+          "PartText": "But that the case is COVERED in red tape!",
+          "Description": null
+        },
+        {
+          "PartText": "Buried!",
+          "Description": null
+        },
+        {
+          "PartText": "And there\u0027s more...",
+          "Description": "leaning forward, whispering in secrecy"
+        },
+        {
+          "PartText": "One time, some of us from Client Management went out drinking...",
+          "Description": null
+        },
+        {
+          "PartText": "And after the strip joint, when it was just me and Jacob having drinks in a last-ditch bar",
+          "Description": null
+        },
+        {
+          "PartText": "we get to talking, and he tells me about this super-secret online society he\u0027s a part of",
+          "Description": null
+        },
+        {
+          "PartText": "... where they KILL people...",
+          "Description": "whispering, but still managing to stress the word \u0027kill\u0027"
+        },
+        {
+          "PartText": "So, if you\u0027re a member, you can put up a \u0027mark\u0027 and a reward, that \u0027I would like to see this or that guy disappear\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "... say you have a real issue with some dude in your everyday life...",
+          "Description": null
+        },
+        {
+          "PartText": "But you can\u0027t just kill him, because everyone would know it was you, and then here comes the 5-0...",
+          "Description": null
+        },
+        {
+          "PartText": "Then you put him up as a mark on the list, and then you can make sure to be at the amusement park having your picture taken on the Devil of Red Hot Death...",
+          "Description": null
+        },
+        {
+          "PartText": "While some guy who doesn\u0027t have any connection at all to the mark, will be putting bullets through the back of the man\u0027s skull",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But why?! What\u0027s in it for the guy?",
+          "Description": "clearly not believing Karl\u0027s tale"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He\u0027s rewarded in this virtual currency, that he himself can spend on the site...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That sounds a bit... made up...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027d like to think that our police force would shut such an operation down...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah well... There\u0027s a bit more to it...",
+          "Description": null
+        },
+        {
+          "PartText": "You can\u0027t just put anyone up there...",
+          "Description": null
+        },
+        {
+          "PartText": "Submissions are screened and you have to submit evidence that the person deserves to be...",
+          "Description": "makes shooting gesture with his hand"
+        },
+        {
+          "PartText": "Jacob believed that some pretty top-ranking police officers are in on the deal",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at Karl, a little uncomfortably"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So... It\u0027s a kinda \u0027Hobby-Killers Craig\u0027s List\u0027 combined vigilante forum?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But that brings up the ever-present paradox of vigilantism: that the vigilante is as bad as the people they kill...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes! And I\u0027m glad you said that...",
+          "Description": null
+        },
+        {
+          "PartText": "Because it ISN\u0027T a paradox... Not in this place at least...",
+          "Description": null
+        },
+        {
+          "PartText": "When you are a member of the society, you are automatically on the list",
+          "Description": null
+        },
+        {
+          "PartText": "On the website, you\u0027re just a randomly generated ID...",
+          "Description": null
+        },
+        {
+          "PartText": "But if anyone is able to uncover your real identity...",
+          "Description": null
+        },
+        {
+          "PartText": "They can kill you!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Which of course they could do under any circumstance. I mean, you can always decide to be a murderous bastard, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes AND no... Because the murders that happen under this operation...",
+          "Description": null
+        },
+        {
+          "PartText": "They are magically forgotten about!",
+          "Description": null
+        },
+        {
+          "PartText": "In the way that \u0027nobody\u0027s seen Jacob but he\u0027s probably living the sweet life in a favela in Brazil, when in fact he\u0027s buried in an unmarked grave somewhere\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at Karl puzzled and a little worried"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So, now...",
+          "Description": "sitting up straight and raising his voice"
+        },
+        {
+          "PartText": "Society as a whole would label anyone on that list a \u0027psychopath\u0027, right?",
+          "Description": "once again, emphasizing the quotes"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "a little uneasy"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But I call bullshit!",
+          "Description": null
+        },
+        {
+          "PartText": "They just have another frame of reference!",
+          "Description": null
+        },
+        {
+          "PartText": "The ability to track someone down and murder them isn\u0027t a malevolent trait that some off-breed less developed cast of society has...",
+          "Description": null
+        },
+        {
+          "PartText": "Like the square Johns will have you think",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s just that you have accepted that the same thing might happen to you... You are playing for bigger stakes so to say",
+          "Description": null
+        },
+        {
+          "PartText": "And I think that you can generalize this perception...",
+          "Description": null
+        },
+        {
+          "PartText": "In movies and books, the murderer is often treated as someone almost from another universe, because he is able to do the \u0027unthinkable deed\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "I think it\u0027s just a matter of these people having learned throughout their life, that society will do the same thing to them...",
+          "Description": null
+        },
+        {
+          "PartText": "They are playing the game of life on a higher skill setting",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I think psychologists generally agree that psychopathy is the result of a mix of nature and nurture, but...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "BUT NOTHING!",
+          "Description": null
+        },
+        {
+          "PartText": "Can\u0027t you see: this is \u0027stay-in-your-place\u0027-ism in its worst form",
+          "Description": null
+        },
+        {
+          "PartText": "Because the rich assholes that are presently in power, do not want us to play any game that might jeopardize their superiority...",
+          "Description": null
+        },
+        {
+          "PartText": "... so they make up a whole load of bull shit terms like: \u0027psychopath\u0027 and \u0027sociopath\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "notice how they can\u0027t even agree on whether those two are the same damn thing!",
+          "Description": null
+        },
+        {
+          "PartText": "and every fucking square John happily skip along to the beat of these assholes:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027we must not be psychopaths\u0027, because it makes the ASSHOLES in power feel uneasy",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "now standing, looking around the table, challenging the others to retort"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m feeling a little uneasy myself... But I\u0027ve got nothing...",
+          "Description": "folding his hand"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That was a lot to take in... I can\u0027t even...",
+          "Description": "folding his hand"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugging his shoulders, folds"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at John in expectation of his move"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring at Karl"
+        },
+        {
+          "PartText": "Do you know what I really hate about working with you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at John, defiantly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I get to know really intimate details about your girlfriend based on when you set off on one of these manic rants...",
+          "Description": null
+        },
+        {
+          "PartText": "Details that I don\u0027t want to know!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking puzzled"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "THAT\u0027S RIGHT!",
+          "Description": null
+        },
+        {
+          "PartText": "What was it... about 3 weeks ago you went off on that mad Winnie The Pooh is a sadistic rapist non-sense",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s beside the point!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And the day before that, you went off on the Lizard-people theory",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think you need to see someone about your fear of blood, honey",
+          "Description": "touching Karl\u0027s arm comfortingly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look! It\u0027s not about that!",
+          "Description": "frustrated"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Everybody except Karl gets up from the lunch table.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not ALL about that anyways...",
+          "Description": "muttering to himself"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Was that whole thing about a secret society just something he made up?",
+          "Description": "whispering to Cecil as they leave"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not sure man, but I may just stick to \u0027not-killing-people\u0027 to be on the safe side",
+          "Description": "smiling, a little uneasy"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 10,
+  "ChapterHash": "6RDmAXbh/4TK\u002B0RMzSZ6W/pb1Qh87XWKlVaIUgvDlZM7PrhiAXgmP3KRO/fF7ohyI4nFTk/JTy4\u002B0EO9MeYNig==",
+  "Video": {
+    "FileName": "lunch.gif",
+    "AttributionText": "Lunch Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/lunch"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

@@ -1,0 +1,1649 @@
+{
+  "ChapterDate": "2024-06-18T00:00:00",
+  "ChapterName": "The Quantum Division",
+  "ChapterFileName": "2024-06-18-The Quantum Division.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Donnie... sir, do you have a moment?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m sure you remember my name, Albert",
+          "Description": null
+        },
+        {
+          "PartText": "Donnie will be fine",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Yes, come on in",
+          "Description": null
+        },
+        {
+          "PartText": "And speaking of people who can\u0027t remember names...",
+          "Description": null
+        },
+        {
+          "PartText": "Someone told me that you and John had become good friends...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well... I\u0027m not so sure",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure John cared much for having friends",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, John is the one who told me...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Then sure... We were friends",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I think it would be a stretch to call John a good person...",
+          "Description": null
+        },
+        {
+          "PartText": "but whether he\u0027d like it or not, I think he was a good friend...",
+          "Description": null
+        },
+        {
+          "PartText": "once you got past all the kicking and yelling, of course",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "There is that",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "So, what can I do for you Albert?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I want to resign from my position in Compliance",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you not like working here anymore?",
+          "Description": "a little surprised"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I do! I don\u0027t have much prior experience to measure it by, but I do like working here...",
+          "Description": null
+        },
+        {
+          "PartText": "and that\u0027s part of the reason I want to apply for a new position here",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Frank\u0027s old position?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Never that!",
+          "Description": null
+        },
+        {
+          "PartText": "I like you and all sir... Donnie...",
+          "Description": null
+        },
+        {
+          "PartText": "But if I may be frank...",
+          "Description": null
+        },
+        {
+          "PartText": "pun intended...",
+          "Description": null
+        },
+        {
+          "PartText": "you are going to have to find someone else to do your shitty work",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, alright...",
+          "Description": null
+        },
+        {
+          "PartText": "You can\u0027t blame a man for trying, right...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I want to continue Angela\u0027s research",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "pause"
+        },
+        {
+          "PartText": "I don\u0027t know how much John told you about it...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Just the basics...",
+          "Description": null
+        },
+        {
+          "PartText": "Social temperature measurements... More or less?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, yes, but I think it was a lot more than that",
+          "Description": null
+        },
+        {
+          "PartText": "I respect the philosophy behind our compensation-policy",
+          "Description": null
+        },
+        {
+          "PartText": "but...",
+          "Description": null
+        },
+        {
+          "PartText": "this feels like such a cliche...",
+          "Description": null
+        },
+        {
+          "PartText": "but money really isn\u0027t everything",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not entirely sure what Angela\u0027s reason for starting her research to begin with was...",
+          "Description": null
+        },
+        {
+          "PartText": "I wouldn\u0027t put it past her doing it simply because she was curious and wanted to know...",
+          "Description": null
+        },
+        {
+          "PartText": "actually, that would be my best guess...",
+          "Description": null
+        },
+        {
+          "PartText": "but whatever the motivation, I feel like she discovered something really valuable",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking interested"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I compared data from the last 10 resignations, with the data from Angela\u0027s experiments...",
+          "Description": null
+        },
+        {
+          "PartText": "and in every case, Angela\u0027s data showed clear predictors up to 2 months before the date the resignation was handed in",
+          "Description": null
+        },
+        {
+          "PartText": "and what I find most astonishing:",
+          "Description": null
+        },
+        {
+          "PartText": "in 8 out of 10 cases... the person\u0027s Joy-of-Work could have been significantly improved by simple and almost cost-free measures",
+          "Description": null
+        },
+        {
+          "PartText": "Like these 2...",
+          "Description": null
+        },
+        {
+          "PartText": "If they had swapped teams",
+          "Description": null
+        },
+        {
+          "PartText": "- because the data suggests that they were both looking for a change of assignments -",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t think they would have left the company",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Can I have a look at the data?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course",
+          "Description": "hands over the papers in his hand"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Donnie spends a couple of minutes reading through the pages.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So, what you are telling me is",
+          "Description": null
+        },
+        {
+          "PartText": "As an example...",
+          "Description": null
+        },
+        {
+          "PartText": "If this person...",
+          "Description": "turning a page over to point out to Albert what person he is referring to"
+        },
+        {
+          "PartText": "who the data suggests was in need of \u0027excitement/danger\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "had, say...",
+          "Description": null
+        },
+        {
+          "PartText": "been sent down to the basement to recover some more printer paper...",
+          "Description": null
+        },
+        {
+          "PartText": "they might have had their craving for adventure satisfied and would not have left...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I would never suggest submitting anyone to that?...",
+          "Description": "looks shocked"
+        },
+        {
+          "PartText": "but you\u0027ve got the general idea right",
+          "Description": "easing up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OK... I\u0027m not opposed to the idea...",
+          "Description": null
+        },
+        {
+          "PartText": "but, if our employees want something from their job they are not receiving at the moment...",
+          "Description": null
+        },
+        {
+          "PartText": "shouldn\u0027t we instead work on getting them to voice those desires...?",
+          "Description": null
+        },
+        {
+          "PartText": "One might say, that there is taking care of your employees, and then there is babying them...?",
+          "Description": "looking questioningly at Albert"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "One might indeed say that...",
+          "Description": null
+        },
+        {
+          "PartText": "but that wouldn\u0027t change the fact that most people don\u0027t know what they want, much less what they need...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But you think you can work that out, and take care of it...",
+          "Description": null
+        },
+        {
+          "PartText": "preemptively...",
+          "Description": null
+        },
+        {
+          "PartText": "does that sum it up?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s pretty on-the-spot sir... Donnie",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Let\u0027s give it a try...",
+          "Description": null
+        },
+        {
+          "PartText": "How does a trial period of 6 months sound, and then we evaluate...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That sounds good",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Good, but we need a name for this department...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I was thinking about, maybe: \u0027The Quantum Division\u0027...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now you are pushing it, Albert!",
+          "Description": "looking stern"
+        },
+        {
+          "PartText": "I still hear talk around the office about Quantum-Man and some people look very nervous and/or self-conscious at the mention of him",
+          "Description": "easing up a bit"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh... You heard about that...",
+          "Description": "embarrassed"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "EVERYBODY heard that!",
+          "Description": null
+        },
+        {
+          "PartText": "Whatever else \u0027Quantum-Man\u0027 might be he\u0027s not exactly built for crawling around the ventilation system...",
+          "Description": "smiling overbearingly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sir, I was in a pretty unusual state...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Stop...",
+          "Description": null
+        },
+        {
+          "PartText": "I know you weren\u0027t really to blame for the incident...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Give the name a little thought...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m sure you\u0027ll come up with something that won\u0027t scare the living shit out of everyone",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And then there is another somewhat delicate subject...",
+          "Description": null
+        },
+        {
+          "PartText": "Hypothetically...",
+          "Description": null
+        },
+        {
+          "PartText": "If, throughout your work",
+          "Description": null
+        },
+        {
+          "PartText": "- that I have no doubt will be based on solid scientific principles -",
+          "Description": null
+        },
+        {
+          "PartText": "you reach the conclusion...",
+          "Description": null
+        },
+        {
+          "PartText": "that some of the women employed here, need something...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027unconventional\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "to increase their \u0027Joy-of-Work\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "and you subcontract someone in...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027to satisfy their needs\u0027...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking borderline terrified"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You better make DAMN sure that the customer is satisfied!",
+          "Description": null
+        },
+        {
+          "PartText": "... and you should probably expense it under \u0027Various Team-Building Activities\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yikes... John told you about that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "As a matter of fact: no",
+          "Description": null
+        },
+        {
+          "PartText": "My wife told me about it...",
+          "Description": null
+        },
+        {
+          "PartText": "It seems that an unsung hero out there has made her two friends...",
+          "Description": null
+        },
+        {
+          "PartText": "both well past the retirement age...",
+          "Description": null
+        },
+        {
+          "PartText": "happier than they have been in years!",
+          "Description": "gesturing taking his hat off to Albert"
+        },
+        {
+          "PartText": "and just had to share his phone number...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "gesturing: \u0027Hey, what can you do?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess you\u0027ll be wanting an office for the new department...",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027m just taking a wild swing here...",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe somewhere in the basement...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh God no!",
+          "Description": null
+        },
+        {
+          "PartText": "Anywhere else...",
+          "Description": null
+        },
+        {
+          "PartText": "Don\u0027t get me wrong...",
+          "Description": null
+        },
+        {
+          "PartText": "I like the guy...",
+          "Description": null
+        },
+        {
+          "PartText": "no wait... That\u0027s not quite right...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027I respect the guy?\u0027",
+          "Description": "looking puzzled"
+        },
+        {
+          "PartText": "Maybe I sympathize with him...?",
+          "Description": null
+        },
+        {
+          "PartText": "But I would NEVER want to have to work down there over an extended period of time",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ha ha ha... I can\u0027t say I blame you!",
+          "Description": "grinning"
+        },
+        {
+          "PartText": "I think having company was good for him...",
+          "Description": null
+        },
+        {
+          "PartText": "He looks more alive than he has in years...",
+          "Description": null
+        },
+        {
+          "PartText": "but I certainly wouldn\u0027t want to make anyone sacrifice their sanity for that",
+          "Description": "smiling with understanding"
+        },
+        {
+          "PartText": "and... He can always request a desk up here if he wants to see people",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "On the topic of... HIM...",
+          "Description": null
+        },
+        {
+          "PartText": "If you don\u0027t mind me asking...",
+          "Description": null
+        },
+        {
+          "PartText": "What is the real reason he\u0027s still employed?",
+          "Description": null
+        },
+        {
+          "PartText": "The rumors on that topic are... wild!",
+          "Description": null
+        },
+        {
+          "PartText": "I have heard everything from: ",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027the entire building would blow up if he wasn\u0027t here to regularly reset the charges\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "over \u0027we need him to regularly appease the IT Gods so our Production environment doesn\u0027t come crashing down\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "to \u0027he is being kept as a sacrificial lamb to be thrown to the mob at the onset of the next shit-storm\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You guys didn\u0027t let him get access to explosives, did you?",
+          "Description": "looking very serious"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "NO!...",
+          "Description": null
+        },
+        {
+          "PartText": "We did have a close call one time...",
+          "Description": null
+        },
+        {
+          "PartText": "He just kept babbling, and I was so close to breaking down... But NO! Never!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, then I think we are safe there for now...",
+          "Description": null
+        },
+        {
+          "PartText": "The National Security Services are keeping a pretty close eye on him...",
+          "Description": null
+        },
+        {
+          "PartText": "As for the expert exposure: we got rid of that one years ago...",
+          "Description": null
+        },
+        {
+          "PartText": "He doesn\u0027t really have access to our Production environment...",
+          "Description": null
+        },
+        {
+          "PartText": "but a rather outdated clone from a few years back...",
+          "Description": null
+        },
+        {
+          "PartText": "we call it the \u0027Upside-Down-Prod\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "You know, like in that TV show...",
+          "Description": null
+        },
+        {
+          "PartText": "we have someone scanning his environment regularly for interesting and useful developments that may be of use to the company...",
+          "Description": null
+        },
+        {
+          "PartText": "and although there is never a lack of \u0027interesting\u0027... the \u0027useful\u0027 part...",
+          "Description": "gesturing \u0027not so much\u0027 with his hand"
+        },
+        {
+          "PartText": "I see it more as a social commitment...",
+          "Description": null
+        },
+        {
+          "PartText": "There are so many crazies out there...",
+          "Description": null
+        },
+        {
+          "PartText": "If we can keep one of them off the streets wreaking havoc...",
+          "Description": null
+        },
+        {
+          "PartText": "and his shenanigans HAVE become somewhat of a tradition around here...",
+          "Description": null
+        },
+        {
+          "PartText": "and we get a 95% refund from Social Services on his salary...",
+          "Description": null
+        },
+        {
+          "PartText": "what\u0027s the harm really?",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not saying we won\u0027t throw him under the bus in case of a shitstorm...",
+          "Description": null
+        },
+        {
+          "PartText": "Hmmm... I hadn\u0027t really thought about that... But the idea has something...",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027m a little worried about what he might do to our public image...",
+          "Description": null
+        },
+        {
+          "PartText": "even as someone who \u0027doesn\u0027t-work-here-anymore\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "No, I think we\u0027re just going to have to get rid of him \u0027silently\u0027 if he goes too far off in some direction...",
+          "Description": null
+        },
+        {
+          "PartText": "Of course, when John worked here, one might have asked him to \u0027take care\u0027 of the problem...?",
+          "Description": "suggesting"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Forget about it, sir!",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s another shitty job I\u0027m not going to do!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "gesturing \u0027you can\u0027t blame a man for trying, right?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But... If push ever comes to shove...",
+          "Description": null
+        },
+        {
+          "PartText": "And there is no other way than \u0027getting rid of the problem for good\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "Then, one might consider the idea of just GIVING him poison that will do the job and let nature run its course...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure Nature would appreciate being mentioned in that context actually...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m fairly certain he wouldn\u0027t be able to handle finding a gram of fentanyl outside his office door...",
+          "Description": null
+        },
+        {
+          "PartText": "but hey... What do I know?",
+          "Description": "winking"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm",
+          "Description": "looking pensive"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 37,
+  "ChapterHash": "UOaWFCeAIJ18SbUBGz/hcwG6P5c7ScszCnohbHkIXOnUEByECq2ry89qA07jyOdqgoz9U85icdrobSTl25bHOg==",
+  "Video": {
+    "FileName": "orange-sky.gif",
+    "AttributionText": "Red Sun Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/red-sun"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

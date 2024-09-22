@@ -1,0 +1,2689 @@
+{
+  "ChapterDate": "2024-05-27T00:00:00",
+  "ChapterName": "John and Carol Exchange Stories",
+  "ChapterFileName": "2024-05-27-John and Carol share stories.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John is sitting at his desk, struggling to keep awake for the lesson on Interest Bearing Instruments.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hey Jail John! Looks like you could use a pick-me-up...!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It shows?",
+          "Description": "looking at her with an exaggerated tired face"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Only completely",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Tell me a story about yourself",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "We can go tit-for-tat?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I love tit-for-tat!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Carol doesn\u0027t give John a chance to respond to this, before she pulls her shirt and bra over her head, fulfilling her side of a bargain John had only proposed as an innuendo. John looks at the spectacle with a stern face, without moving a muscle. About half of the people in the office stop what they are doing and stare in amazement... The other half is sort of used to Carol by now.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh well... that fell flat!",
+          "Description": "Pulling her shirt back down, and adjusting her clothes"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "still looking at her with a stern expression"
+        },
+        {
+          "PartText": "Certainly not flat!",
+          "Description": null
+        },
+        {
+          "PartText": "It was really good",
+          "Description": null
+        },
+        {
+          "PartText": "And the timing was perfect... I didn\u0027t see it coming at all",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll admit to the innuendo, but you really caught me with my pants down on the execution",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Speaking of which...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, about that... I will hold up my end of that bargain, but I\u0027m not sure it would sit well with the other people in this office that I deliver just here and now",
+          "Description": null
+        },
+        {
+          "PartText": "especially now that you went first...",
+          "Description": "exaggerated embarrassed look"
+        },
+        {
+          "PartText": "If you insist, I\u0027ll do it...",
+          "Description": null
+        },
+        {
+          "PartText": "but if it\u0027s all the same to you, may I suggest we finish the deal somewhere more private?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I don\u0027t see how suggesting it could be a problem...",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027m not buying. Off with \u0027em Sunny",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure",
+          "Description": "stands up and begins to unbuckle his belt"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, you can stop now",
+          "Description": null
+        },
+        {
+          "PartText": "I believe you were actually going to do it...",
+          "Description": null
+        },
+        {
+          "PartText": "and I like that",
+          "Description": null
+        },
+        {
+          "PartText": "Here\u0027s my address...",
+          "Description": null
+        },
+        {
+          "PartText": "maybe you could stop by at 21:00 tonight?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d love to",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now that THAT is out of the way, get with the story",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I really only have three stories worth telling",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not quite 1001 night, but let\u0027s worry about that some other day",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 3,
+      "Title": "John\u0027s Story Part I: Childhood",
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "john",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": [
+        {
+          "Items": null,
+          "Text": "My mother died when I was 4 as she was hit by a drunk driver at 15:30 on a Wednesday afternoon in May, walking the 300 meters from the bus stop to our house. \r\nIt\u0027s hard to say HOW it affected me, but it definitely had an impact. In terms of everyday tangibles for one: my mother had worked part-time, so my father could put in more hours at work, and now he was left alone in charge of raising me while also having to make ends meet. It was a good thing my mother had been financially responsible enough to insist on life insurances for both of them, since it allowed us to keep the house and let my dad work less, so he could dedicate himself to what he now considered his only important responsibility: making sure I got through to adulthood. I guess I\u0027m the only person that can really evaluate his performance, and it may be said that he was competing in a field for which he didn\u0027t have much natural talent, but in terms of effort he broke the scale!"
+        },
+        {
+          "Items": null,
+          "Text": "I was a weird kid and didn\u0027t make a lot of friends growing up, and it didn\u0027t take the other kids in my class long to figure out that I was a pretty shitty playmate when I started elementary school. For the first couple of years, the state of affairs of my social life was kinda bleak: I seldom played with the other kids neither IN school nor AFTER school, but they also pretty much left me alone. That changed sometime during 3rd grade, where the social atmosphere of the classroom turned sour; hard to say why, but a gang of 4 shitty kids was at the center of it and it didn\u0027t take them long to single me out as the weakest of the herd."
+        },
+        {
+          "Items": null,
+          "Text": "During the course of maybe 3 or 4 months, they escalated the attacks from infrequent verbal bombardments to outright punches and kicks when they felt they could get away with it, and it really came to a head a week or two before the end of that school year, as they jumped me on my way home from school, and really went to work on me, continuing the assault when I was on the ground. I don\u0027t know if they stopped out of their own volition or if maybe someone happened to walk by, but when I came to they were running away and were already some 100 meters away. I felt guilty as I was walking the rest of the way home, determined not to let my father know, feeling like I should have been able to win that fight. But, of course I couldn\u0027t... keep it from him; he took one look at me and asked me what the hell had happened, and I just broke down, and he picked me up and held me and I cried and tried to tell him about it but couldn\u0027t because I cried so hard and he comforted me and I cried until at some point I was done."
+        },
+        {
+          "Items": null,
+          "Text": "When he heard my story my father did what I am sure a lot of fathers have done both before and after him: he tried to glue the shattered remains of my world together, by telling me that he loved me and would do anything to help me. And then he did what I doubt many fathers have done: he showed me just what he meant by that.\r\n \r\nHe helped me analyze the situation. We drew diagrams of the 4 boys, who their friends were, and what we knew about their families and plotted out different strategies for handling the situation. Some of the suggestions were the usual \u0027have a talk with the parents\u0027, \u0027talk to the school\u0027 and that type of thing, but we also visited some more extreme suggestions. Things like: if I threatened this kid with a knife and my father bashed in the brains of that parent, what is the likelihood of the police or the child protective services getting involved? I guess it\u0027s the sort of thing a parent may indulge a child in for them to \u0027get it out of their system\u0027 but I\u0027m pretty sure he was 100% serious. I think he would have killed himself when my mother died, had it not been for him feeling obliged to stick around to raise me, and on that day, he seemed as much at a loss as to how to handle the situation as I was."
+        },
+        {
+          "Items": null,
+          "Text": "In the end, we made the decision not to make a play right now, and instead spend the Summer in preparation. My father had a heavy bag that he would go a couple of rounds on every evening, and he had often asked if would join him, which I had always declined. During that Summer I put in at least 2 hours a day, either on the bag or in one-on-one drills with him. How much of his teachings had a genuine source in a recognized martial arts lineage and how much he just came up with on the spot I have often wondered, but I never asked him about it. As I got ready for my first day back at school, I felt really good about my chances of beating those 4 punks, even if I ended up having to take them on all at once, but as it turned out things played out very peacefully. I\u0027d go so far as to say: anti-climatic. The parents of the worst of the 4 punks had split up during Summer vacation, and both had moved out of town and this was apparently enough to completely change the dynamics of not only the group of the remaining 3 punks but pretty much our entire class. A couple of weeks into the new school year, I got what was probably a very questionable excuse at best for starting a fight with one of the remaining punks during recess, and I really let him have it! I know for a fact that I knocked out 3 of his teeth as I threw punches, elbows, knees, and kicks to his head, and I am honestly not sure I would have stopped short of killing him, had I not been dragged away by the two teachers on patrol during recess. In the end, the whole ordeal got me 2 weeks of suspension, a daily habit of working out, absolute confirmation of the length of my father\u0027s support, and most importantly: a whole new outlook on the world. Before that talk with him, I saw the world as something being run mainly by adults, just tugging me along. I now understood that I was an operator and that I could set a course for my own ship. It may be that my vessel was small and moved at a slow pace, but I could set a course and propel myself along the course."
+        }
+      ],
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John... I\u0027ve done this with other men before",
+          "Description": "looking at him, questioning"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "waiting"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And that one... was... new!",
+          "Description": null
+        },
+        {
+          "PartText": "I just have one question...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "shoot",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you love your dad... or \u0027father\u0027 as you say?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know. I\u0027ve asked myself that same question, and I don\u0027t know",
+          "Description": null
+        },
+        {
+          "PartText": "I certainly don\u0027t harbor any negative emotions towards him, and I am grateful for all that he has done for me",
+          "Description": null
+        },
+        {
+          "PartText": "I usually enjoy talking to him, although he has gotten a bit slow these last years",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe I feel guilty because he dedicated his life to raising me after my mother died...",
+          "Description": null
+        },
+        {
+          "PartText": "I think he got kind of a bum deal in life...",
+          "Description": null
+        },
+        {
+          "PartText": "losing his wife and then having to raise me, and I feel like that\u0027s something I can\u0027t pay him back for",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe some of that guilt sort of overshadows my feelings of love for him, I don\u0027t know",
+          "Description": null
+        },
+        {
+          "PartText": "My 3rd story is about a woman named Louisa I was with for 6 years, and I remember thinking that I felt a lot stronger for her than I ever did for him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think it\u0027s normal for infatuation to run at higher degrees than the love you feel for your parents",
+          "Description": null
+        },
+        {
+          "PartText": "And it\u0027s good enough for me. You are not an \u0027empath\u0027, but I\u0027m convinced you are not a psychopath either",
+          "Description": null
+        },
+        {
+          "PartText": "Let\u0027s say you have \u0027emotional blind spots\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I like that",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, that was a lovely story, John",
+          "Description": null
+        },
+        {
+          "PartText": "Strike that...",
+          "Description": null
+        },
+        {
+          "PartText": "It was a very exciting story, and I thank you for your openness...",
+          "Description": null
+        },
+        {
+          "PartText": "I always like it when we can cut the bullshit and go straight to the good stuff",
+          "Description": null
+        },
+        {
+          "PartText": "And I did agree to go tit-for-tat...",
+          "Description": null
+        },
+        {
+          "PartText": "story-wise...",
+          "Description": null
+        },
+        {
+          "PartText": "so let me just run to my desk and get my photo-journal \u0027Carol - age 0 to 10\u0027, and I will take you on a chronological tour of the \u0027Amazing life of Carol\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well...",
+          "Description": "raising his hand to object"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Relax John... I\u0027m joking",
+          "Description": null
+        },
+        {
+          "PartText": "You want to hear about Angela...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Were you close?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Mostly not. But our relationship changed a lot over the years",
+          "Description": null
+        },
+        {
+          "PartText": "We both got onboard in May of 2019 and went through the ranks of the Academy together...",
+          "Description": null
+        },
+        {
+          "PartText": "only...",
+          "Description": null
+        },
+        {
+          "PartText": "she of course did it in half the time",
+          "Description": null
+        },
+        {
+          "PartText": "Which was totally fine by me",
+          "Description": null
+        },
+        {
+          "PartText": "I had a pretty good idea that I wanted to work in Staffing, and I considered the Academy a good chance to see what this company was all about, but that was it you know...",
+          "Description": null
+        },
+        {
+          "PartText": "It didn\u0027t matter to me if I completed in 3,4,5 or 6 months",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure completing the Academy meant a whole lot to Angela either, but her mentality was just so different from mine",
+          "Description": null
+        },
+        {
+          "PartText": "It was like we were placed at the bottom of this giant heap of knowledge, and she just couldn\u0027t help herself from sprinting up the heap as fast as she could",
+          "Description": null
+        },
+        {
+          "PartText": "It wasn\u0027t even like she would dance around victoriously on top of the heap...",
+          "Description": null
+        },
+        {
+          "PartText": "She would just throw herself at whatever next unsurpassable challenge she found",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, let me do a small detour at this point, and tell you a story about Angela, that has become somewhat of a legend in the company",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 3,
+      "Title": "Angela Does FIRE",
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": [
+        {
+          "Items": null,
+          "Text": ""
+        },
+        {
+          "Items": null,
+          "Text": "So, in the Fall of 2019, business was going at a steady pace, but management felt like we had capacity for more, which I suppose we did, but Marketing and PR wasn\u0027t really nailing it in terms of coming up with a catchy campaign. So, there was an assembly in Mid-September where Donnie basically promised that if any of us could manufacture a good campaign targeting the FIRE movement - short for: \u0027Financial Independence, Retire Early\u0027 - we could cash in a bonus of 50% of the expected cost of hiring in an outside PR company. \r\n \r\nThere were a lot of teams that took a stab at it, and I know that I am biased because I generally like people here, but I think there were a lot of really good campaigns among the suggestions I saw. A professional probably could, but personally, I wouldn\u0027t be able to pick them out of a line-up with 4 campaigns made by a real PR bureau. They were really good ... but also conventional. At the end of the day: very \u0027inside-the-box\u0027."
+        },
+        {
+          "Items": null,
+          "Text": "And then there was Angela, who had graduated from the Academy 3 months prior. \r\nHer basic idea was, that you won\u0027t reach a movement of people who are \u0027fighting to liberate themselves from the tyranny of indebtedness\u0027 by throwing a bunch of conventional PR bullshit at them. She observed 2 things:"
+        },
+        {
+          "Items": [
+            "their whole lifestyle is built around analyzing markets and making decisions based on that analysis",
+            "like any other quasi-organization loosely gathered around a semi defined agenda, they receive a lot of their pre-analyzed conclusions (the term she used) from just a few oracles"
+          ],
+          "Text": null
+        },
+        {
+          "Items": null,
+          "Text": "In regards to oracles, these were mainly YouTubers and influencers on Facebook and Reddit. She reasoned, that if she could have the news of our great product broadcast through this small set of oracles, it would spread the message better than any structured campaign, but the catch of course is, that influencers are used to making their money off sponsorship\u0027s, and are therefore relatively expensive. What\u0027s worse is, that people have gotten used to this, and instinctively know what information to filter out as paid advertisement. What we really wanted, was for these so-called oracles to broadcast to the world just how great a product we had but on their own accord. And so this is the strategy she set about implementing. She had gotten a hold of a lot of raw data on how different people were connected through Facebook, LinkedIn and Reddit, and to what extent they interacted with each other\u0027s posts, and based on this, she was able to construct a super elaborate graph of interrelations in the target demographic. She analyzed the data for interesting vertices on the graph, and in doing so pinpointed 15 regular Joe Schmoes, whose impact on the oracles of the community she conjectured would be enough to sway them in our favor. Normal, everyday people, working everyday jobs and leading everyday lives hoping to retire maybe 10 years ahead of time. People you wouldn\u0027t recognize if you saw them on the street, but who would spend 2 hours in dedication to \u0027the cause\u0027 every day, either analyzing on their own behalf or sharing content in closed social network groups. She took a week off from her job and went to work on these 15 people, visiting each and everyone; sometimes under the guise of being a fellow aficionado, sometimes just \u0027happening to bump into them\u0027. And she made herself liked! And more importantly, she got them sold on just how amazing a product portfolio we have here at FinaLibre. On a few occasions, the targets expressed that they found our platform lacking in terms of integration, and she would reply along the lines of: \u0027Oh Gosh! Aren\u0027t you just right... and such a darn shame, because I like everything else about them. You know what, let\u0027s write them an email\u0027 and then she or the target would write an email to a fictional guy at FinaLibre, who would then reply within the time it took for her to get onto the FinaLibre VPN, something like \u0027Good Golly! That\u0027s a great idea. We\u0027ll have it in production within the week\u0027, and you know what? She did have it in production within the week, either by doing the feature request herself and then convincing the relevant Product Owner to approve it for deployment, or just straight-up convincing the relevant team to implement and release the feature."
+        },
+        {
+          "Items": null,
+          "Text": "A week! She spent 7 days going around the country talking to people and doing follow-ups, until the ball got rolling, and it was a giant boulder heading downhill FAST! I remember being at work on a Tuesday at the end of September, when someone came rushing in, threw up a YouTube-clip on the monitor, and told us: \u0027you are not going to believe this\u0027. In just 3 days, every major influencer within the community was talking up FinaLibre with phrases like: \u0027EVERYBODY IN THE COMMUNITY KNOWS ABOUT THIS COMPANY, BUT IN CASE YOU\u0027VE BEEN OUT OF THE COUNTRY...\u0027. 15 people is what constitutes \u0027EVERYBODY\u0027. Our costumer-commitment and AUM grew by a factor of 3 within 10 days, a growth we have never come close to neither before nor after. And the atmosphere at the office was electric! We were blowing up! And of course everybody wanted to know who or what was behind this sudden interest in our product, and management held assemblies where they told anyone in possession of knowledge of how this had come about to step forward and be rewarded, and when nobody stepped forward no matter how insistently management asked them to, everybody just assumed that it probably was just a really lucky strike, and that Lady Fortuna was just rewarding us for having a really great product."
+        },
+        {
+          "Items": null,
+          "Text": "That is: almost everybody. Donnie and a few of the people from Marketing and PR - the people who are used to measuring PR exposure - knew that this kind of exposure does not come by accident, and Donnie somehow managed to figure out Angela\u0027s involvement in the case. And so he approached her, and congratulated her on a job well done, and told her that he had this 1 million EUR pot of money that he would basically reward her with. And she declined. And she kept declining and insisted that she be paid for the overtime she had put in and be refunded her vacation-days and the money she had spent on transportation, but that she did not under any circumstances want to receive any other payment for her work on the campaign, and eventually Donnie relented to her demand, and so she received a total of 7.600 EUR for the campaign. She also asked that her involvement not be known within the company, and Donnie agreed to this, but these kinds of things have a way of making themselves known whether you like it or not, and if Angela had wanted to remain \u0027a regular old employee like everybody else\u0027, she achieved the exact opposite as rumors raised her to legendary status."
+        },
+        {
+          "Items": null,
+          "Text": ""
+        }
+      ],
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now, I was just as much in the dark about all of this as everyone else at the time",
+          "Description": null
+        },
+        {
+          "PartText": "I knew from the Academy that she was really talented, but other than that, I had no idea",
+          "Description": null
+        },
+        {
+          "PartText": "She told me her side of the story only a year ago when I knew her better",
+          "Description": null
+        },
+        {
+          "PartText": "And when I asked her why she had refused proper compensation, do you know what she said?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "She wanted to know if you could implement a winning PR-strategy on 7600 EUR",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s right...",
+          "Description": null
+        },
+        {
+          "PartText": "which is a little eerie...",
+          "Description": null
+        },
+        {
+          "PartText": "you know, you kinda remind me of her in some ways",
+          "Description": "looking at John in a scrutinizing manner"
+        },
+        {
+          "PartText": "You vibe some of the same intensity she did",
+          "Description": null
+        },
+        {
+          "PartText": "Did you know her?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not at all... Only heard about her this morning",
+          "Description": null
+        },
+        {
+          "PartText": "But that\u0027s what I would be thinking...",
+          "Description": null
+        },
+        {
+          "PartText": "That I would want to live in a world, where I could have massive impact on a budget of 7600 EUR and good reasoning",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes... that\u0027s of course very much in line with your story...",
+          "Description": null
+        },
+        {
+          "PartText": "But still a little eerie",
+          "Description": "shrugging it off"
+        },
+        {
+          "PartText": "Well, anyways, whether she liked it or not, by the end of 2019 she had already risen to stardom within the company, and her job on the campaign got her out of the Transaction and Settlements Team where she had originally landed after the Academy",
+          "Description": null
+        },
+        {
+          "PartText": "Organization-wise she was officially placed in the Fund Accounting Team, because their team lead is the only one who at this point felt comfortable having HR responsibility over her...",
+          "Description": null
+        },
+        {
+          "PartText": "he\u0027s this funny little guy who is used to working with special-needs people...",
+          "Description": null
+        },
+        {
+          "PartText": "...though there were concerns about the possibility of crude behavior on his end when alcohol consumption was involved...",
+          "Description": "trailing off"
+        },
+        {
+          "PartText": "Luckily, we never heard of any incidents in Staffing",
+          "Description": null
+        },
+        {
+          "PartText": "but...",
+          "Description": "getting back on track"
+        },
+        {
+          "PartText": "unofficially, she was pretty much free to work on whatever she wanted",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How was your relationship with her at this point?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It was strained",
+          "Description": null
+        },
+        {
+          "PartText": "I didn\u0027t talk to her much",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s not that I avoided her per se, but we usually didn\u0027t have any reason to talk to each other, and so we usually... didn\u0027t",
+          "Description": null
+        },
+        {
+          "PartText": "And what made matters worse, was the subject of Frank",
+          "Description": null
+        },
+        {
+          "PartText": "Frank is the guy from the interview yesterday, in case you had forgotten",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Indeed I had... Thank you",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know if you\u0027ve noticed, but most women - and a couple of men - here at FinaLibre have a major thing for Frank",
+          "Description": null
+        },
+        {
+          "PartText": "Frank was always extremely charismatic, and had this \u0027knight-in-shining-armor\u0027-glow to him, even before he went middle management",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I find that surprising because that\u0027s not how he came across to me yesterday",
+          "Description": null
+        },
+        {
+          "PartText": "He seemed kinda hostile, and not super charismatic",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, in your case, it may be a case of \u0027what-you-give-is-what-you-get\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "or maybe he was just stressed out...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll concede, that the years have taken a hard toll on him, and it may be, that some of us still see him in that glow of the past",
+          "Description": null
+        },
+        {
+          "PartText": "But anyway: Frank hadn\u0027t made middle management back in 2019, but he had made a name for himself, and practically everyone liked him",
+          "Description": null
+        },
+        {
+          "PartText": "Personally, I liked him a lot",
+          "Description": null
+        },
+        {
+          "PartText": "To be Frank (pun intended): I was head over heals with him, but Frank only had eyes for one person - this was before he met his wife - and can you guess who that was?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m going to go out on a limb here, and say Angela...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "BINGO!",
+          "Description": null
+        },
+        {
+          "PartText": "And the tragedy to it all: Angela practically didn\u0027t know he existed",
+          "Description": null
+        },
+        {
+          "PartText": "She certainly didn\u0027t see what all the hype was about",
+          "Description": null
+        },
+        {
+          "PartText": "And unbeknownst to me at the time, this was the start of a miserable tradition of men I was in love with falling head over heels in love with Angela",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And this made you hate her...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Objection your honor, the interviewer is leading the witness!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Granted, I withdraw the question",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you",
+          "Description": null
+        },
+        {
+          "PartText": "No, I didn\u0027t hate her",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t think I ever hated her, though I certainly was angry with her at times",
+          "Description": null
+        },
+        {
+          "PartText": "No, at that point, I just felt ... defeated, I think",
+          "Description": null
+        },
+        {
+          "PartText": "As it happened again and again it really got to me and my self-esteem and at times I felt pretty useless",
+          "Description": null
+        },
+        {
+          "PartText": "And then at some point, I decided that I was through sulking, and that I would do something about it instead, and so I decided to figure out what it was about Angela that had us playing out this same drama over and over",
+          "Description": null
+        },
+        {
+          "PartText": "And so I approached her and told her something like:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Hi Angela, my name is Carol, and though you may not be aware of it, I took up employment here at FinaLibre the same day as you, back in May of 2019",
+          "Description": null
+        },
+        {
+          "PartText": "Since then I have on 3 separate occasions experienced falling in love with a man who has later gone head-over-heals with you, and I need to break this pattern",
+          "Description": null
+        },
+        {
+          "PartText": "I want to get on friendly terms with you to get a better understanding of our differences and hopefully be able to break this unhealthy cycle in my own life",
+          "Description": null
+        },
+        {
+          "PartText": "And do you know what her response was?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No... Not really... But she can\u0027t have been upset by that proposal, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s what I figured as well, and she wasn\u0027t upset, but I was a little upset by how naturally she accepted it and just moved on, seemingly without giving the matter any further thought",
+          "Description": null
+        },
+        {
+          "PartText": "Her response was something like: \u0027Oh, hi Carol... I remember you. Sounds like a great plan. I\u0027m in!\u0027 and then she continued what she was doing.",
+          "Description": null
+        },
+        {
+          "PartText": "And with that, we were friends... sort of",
+          "Description": null
+        },
+        {
+          "PartText": "The thing about our friendship was, that it was...",
+          "Description": null
+        },
+        {
+          "PartText": "kinda one-sided... to an extent at least",
+          "Description": null
+        },
+        {
+          "PartText": "I want to say, that the initiative was always on me, but that wouldn\u0027t be entirely true",
+          "Description": null
+        },
+        {
+          "PartText": "I would be the one to suggest trying out new activities, like going to bars and going to the movies and when she knew that I liked something, she might write me on Thursday nights and ask:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Do you want to go to Willy\u0027s after work tomorrow?\u0027, but...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t know, it was like, if I hadn\u0027t worked to maintain our friendship, then...",
+          "Description": null
+        },
+        {
+          "PartText": "she would have happily moved on and forgotten all about me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "To be fair, you were the one who wanted the friendship to begin with...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, but she agreed to it so she shouldn\u0027t just lean back and me do all the heavy lifting!",
+          "Description": null
+        },
+        {
+          "PartText": "... I don\u0027t know... you are right of course, but Angela just seemed so damn selfish at times",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It isn\u0027t really for me to say in any case, and she probably was selfish...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Did she care about you? Did you have a feeling she valued your friendship?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... I guess that\u0027s the 1 million dollar question, isn\u0027t it...?",
+          "Description": null
+        },
+        {
+          "PartText": "I often asked myself that, and I\u0027m still not sure",
+          "Description": null
+        },
+        {
+          "PartText": "I think she liked me, to the extent that she liked having friends, but I just don\u0027t think having friends was on her top 5",
+          "Description": null
+        },
+        {
+          "PartText": "I think maybe she thought about me the same way you think about your father...",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, of course, you and your father is different, but the feeling you have, that feeling of gratitude and \u0027not harboring any ill will\u0027, I had a feeling she felt like that...",
+          "Description": null
+        },
+        {
+          "PartText": "as far as friends go, I was alright, but her mission was more important that having friends",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What was her mission?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess you had to ask...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t know... And I\u0027m not sure she did neither",
+          "Description": null
+        },
+        {
+          "PartText": "But if I had to guess, I think she was searching for a cure for her loneliness",
+          "Description": null
+        },
+        {
+          "PartText": "It was a sense I got near the end of our friendship, that that\u0027s what it was all about: curing her loneliness",
+          "Description": null
+        },
+        {
+          "PartText": "I had a mental image of her as The Little Matchgirl...",
+          "Description": null
+        },
+        {
+          "PartText": "looking in from the cold, and that image explains - to me at least- most of her unusual behavior:",
+          "Description": null
+        },
+        {
+          "PartText": "she would fall in love with someone, and then go all-in emotionally...",
+          "Description": null
+        },
+        {
+          "PartText": "she\u0027d lay herself bare and just dish out her soul, like:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027these are my bad habits, these are my bad experiences\u0027 and so on...",
+          "Description": null
+        },
+        {
+          "PartText": "and just naturally assume the same openness and when the other person would inevitably fail to live up to her expectations...",
+          "Description": null
+        },
+        {
+          "PartText": "she\u0027d lose all interest and send them on their way",
+          "Description": null
+        },
+        {
+          "PartText": "She had a thing going with one of the douchebags from Client Management back in 2021...",
+          "Description": null
+        },
+        {
+          "PartText": "It was one of those things that no one really understood...",
+          "Description": null
+        },
+        {
+          "PartText": "but well, they got together at a party on a Friday, and when he came into the office on Monday he was very clearly on top of the world...",
+          "Description": null
+        },
+        {
+          "PartText": "Some of these douchebags have a way of objectifying romantic endeavors...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s not like keeping score or anything...",
+          "Description": null
+        },
+        {
+          "PartText": "or well, actually I wouldn\u0027t put that past them either, but anywho:",
+          "Description": null
+        },
+        {
+          "PartText": "he was very clearly the shit, because keep in mind, Angela was somewhat of a local celebrity here, and they started hanging out together and this jerk did a 180-personality change...",
+          "Description": null
+        },
+        {
+          "PartText": "like all of a sudden he had a soul, and it was like talking to a real human being with real human emotions when you talked to him...",
+          "Description": null
+        },
+        {
+          "PartText": "and then after 3 weeks, Angela had apparently had enough, and dumped him",
+          "Description": null
+        },
+        {
+          "PartText": "And the guy fell apart",
+          "Description": null
+        },
+        {
+          "PartText": "I was half expecting him to revert to his old douchebag self and conclude that this sensitivity bullshit was not for him, but he didn\u0027t do that",
+          "Description": null
+        },
+        {
+          "PartText": "He just fell apart, and for each day that went by, he looked more and more miserable, and after a month of watching this man slowly deteriorate, I think all of us were WISHING for him to revert to his old douchebag ways, but he didn\u0027t",
+          "Description": null
+        },
+        {
+          "PartText": "He quit the company soon thereafter, and I was legitimately worried that he would kill himself",
+          "Description": null
+        },
+        {
+          "PartText": "I wanted to reach out, but I was afraid that with me being a woman and all, that he would fall in love with me and cling to me for salvation and I couldn\u0027t do that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think your assessment was pretty solid for what it\u0027s worth",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Didn\u0027t some of his male friends reach out?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think a few did, but I don\u0027t have any details on that",
+          "Description": null
+        },
+        {
+          "PartText": "In any case, he\u0027s engaged now and his fiance is expecting and he is working as an accountant in the public sector, so I guess everything turned out alright for him in the end, but I\u0027m not sure it\u0027s any thanks to Angela...",
+          "Description": null
+        },
+        {
+          "PartText": "Or maybe it was entirely thanks to Angela and he needed that wake-up call, but then I can\u0027t help but feel that she was sort of gambling with the man\u0027s happiness",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm... I\u0027m not sure if it\u0027s an opinion I can defend, but it seems to me, that whether or not she was in love with the guy makes all the difference...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know where you are coming from, and for the record:",
+          "Description": null
+        },
+        {
+          "PartText": "I agree with you to a large extent, but this was neither the first nor the last time it happened",
+          "Description": null
+        },
+        {
+          "PartText": "I can justify falling in love and inadvertently hurting someone in the roaring storms of infatuation...",
+          "Description": null
+        },
+        {
+          "PartText": "once, twice, thrice, but at some point, it becomes a pattern that you have a responsibility to be aware of",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Like a cocked gun; loaded with love",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, something like that I guess...",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "For reasons that we can come back to another day, this specific moral problem interests me, so out of curiosity: how do you think Angela should have gone about handling her \u0027gun-of-love\u0027?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d like that John...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Well, if we keep to the analogy of the loaded gun, I think she could at least have taken it to the countryside, away from people in general...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "This is probably a dumb question because there are a lot of details about this story I don\u0027t have, but is it possible that that is what Angela was doing when she took her \u0027gun-of-love\u0027 to the soulless outskirts of Client Management...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmm... I never really thought about it like that",
+          "Description": null
+        },
+        {
+          "PartText": "But I need to remind myself that Angela and I had very different views of the world...",
+          "Description": null
+        },
+        {
+          "PartText": "I never really saw the guy as soulless... just extremely immature...",
+          "Description": null
+        },
+        {
+          "PartText": "If Angela interpreted his behavior as a lack of soul...?",
+          "Description": null
+        },
+        {
+          "PartText": "Well, I guess it\u0027s possible",
+          "Description": null
+        },
+        {
+          "PartText": "It makes as much sense as any explanation I have been able to come up with myself, so who knows?",
+          "Description": null
+        },
+        {
+          "PartText": "There are a lot of other examples, and most of these guys were definitely NOT soulless bastards...",
+          "Description": null
+        },
+        {
+          "PartText": "but there could of course have been some other triggering trait...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s an interesting idea: that she chose to fall in love with someone based on specific traits...",
+          "Description": null
+        },
+        {
+          "PartText": "but also somewhat of a chilling thought...",
+          "Description": null
+        },
+        {
+          "PartText": "That just makes her seem even more calculating",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... or desperate?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I suppose...",
+          "Description": null
+        },
+        {
+          "PartText": "Desperation was definitely a huge theme in her life",
+          "Description": null
+        },
+        {
+          "PartText": "Besides from pursing romantic love, she also pursued what you may call \u0027universal love\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "She regularly engaged in altruistic causes...",
+          "Description": null
+        },
+        {
+          "PartText": "anything from raising money for victims of war and natural disasters to doing visitations at hospices, and to the best of my knowledge, she was the perfect volunteer:",
+          "Description": null
+        },
+        {
+          "PartText": "worked hard, kept her head down, and never asked for anything in return...",
+          "Description": null
+        },
+        {
+          "PartText": "well, not anything tangible anyways",
+          "Description": null
+        },
+        {
+          "PartText": "We talked about it one time we were out on the town and she told me about the different types of volunteer work she did, and I said something like:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027That must be really fulfilling\u0027 and do you know what she said?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "She didn\u0027t feel anything...",
+          "Description": null
+        },
+        {
+          "PartText": "She had hoped to feel a connection to the greater body of humankind, but she felt nothing",
+          "Description": "seemingly far away in thought"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s close enough to be kinda scary...",
+          "Description": null
+        },
+        {
+          "PartText": "Is there something you are not telling me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No, but I know the sentiment",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m going to go out on a limb and take a wild swing:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027At some point she became resigned, withdrew to some extent and took on an air of the Sisuphys struggle\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "She gave up her frantic search for love, and tried to find peace in just going through life...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes John... That\u0027s more or less what happened",
+          "Description": null
+        },
+        {
+          "PartText": "John...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve gotta be honest with you...",
+          "Description": null
+        },
+        {
+          "PartText": "when we agreed to meet up tonight...",
+          "Description": null
+        },
+        {
+          "PartText": "I was just looking for shits and giggles",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now I have this feeling like it may not be all fun and games with you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You may be right",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you going to hurt me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "I would never physically hurt you...",
+          "Description": null
+        },
+        {
+          "PartText": "unless you went crazy and became a major threat to public safety of course",
+          "Description": "vague smile"
+        },
+        {
+          "PartText": "I won\u0027t intentionally hurt you emotionally, but I don\u0027t play on a full scale of emotions",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s like the middle half of the keyboard is missing",
+          "Description": null
+        },
+        {
+          "PartText": "Do you want to cancel tonight?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "thinking it over"
+        },
+        {
+          "PartText": "... No",
+          "Description": null
+        },
+        {
+          "PartText": "If nothing else, I may learn something from this",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m happy to hear it",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I should probably get back to this assignment if I want to have any hope of making it through to the 2-week mark, but I\u0027m really glad you shared your knowledge of Angela with me",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know what: so am I!",
+          "Description": null
+        },
+        {
+          "PartText": "But I don\u0027t want to talk about her tonight, alright?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Then I\u0027m looking forward to seeing you tonight John",
+          "Description": "getting up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, one more thing...",
+          "Description": null
+        },
+        {
+          "PartText": "I think something happened during the last couple of weeks of her life...",
+          "Description": null
+        },
+        {
+          "PartText": "We weren\u0027t really talking at that point, but I heard on the grapevine that she had become sort of \u0027re-energized\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Had she started seeing someone?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I really don\u0027t know, I\u0027m sorry",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027ll let you know if I hear anything",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 16,
+  "ChapterHash": "EHT7UvDOdI5Rh0n0g2nua2fFjUT5ejxePmEgVHPQdjZfyDyqq\u002BurTnjAFKQkm9lHlOZdTp63DIR72q0o\u002BQZ9Pg==",
+  "Video": {
+    "FileName": "deep-sea.gif",
+    "AttributionText": "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

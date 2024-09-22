@@ -1,0 +1,1195 @@
+{
+  "ChapterDate": "2024-05-29T00:00:00",
+  "ChapterName": "John is Riddled",
+  "ChapterFileName": "2024-05-29-Johns First Dream.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John is jogging towards the train station, cursing his poor time management skills. He has a feeling like he had been on time right up until it was time to actually leave the apartment, and then something had happened, and now he is running late. John believes that he can still make his train if only he runs the rest of the way. It\u0027s still pretty chilly for a Summer morning, but he may have to take a shower and change when he gets into the office, but it beats having to wait 20 minutes for the next train to Thousand Acre Forest. \r\nJohn doesn\u0027t immediately recognize the old lady when he runs by her, but when she calls out his name, he knows that there is no getting around it. He\u0027s going to have to be polite, and stop and have a talk with her. He owes Miss Jansen that much.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "JOHN! Is that you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So it is, Miss Jansen",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What has it been? 10 years since I saw you last?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That sounds about right",
+          "Description": "smiling a somewhat shallow smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You were always such a GOOD boy!",
+          "Description": null
+        },
+        {
+          "PartText": "And what a shame what happened to your mother!",
+          "Description": null
+        },
+        {
+          "PartText": "Is your father doing alright?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "My father is doing alright",
+          "Description": null
+        },
+        {
+          "PartText": "I think he has made some friends and started seeing people after I moved out",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I am really glad to hear it",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John doesn\u0027t doubt it. Miss Jansen had been really good to him in school, and even as a child, John sensed that Miss Jansen was trying really hard in her own little way to correct a wrong, that a machinery outside anyone\u0027s control and influence had inflicted on him and his father, and he had always felt grateful for that. John had grown up without a mother, step-mother or even a \u0027Father\u0027s regular call girl\u0027 in his life, but the closest thing he had had to a mother figure in his life growing up, was Miss Jansen. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You were always so talented when it came to mathematics",
+          "Description": null
+        },
+        {
+          "PartText": "I bet you work with computers and numbers now, don\u0027t you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well...",
+          "Description": null
+        },
+        {
+          "PartText": "I sort of got a little side-tracked and never really pursued math...",
+          "Description": "a little embarrassed"
+        },
+        {
+          "PartText": "But I may be turning it around now",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s lovely!",
+          "Description": null
+        },
+        {
+          "PartText": "I sometimes fear that maybe I smothered you as a child, and didn\u0027t let you realize your full potential...",
+          "Description": null
+        },
+        {
+          "PartText": "letting you slide through life too easy",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Certainly not!",
+          "Description": null
+        },
+        {
+          "PartText": "Well, you may have made life easier for me, but I\u0027m not sure I would have been a very nice person today if it wasn\u0027t for your influence",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But you are a nice person now?",
+          "Description": "looking at him a little eerily"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d like to think so...",
+          "Description": null
+        },
+        {
+          "PartText": "Look, Miss Jansen, it\u0027s great to see you again but I\u0027m running a little late and...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ve got one for you!",
+          "Description": null
+        },
+        {
+          "PartText": "How do you make a square radical?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is it a joke or a puzzle?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Does that make any difference John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It does narrow down the search a little",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, it\u0027s a little of both, I suppose...",
+          "Description": null
+        },
+        {
+          "PartText": "Like so many other things in life",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm... I can\u0027t figure it out",
+          "Description": null
+        },
+        {
+          "PartText": "How do you make a square radical Miss Jansen?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No John!",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not going to let you take the easy way out this time!",
+          "Description": null
+        },
+        {
+          "PartText": "You have to apply yourself!",
+          "Description": null
+        },
+        {
+          "PartText": "Anyways, you don\u0027t have to figure it out right now",
+          "Description": null
+        },
+        {
+          "PartText": "Why don\u0027t you think about it a little, and see if maybe it comes to you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John is starting to get a bad feeling about the situation. Miss Jansen is definitely not the teacher he remembered from 9 years of elementary school, and there is something about the way she looks at him that makes him feel uneasy.  \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m going now",
+          "Description": "stern face as he walks by her"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Have you been to see the girl in the lake lately?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John could kick himself for not having seen it before. There really had been plenty of clues: he had been late getting out the door because \u0027something had happened\u0027, but he couldn\u0027t remember what that something was, could he? Miss Jansen calling him \u0027John\u0027, but that\u0027s not the name she knew him by! And somehow, Miss Jansen didn\u0027t seem to have aged at all during the last 10 years. Just to be certain, John looks at the tattoo on the inside of his wrist... \u0027zZzleep\u0027... What is it supposed to say again... \u0027AWAKE\u0027 he believes. Well, he is definitely dreaming. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That got your attention, didn\u0027t it",
+          "Description": null
+        },
+        {
+          "PartText": "Why do you always run away from her?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Because she\u0027s a murderous bitch who\u0027s going to drown me in that lake if I get close enough to let her",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How will you know before you\u0027ve tried it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John DID know, because John HAD tried it, and there were other things wrong with the Lake-Girl scene that totally justified John\u0027s urge to suppress it.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What do you want Miss Jansen?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I want you to apply yourself John!",
+          "Description": null
+        },
+        {
+          "PartText": "You had so many options available to you, and you flushed them all down the pisser with drugs and anger issues!",
+          "Description": null
+        },
+        {
+          "PartText": "Most of your life, you\u0027ve breezed through, always picking the path of least resistance, and when life gave you lemons...",
+          "Description": null
+        },
+        {
+          "PartText": "you either threw them away in anger or beat someone up and mugged them so you had money to buy soda pop",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s not entirely true",
+          "Description": null
+        },
+        {
+          "PartText": "But you have made your point, and I have gotten the message",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s good John!",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s what I wanted to hear!",
+          "Description": null
+        },
+        {
+          "PartText": "You are running behind schedule, but you can still make it if you put a little elbow grease into it",
+          "Description": null
+        },
+        {
+          "PartText": "But there are things you need to know:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " YOU HAVE TO SEE THE GIRL IN THE LAKE!",
+        " YOU HAVE TO WALK THROUGH THE LONG HALLWAY",
+        " AND YOU MUST CONFRONT WHAT HIDES IN THE SHADOWS"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What is hiding in the shadows?",
+          "Description": null
+        },
+        {
+          "PartText": "There\u0027s a man isn\u0027t there?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The shadows are YOUR domain, John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What hallway are you talking about?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Start with the girl in the lake John...",
+          "Description": null
+        },
+        {
+          "PartText": "you\u0027ll find out about the hallway later...",
+          "Description": null
+        },
+        {
+          "PartText": "but John...",
+          "Description": null
+        },
+        {
+          "PartText": "didn\u0027t you have a train to catch?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As the old lady says this, John is immediately reminded of the urgency he felt before meeting her, and sets off running to catch it. There is something of utmost importance on that train!\r\nJohn enters the loading area of the train station, in time to glimpse the train disappearing behind the first bend in the tracks on the way to Thousand Acre Forest, and the disappointment overwhelms John with roaring fury.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "FFFFFUUUUUUUUCCCCCCKKKKKK!!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "job interview guy",
+        "CharacterName": "Job interview guy",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now John, we can\u0027t have that tone here at FinaLibre",
+          "Description": null
+        },
+        {
+          "PartText": "We are a respectable company and you can\u0027t go around acting like you would with your junkie and hooker friends",
+          "Description": null
+        },
+        {
+          "PartText": "You are simply going to have to apply yourself now",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, we\u0027re not at FinaLibre now, are we?",
+          "Description": "angrily"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "job interview guy",
+        "CharacterName": "Job interview guy",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you being insubordinate?",
+          "Description": "shocked"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No sir, I\u0027m not being insubordinate",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m letting out emotions, which is something real people do, so they don\u0027t explode in fits of screaming rage at the slightest provocation",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "job interview guy",
+        "CharacterName": "Job interview guy",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, you are just going to have to find a more civil outlet for your frustration!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "At this point, John has started to dress down, taking off his tie and cuff links. It\u0027s not that it really matters, with this being a dream and all and what does he care if he gets his imaginary suit dirty, but he kind of likes the ritual. It\u0027s a little like cracking your knuckles and neck.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "job interview guy",
+        "CharacterName": "Job interview guy",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t like that look in your eyes, young man!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Keep talking",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Job interview guy does keep talking and screaming and crying as long as he remains conscious, but even though John\u0027s mind finds excuses to keep the man alive and screaming, he knows that the therapy session must end at some point. As he walks out of the train station, the cleaning crew comes rushing in to clean up the blood and various other body fluids the bloody corpse has expulsed during the massacre. \r\nThe next thing John is aware of is, that he is passing through that small passageway between dream and awake; the point where you know you are awake, but can still remember your dream. John reaches out for his phone, and sends himself a message that reads:\r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " GET ON THAT TRAIN",
+        " lake girl",
+        " long hallway",
+        " the shadows... Shadow-Man?",
+        " remember tattoo-check! IMPORTANT!"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "\r\nAfter replaying the dream once again, he adds: How do you make a square radical?",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 19,
+  "ChapterHash": "9TtefsFoEJGDqmnxAJWipUvS0ENHjNkwSRvZUYeaLzp6kIBMz9q9bItqujOxSJ0u9FOVS25cssqowLJfRHouFg==",
+  "Video": {
+    "FileName": "floating-clouds.gif",
+    "AttributionText": "Floating Clouds Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/floating-clouds"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Shadows Into Light",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Shadows Into Light",
+    "TheFontFamily": "Shadows Into Light",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

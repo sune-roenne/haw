@@ -1,0 +1,37 @@
+﻿@using ThousandAcreWoods.UI.Configuration
+@using Microsoft.Extensions.Options
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    @if(_appBase != null)
+    {
+        <base href="@_appBase" />
+    }
+    <link rel="stylesheet" href="bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="./app.css" />
+    <link rel="stylesheet" href="./fonts.css" />
+    <link rel="stylesheet" href="ThousandAcreWoods.UI.styles.css" />
+
+    <link rel="stylesheet" href="bootstrap-icons/font/bootstrap-icons.css" />
+    <link rel="icon" type="image/x-icon" href="images/Favicon.ico">
+    <script src="javascript/jquery.js"></script>
+    <HeadOutlet />
+</head>
+
+<body>
+    <Routes @rendermode="InteractiveServer" />
+    <script src="_framework/blazor.web.js"></script>
+</body>
+
+</html>
+
+
+@code {
+    [Inject]
+    public IOptions<ServiceConfiguration> ServiceConf { get; set; }
+
+    private string? _appBase => string.IsNullOrWhiteSpace(ServiceConf.Value.PathBase)  ? null : $"/{ServiceConf.Value.PathBase.ToLower()}/";
+}

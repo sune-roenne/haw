@@ -1,0 +1,177 @@
+{
+  "ChapterDate": "2024-05-30T00:00:00",
+  "ChapterName": "John Misses the Train Again",
+  "ChapterFileName": "2024-05-30-Johns Second Dream.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John is walking to the train station on a bright Summer morning and he is on time. When he closes in on the train station, he sees his old Elementary School teacher Miss Jansen, looks to his own wrist and sets off sprinting for the train. John is running on fumes when he reaches the platform of the station, just in time to see his train setting off. He pulls hard on the throttle of his own energy supply in a last-ditch attempt to catch the train, but for all his intent and resolve, he only catches a glimpse through the windows of someone who looks a little like the dead woman from work... Angela... before the train has accelerated out of reach.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "arrogant voice",
+        "CharacterName": "Arrogant voice",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You look like a young man who was just in time to realize he missed his train",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John is leaning his weight on his knees with both hands trying to catch his breath, his back turned to the arrogant voice. At the sound of the voice, he raises his one hand above his head, all five fingers outstretched. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "arrogant voice",
+        "CharacterName": "Arrogant voice",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The least you can do is respond young man!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John\u0027s thumb hides behind the palm of the hand, leaving four outstretched fingers.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "arrogant voice",
+        "CharacterName": "Arrogant voice",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know, that\u0027s why you\u0027re never going to amount to anything John! Bad attitude!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Three fingers.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "arrogant voice",
+        "CharacterName": "Arrogant voice",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I have had enough of this John! You\u0027re fired!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John is reminded of how hard it is to keep just the little- and ring finger outstretched and it doesn\u0027t matter: he has caught his breath. \r\nJohn turns around and initiates the blood bath with a push kick to the Job Interview Guy\u0027s chest, and 10 minutes later he walks out of the station. He still has a feeling of failure and regret about missing his train, but it\u0027s a lot less intense after therapy. ",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 20,
+  "ChapterHash": "1vA/d8qGZAun8FoHUfaSnTCD5aGLSkVsV0QnO/1T2Su16/eLmQqfOLMFZixTBGYuSIRzTM\u002Bh6XaFdcxUv/ddWQ==",
+  "Video": {
+    "FileName": "floating-clouds.gif",
+    "AttributionText": "Floating Clouds Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/floating-clouds"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Shadows Into Light",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Shadows Into Light",
+    "TheFontFamily": "Shadows Into Light",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

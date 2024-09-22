@@ -1,0 +1,80 @@
+﻿@using NYK.Collections.Extensions
+@using ThousandAcreWoods.Book.Hosting.Wasm.Model
+<div class="taw-site-ata">
+    <div class="taw-site-ata-header">
+        About
+    </div>
+    @if(_data != null)
+    {
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-1"></div>
+                <div class="col-7">
+                    <div class="containter-fluid">
+                        @foreach(var cont in _data.Content)
+                        {
+                            if(cont is SiteChapterSection sec)
+                            {
+                                <div class="row taw-site-ata-section-row">
+                                    <div class="col-12">
+                                        <div class="taw-site-ata-section-header">@sec.Title</div>
+                                    </div>
+
+                                </div>
+                            }
+                            else if (cont is SiteNarration narr)
+                            {
+                                <div class="row taw-site-ata-narration-row">
+                                    <div class="col-12">
+                                        <div class="taw-site-ata-narration">
+                                            @narr.NarrationContent
+                                        </div>
+                                    </div>
+                                </div>  
+                            }
+                            else if (cont is SiteNarrationList lis)
+                            {
+                                <div class="row taw-site-ata-narration-list-row">
+                                    <div class="col-12">
+                                        <ul class="taw-site-ata-narration-list">
+                                            @foreach (var li in lis.Items.Where(_ => _.Length > 1))
+                                            {
+                                                var splitted = li.Split(":");
+                                                if(splitted.Length > 1)
+                                                {
+                                                    <li><b>@(splitted[0]):</b>@(splitted.Skip(1).MakeString(""))</li>
+                                                }
+                                                else
+                                                {
+                                                    <li>@li</li>
+                                                }
+
+                                            }
+                                        </ul>
+                                    </div>
+                                </div>
+                            }
+
+                        }
+
+
+                    </div>
+                </div>
+                <div class="col-3">
+                    <img class="taw-site-ata-author-img" src="images/the-author.webp" />
+                </div>
+                <div class="col-1"></div>
+
+             </div>
+        </div>
+    }
+
+    <div class="taw-site-ata-bts-btn-holder">
+        <button class="btn btn-sm btn-outline-light" style="color: black;" @onclick="(() => OnBackToStoryClicked())">@("<<") Back to story</button>
+    </div>
+
+    <div class="taw-site-ata-border-license-box">
+        <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://angelaandjohnforever.com/">Angela & John Forever</a> by <span property="cc:attributionName">Sune Rønne</span> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+    </div>
+
+</div>

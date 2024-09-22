@@ -1,0 +1,1472 @@
+{
+  "ChapterDate": "2024-06-12T00:00:00",
+  "ChapterName": "John Follows Angela Into the Dark",
+  "ChapterFileName": "2024-06-12-A-John Kills Frank and Follows Angela into The Dark.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What are you doing?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "God\u0027s work...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "r/RelationshipAdvice?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If you want to help people, you need to go to where people need help",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "reading"
+        },
+        {
+          "PartText": "... \u0027Life is short and when you look back on a life, very few things really matter...\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "... \u0027When you have washed away all of the impurities, the only thing that remains is the pure morphine extract called LOVE\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "... \u0027Trust your heart and believe in love my friend, it\u0027s supposed to be through thick and thin\u0027...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can\u0027t possibly disagree with that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "To a dude who\u0027s caught his wife cheating for the 5th time?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sound advice is sound advice...",
+          "Description": null
+        },
+        {
+          "PartText": "and I\u0027m not forcing him to follow it, am I?",
+          "Description": null
+        },
+        {
+          "PartText": "You know, people need to learn to maintain a critical mind about \u0027online\u0027 and if it takes this guy sitting through 5 more affairs to learn that...",
+          "Description": "gesturing \u0027then that\u0027s a sacrifice I am willing to make\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugs"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What can I do for you, John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "A couple of things...",
+          "Description": "handing Sune an envelope"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is this you and Angela\u0027s \u0027naughty photo memory stash\u0027?",
+          "Description": null
+        },
+        {
+          "PartText": "... oh... No...",
+          "Description": null
+        },
+        {
+          "PartText": "what would be kinda wrong, wouldn\u0027t it?",
+          "Description": null
+        },
+        {
+          "PartText": "Forget I said that",
+          "Description": "shaking his head"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "There are two Banshee access sticks in there:",
+          "Description": null
+        },
+        {
+          "PartText": "one is mine, one belonged to Thomas...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Belonged?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes, but to the best of my knowledge, nobody knows yet",
+          "Description": null
+        },
+        {
+          "PartText": "I need you to post the image in \u0027Persistent\u0027 to the forum, along with the text in the .txt file from Thomas\u0027s account",
+          "Description": null
+        },
+        {
+          "PartText": "It essentially discloses my identity and suggests that I\u0027ve fled the country",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But before you do that, I need you to make a claim on 42834 as Martin from my account",
+          "Description": null
+        },
+        {
+          "PartText": "using the photo on my access stick",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is he dead?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes, and Lonnie as well...",
+          "Description": null
+        },
+        {
+          "PartText": "You can claim Lonnie from my account or your own, it doesn\u0027t matter. Details are in \u0027Lonnie.txt\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You have been busy",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m guessing this is all for Frank?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why don\u0027t you just go to his house?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I just came from there...",
+          "Description": null
+        },
+        {
+          "PartText": "He...",
+          "Description": null
+        },
+        {
+          "PartText": "Knows it\u0027s the endgame...",
+          "Description": "looking sad, tired of life"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He didn\u0027t?!",
+          "Description": "looking earnestly shocked"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "All of them!",
+          "Description": "angry"
+        },
+        {
+          "PartText": "I need you to get out of here now",
+          "Description": null
+        },
+        {
+          "PartText": "The building is empty except for the two of us, and Frank will come for me in the bathroom where he murdered Angela",
+          "Description": null
+        },
+        {
+          "PartText": "You can make a claim on 01165 tomorrow morning if you want...",
+          "Description": null
+        },
+        {
+          "PartText": "details are in the file \u0027John.txt\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OK",
+          "Description": "gets up from his chair"
+        },
+        {
+          "PartText": "...",
+          "Description": "putting on sweater"
+        },
+        {
+          "PartText": "take care John ...",
+          "Description": "leaving the room"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You too",
+          "Description": "looking into the eternity"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You have to admit, there is something poetic about this?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "There is something poetic about it",
+          "Description": "smiles"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know, you could stay...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not losing sight of you again!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh John!",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "They need you!",
+          "Description": null
+        },
+        {
+          "PartText": "A hard rain\u0027s a-gonna fall!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "We did what we could",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Fucking Frank!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t want to talk about Frank...",
+          "Description": null
+        },
+        {
+          "PartText": "this was never about him...",
+          "Description": null
+        },
+        {
+          "PartText": "would you sing me a song?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I would love to",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you know:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027I\u0027ll follow you into the dark?\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know what you know",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 7,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        "You and me, have seen everything to see",
+        "From Bangkok to Calgary",
+        "And the soles of your shoes, are all worn down",
+        "The time for sleep is now",
+        "But it\u0027s nothing to cry about",
+        "\u0027Cause we\u0027ll hold each other soon",
+        "In the blackest of rooms",
+        ""
+      ],
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 7,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "both",
+        "CharacterName": "Both",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        "If Heaven and Hell decide",
+        "That they both are satisfied",
+        "Illuminate the No\u0027s on their vacancy signs",
+        "If there\u0027s no one beside you",
+        "When your soul embarks",
+        "Then I\u0027ll follow you into the dark",
+        ""
+      ],
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "10 minutes of silence follows.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How about some Cindy Lauper?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I only know that one line",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How about...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 7,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        "Now there\u2019s a beautiful river, in the valley ahead",
+        "There \u0027neath the oak\u0027s bough, soon we will be wed",
+        "Should we lose each other, in the shadow of the evening trees",
+        "I\u0027ll wait for you",
+        "And should I fall behind",
+        "Wait for me",
+        ""
+      ],
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I like Springsteen...",
+          "Description": null
+        },
+        {
+          "PartText": "but I think this is more... \u0027us\u0027",
+          "Description": "begins tapping the floor"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 7,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        "Well, we busted out of class",
+        ""
+      ],
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 7,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        "Had to get away from those fools",
+        ""
+      ],
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 7,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "both",
+        "CharacterName": "Both",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        "We learned more from a three-minute record, baby",
+        "Than we ever learned in school",
+        "Tonight I hear the neighborhood drummer sound",
+        "I can feel my heart begin to pound",
+        "You say you\u0027re tired and you just want to close your eyes",
+        "And follow your dreams down",
+        "",
+        "Well, we made a promise we swore we\u0027d always remember",
+        "No retreat, baby, no surrender",
+        "Like soldiers in the winter\u0027s night",
+        "With a vow to defend",
+        "No retreat, baby, no surrender",
+        "",
+        "Now on the streets tonight the lights are growing dim",
+        "The walls in my room are closing in",
+        "But it\u0027s good to see your smiling face",
+        "And to hear your voice again",
+        "Now we could sleep in the twilight",
+        "By the river bed",
+        "With a wide open country in our hearts",
+        "And these romantic dreams in our heads",
+        "",
+        "\u0027Cause once we made a promise we swore we\u0027d always remember",
+        "No retreat, baby, no surrender",
+        "Blood brothers in the stormy night",
+        "With a vow to defend",
+        "No retreat, baby, no surrender",
+        "No retreat, baby, no surrender",
+        ""
+      ],
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John and Angela now sit, heads leaning against each other, looking into the great void in the poorly-lit corner of that 2nd-floor bathroom. Some hours later, they hear the sound of footsteps in the hall outside.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You\u0027re up honey",
+          "Description": "whispering into his ear, kisses him on the cheek"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The door opens and Frank steps in wielding a foot-long hunting knife in his right hand. As John had suspected, Frank\u0027s attention is focused on the dead body of Martin lying in front of him, and as he walks towards it, John walks in on Frank from behind, reaches his right arm around Frank\u0027s throat, locks the choke-hold in with his left arm and squeezes tight. Frank shows signs of initial shock, but then jerks the knife around his own stomach, stabbing John in the left side 5 or 6 times.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Just hold on! 10...9....8...",
+          "Description": null
+        }
+      ],
+      "IsThought": true,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Frank tries stabbing the knife over his left shoulder 2 times, only missing John by a few centimeters on the first stab as John catches on in the last second. Frank then goes back to stabbing around his stomach, hitting John 3 or 4 times more, before dropping the knife and losing conscience. John lets him and Frank drop to the floor.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus Christ that hurts!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know honey",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "...",
+          "Description": "gesturing \u0027one second\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John reaches for the knife and props himself up on one elbow, rests the tip of the knife against Frank\u0027s right eyelid, and thrusts the knife in as far as he can. He repeats this for the left eye. John then stabs Frank 5 times through the neck and drops the knife. He takes out a permanent marker and writes \u0027\u00A4BB01165 killed the Shadow-Man\u0027 on his left leg. He then lies down on the floor.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Will you lay with me for a while?",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d love to",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Sometime later, John dies.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 34,
+  "ChapterHash": "ntijN\u002BFMVoRutzr2zI2P4Ebk/pz6wUegcIXKUV6C0amJM\u002BgNjheJ/PNlbTT/78M6PQKbFLGy5zwwSvMtom87nA==",
+  "Video": {
+    "FileName": "deep-sea.gif",
+    "AttributionText": "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

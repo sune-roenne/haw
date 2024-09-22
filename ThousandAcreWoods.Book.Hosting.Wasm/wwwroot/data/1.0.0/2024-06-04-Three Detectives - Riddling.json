@@ -1,0 +1,3615 @@
+{
+  "ChapterDate": "2024-06-04T00:00:00",
+  "ChapterName": "The 3 Detectives: Riddling",
+  "ChapterFileName": "2024-06-04-Three Detectives - Riddling.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No, no, no... I checked the stress diagram for the building, and we\u0027re going to collapse the entire North half of the building if we put it there",
+          "Description": null
+        },
+        {
+          "PartText": "However...",
+          "Description": null
+        },
+        {
+          "PartText": "If we place 2 charges in the crevice between this beam and the ceiling...",
+          "Description": null
+        },
+        {
+          "PartText": "And a single charge in a little dugout of this wall...",
+          "Description": null
+        },
+        {
+          "PartText": "There is almost no chance of causing damage to any part of the weight-bearing structure...",
+          "Description": null
+        },
+        {
+          "PartText": "AAAAND...",
+          "Description": null
+        },
+        {
+          "PartText": "It will almost certainly drive the mark to run this way...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "RIGHT INTO THE PIT!",
+          "Description": null
+        },
+        {
+          "PartText": "THAT IS BEAUTIFUL!",
+          "Description": null
+        },
+        {
+          "PartText": "SIMPLY BEAUTIFUL!",
+          "Description": null
+        },
+        {
+          "PartText": "You know, we might actually be able to drive the poor bastard right into the PTSD sweet spot!",
+          "Description": "excited grin"
+        },
+        {
+          "PartText": "All this time, dedicating myself to this fruitless labor in service of man-kind...",
+          "Description": null
+        },
+        {
+          "PartText": "seeking not wealth nor glory nor a never-ending stream of adventurous young women waiting their turn in a neat little line outside my apartment...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not saying I would have said no...",
+          "Description": null
+        },
+        {
+          "PartText": "BUT I NEVER ASKED FOR IT!",
+          "Description": null
+        },
+        {
+          "PartText": "I only ever wanted perfection!",
+          "Description": null
+        },
+        {
+          "PartText": "And as it turns out, the answer was right there all along!",
+          "Description": null
+        },
+        {
+          "PartText": "It really isn\u0027t about the journey...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune and albert in chorus",
+        "CharacterName": "Sune and Albert in chorus",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s the friends you make along the way",
+          "Description": "Sune, wiping an actual tear off his cheek"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think you may have mispronounced \u0027ACCOMPLICE\u0027",
+          "Description": "making sure to stress that last word, and the fact that he had used the singular form"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "\u0027There really is something rotten about this basement!\u0027 John thinks to himself, as he hears Sune and Albert lay out their plan to scare the fear of death into some young - most likely undeserving - new hire at FinaLibre, who\u0027s only provable crime had been to accept the job offer in what he thought of - and what probably indeed is - a hip new FinTech company in the prime of its existence. It was no more than 5 hours ago, that this little band of amateur detectives assembled in Sune\u0027s office in the basement for their first meeting, and John practically had to drag Albert along by the boots. The guy was shaking so hard walking down the stairs as long-since repressed memories of some sick prank came topside in the ocean of Albert\u0027s mind. And then look at the \u0027murderous-little-bastard\u0027-to-be now!\r\nJohn can feel this place getting under his own skin as well. The worst part about it is that the madness gets into your head, and somehow you stop noticing that it\u0027s there while the disease slowly eats away at your sanity. John \r\nremembers having read about a parasitic creature that will infect bees and wasps and take control of their mind, and while the creature is spawning offspring that nest inside the animal\u0027s body, the animal falls more and more under control of the parasite until it\u0027s time for the offspring to hatch and the parasite pushes the big red self-destruct button causing the animal to kill itself and leave its remains for the offspring to feast on. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Was it really bees and wasps?",
+          "Description": null
+        },
+        {
+          "PartText": "or some other insect?",
+          "Description": null
+        },
+        {
+          "PartText": "Dammit, John!",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s how it gets you...",
+          "Description": null
+        },
+        {
+          "PartText": "You know that there is something dark and evil eating away at your very core, and all you do is pacify yourself with questions about insects!",
+          "Description": null
+        }
+      ],
+      "IsThought": true,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, I need you guys to step out of your little \u0027Bonnie and Clyde in the Twilight-Zone\u0027-fantasy for a bit, and talk to me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune and albert",
+        "CharacterName": "Sune and Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking expectingly at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What do you guys know about dreams?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooohhhh Sunny...",
+          "Description": null
+        },
+        {
+          "PartText": "I had dreams once...",
+          "Description": null
+        },
+        {
+          "PartText": "Until that damn shark ate my leg and my baby!",
+          "Description": "once again wiping a tear from his cheek"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking in admiration"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Dreams, as in whatever the hell the brain is doing while we sleep",
+          "Description": "a little annoyed"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Dreams...",
+          "Description": null
+        },
+        {
+          "PartText": "The window into the soul",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s the eyes, man!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aaaahhh.... THE EEEYESSS!",
+          "Description": "mock horror"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Tihi",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright...",
+          "Description": null
+        },
+        {
+          "PartText": "so now you are 0 for 1 in keeping with the conversation I am trying to have!",
+          "Description": null
+        },
+        {
+          "PartText": "Let\u0027s try again:",
+          "Description": null
+        },
+        {
+          "PartText": "What do you know about dreams?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think they are the result of some cleanup job the brain performs at night",
+          "Description": null
+        },
+        {
+          "PartText": "Cleaning up unfinished and interrupted thoughts",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So ya have a clean shitter in the morning!",
+          "Description": "Scottish accent"
+        },
+        {
+          "PartText": "But there\u0027s also the recurring dreams...",
+          "Description": null
+        },
+        {
+          "PartText": "You know: the one with the beavers",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The beave... NO!",
+          "Description": null
+        },
+        {
+          "PartText": "I can\u0027t believe you almost got me again!",
+          "Description": null
+        },
+        {
+          "PartText": "None of us is going to ask you about your recurring dreams of soul-eating beavers, or whatever sick shit you have just thought up!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Your loss!",
+          "Description": null
+        },
+        {
+          "PartText": "But if I have to come visit you in the hospital because you have acute shock from the \u0027Beaver-dream\u0027 and didn\u0027t know that the key is to use the plunger...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll be singing:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027I told you so, I told you so, I told you so\u0027",
+          "Description": "singing in a mocking tone of voice"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "ALRIGHT!",
+          "Description": null
+        },
+        {
+          "PartText": "Text me whatever hint you have on getting out alive from the \u0027beaver dream\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "I had a dream",
+          "Description": null
+        },
+        {
+          "PartText": "A school teacher from elementary school confronted me with a riddle...",
+          "Description": null
+        },
+        {
+          "PartText": "or it could have been a joke...",
+          "Description": null
+        },
+        {
+          "PartText": "she was a little unclear about that...",
+          "Description": null
+        },
+        {
+          "PartText": "she also mentioned a bunch of other stuff, but I\u0027m not really ready to talk about that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking interested at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Give man!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How do you make a square radical?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The question is followed by more than a full minute of silence. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Radical how?",
+          "Description": null
+        },
+        {
+          "PartText": "Radical has several meanings",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What meanings?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I have to google that... One sec...",
+          "Description": null
+        },
+        {
+          "PartText": "So as a noun, the word \u0027radical\u0027 can mean:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " a person who advocates thorough or complete political or social change, or a member of a political party or section of a party pursuing such aims",
+        " [In chemistry] a group of atoms behaving as a unit in a number of compounds",
+        " [In language] any of the basic set of approximately 214 Chinese characters constituting semantically or functionally significant elements in the composition of other characters and used as a means of classifying characters in dictionaries",
+        "[In mathematics] a quantity forming or expressed as the root of another"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I remember hearing about the last one before",
+          "Description": null
+        },
+        {
+          "PartText": "It sorta resonates, doesn\u0027t it?",
+          "Description": null
+        },
+        {
+          "PartText": "It also doesn\u0027t I suppose",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, if you have something that is the root of something else, and then you square it, you are left with that something else",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are applying a function and its inverse",
+          "Description": null
+        },
+        {
+          "PartText": "Getting you right back where you started",
+          "Description": null
+        },
+        {
+          "PartText": "Could this teacher of yours have been meaning to tell you something like:",
+          "Description": null
+        },
+        {
+          "PartText": "In the end, you end up right back where you started, and you\u0027ll realize that it\u0027s not about the journey...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s about the friends you made along the way!",
+          "Description": "Heureka-expression"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring, speechless at the two"
+        },
+        {
+          "PartText": "I don\u0027t even know if you went off-track there, or just went straight to outer space!",
+          "Description": null
+        },
+        {
+          "PartText": "Look, I only knew the first definition of radical you read",
+          "Description": null
+        },
+        {
+          "PartText": "My mind couldn\u0027t really issue riddles to me in a language I don\u0027t understand, could it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Unless...",
+          "Description": null
+        },
+        {
+          "PartText": "your mind DOES know that other meaning, but it has repressed it...",
+          "Description": null
+        },
+        {
+          "PartText": "because something terrible happened to you!",
+          "Description": "another Heureka-expression"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "grabbing John\u0027s hand and looking at him with compassion"
+        },
+        {
+          "PartText": "Did the teacher lady hurt you, John?",
+          "Description": null
+        },
+        {
+          "PartText": "Did she make you do things even though you had a \u0027no\u0027-feeling, but she just wouldn\u0027t stop...?",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s alright John!",
+          "Description": "comforting voice"
+        },
+        {
+          "PartText": "Now is a good time to confront those fears!",
+          "Description": null
+        },
+        {
+          "PartText": "You are in a safe environment among friends who care about you...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "I...",
+          "Description": null
+        },
+        {
+          "PartText": "You guys are fuc...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "draws deep breath in, closes eyes, and exhales a lot of suddenly pent-up frustration"
+        },
+        {
+          "PartText": "I absolutely know the riddle is about the first meaning!",
+          "Description": null
+        },
+        {
+          "PartText": "As in: a radicalized person...",
+          "Description": null
+        },
+        {
+          "PartText": "radicalizing someone",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s the only meaning that strikes any sort of chord with me",
+          "Description": null
+        },
+        {
+          "PartText": "So... Staying ON THE TRACK OF THIS CONVERSATION...",
+          "Description": null
+        },
+        {
+          "PartText": "What the hell does it mean to square a radical person?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "In Pulp Fiction, they use the term \u0027square\u0027 to mean something boring...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, I like that movie...",
+          "Description": "staring into nothing with dreamy eyes"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So the meaning would be along the lines of:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027How do you make a radical person boring?\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think you are onto something there...",
+          "Description": null
+        },
+        {
+          "PartText": "Not that it makes much more sense to me now, but it FEELS closer to the answer",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "There is yet another 1 minute period of silent contemplation.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know, it reminds me of a set of jokes my mom used to tell",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John and Albert both look at Sune in utter shock. It would have been really hard for them to justify that look had he asked them about it, but somehow it came as a shock that a real human woman had at some point given birth to the strange compound of evil and insanity seated in front of them, and allowed it to call her \u0027Mom\u0027\u0022. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So one of them goes like this...",
+          "Description": null
+        },
+        {
+          "PartText": "What is this?",
+          "Description": "makes an \u0027eating Pacman\u0027 gesture with his hand zooming towards John"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "Hell if I know, but here it comes again",
+          "Description": "repeats the hand gesture"
+        },
+        {
+          "PartText": "Or this one...",
+          "Description": null
+        },
+        {
+          "PartText": "What is this?",
+          "Description": "stretches out his hand in a horizontal position"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s one of these that has fallen over",
+          "Description": "raises the outstretched hand to a vertical position"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John stares at the explanation in deep contemplation. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think I\u0027ve heard these before...",
+          "Description": null
+        },
+        {
+          "PartText": "If we roll with this...",
+          "Description": null
+        },
+        {
+          "PartText": "And interpret the riddle in the spirit of those jokes...",
+          "Description": null
+        },
+        {
+          "PartText": "Then the answer to \u0027How do you make a square radical?\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "would be something silly like:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027First, you make a cubic radical, and then you squeeze it until it\u0027s square\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "Right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm... Wouldn\u0027t it just become round?",
+          "Description": null
+        },
+        {
+          "PartText": "I doubt it would become square",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But if you assume that meaning, then you can pretty much remove the part about the radical being square because the riddle reduces to:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027How do you make a radical?\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Or... \u0027How do you radicalize someone?\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oooohh! I know the answer to that!",
+          "Description": "pulls out an old leather notebook"
+        },
+        {
+          "PartText": "I once worked in a terrible place called \u0027The Pit\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "It drove away my sanity, and left me this way!",
+          "Description": null
+        },
+        {
+          "PartText": "The Cripple forced me to participate in a \u0027Social Experiment\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "He was a real psychopath!",
+          "Description": null
+        },
+        {
+          "PartText": "Bad hip!...",
+          "Description": null
+        },
+        {
+          "PartText": "EVERYBODY ELSE HAD TO SUFFER because of it!",
+          "Description": null
+        },
+        {
+          "PartText": "The experiment was to try to radicalize this poor bastard...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Wadih\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "or \u0027Wahid\u0027... or \u0027Jesper\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "Hell if I remember",
+          "Description": null
+        },
+        {
+          "PartText": "I took extensive notes though...",
+          "Description": "opens the notebook"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look...",
+          "Description": null
+        },
+        {
+          "PartText": "I appreciate these undoubtedly useful insights, but unless whatever findings you guys made can be expressed as a one-liner, I doubt it\u0027s going to be the answer we are looking for",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah... It\u0027s much the same...",
+          "Description": null
+        },
+        {
+          "PartText": "It didn\u0027t work...",
+          "Description": null
+        },
+        {
+          "PartText": "He just kept on with that stupid grin and his \u0027Sk\u00F8nno Bard\u00F8nno Frede\u0027 and chucking beers and pork grinds...",
+          "Description": null
+        },
+        {
+          "PartText": "Between the three of us, I\u0027m not sure he really understood the language...",
+          "Description": "tapping the side of his nose conspiratorially"
+        },
+        {
+          "PartText": "Or maybe he was just immune to new ideas",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe...",
+          "Description": null
+        },
+        {
+          "PartText": "If I was somehow able to operate on him...",
+          "Description": null
+        },
+        {
+          "PartText": "Yeeesss... It may work if the voltage is high enough, but we\u0027d have to make sure...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "CUT! Back to the here and now!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes... It\u0027s just so damn hard...",
+          "Description": null
+        },
+        {
+          "PartText": "letting go...",
+          "Description": null
+        },
+        {
+          "PartText": "when it\u0027s a noble cause...",
+          "Description": "distant"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But it does raise a valid point:",
+          "Description": null
+        },
+        {
+          "PartText": "do you think anyone could become radicalized?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "CERTAINLY NOT! Not the stupids!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now, that\u0027s just not true!",
+          "Description": null
+        },
+        {
+          "PartText": "Do you mean to tell me that I would be unable to find a dumb-as-a-door would-be terrorist?",
+          "Description": null
+        },
+        {
+          "PartText": "If I knew where to look, that is...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "FOLD!",
+          "Description": "gesturing an imaginary throw of his hand"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "but I think I know what you mean...",
+          "Description": null
+        },
+        {
+          "PartText": "It does take some mental awareness to dig into a cause or model of understanding...",
+          "Description": null
+        },
+        {
+          "PartText": "getting to grips with the lingo...",
+          "Description": null
+        },
+        {
+          "PartText": "researching how to make bombs, or gain access to unregistered firearms...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That one\u0027s easy... ",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll send you a link",
+          "Description": "winks with one eye"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess it takes... dedication",
+          "Description": null
+        },
+        {
+          "PartText": "And you have to be ready to separate yourself from society as a whole while you undergo some metamorphosis...",
+          "Description": null
+        },
+        {
+          "PartText": "At least mentally",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, but there\u0027s gotta be more...",
+          "Description": null
+        },
+        {
+          "PartText": "Otherwise, why hasn\u0027t HE become radicalized?",
+          "Description": "pointing at Sune"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking questioningly at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well...",
+          "Description": "conceding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think I know what you mean...",
+          "Description": null
+        },
+        {
+          "PartText": "He certainly does have potential...",
+          "Description": null
+        },
+        {
+          "PartText": "but, it\u0027s like he doesn\u0027t really believe in anything...",
+          "Description": null
+        },
+        {
+          "PartText": "I think, in order to become radicalized, you need to at least WANT to believe in something...",
+          "Description": null
+        },
+        {
+          "PartText": "He seems more or less content with just fucking around with scaring the shit out of the low-hanging quartile of the workforce, and whatever other types of shit he gets into down here...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why, I have NEVER!",
+          "Description": null
+        },
+        {
+          "PartText": "HERACY!",
+          "Description": null
+        },
+        {
+          "PartText": "I thought you believed in the cause!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And can you describe the cause in just a few words?...",
+          "Description": null
+        },
+        {
+          "PartText": "No distracting diagrams!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "EASILY!",
+          "Description": null
+        },
+        {
+          "PartText": "PTSD in less than a minute and a half... You know that!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Exactly! You have a goal...",
+          "Description": null
+        },
+        {
+          "PartText": "And, it\u0027s both insane and beautiful and I\u0027m totally on board, but it\u0027s not a \u0027cause\u0027 as such unless we include \u00274 shits n\u0027 giggles\u0027 as a cause...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking pensive"
+        },
+        {
+          "PartText": "Alright, how about this for a solution: \u0027How do you make a square radical?",
+          "Description": null
+        },
+        {
+          "PartText": "You take an idealist, break him down, and bake him at 200 degrees for 30 minutes in a square mold\u0027...?",
+          "Description": null
+        },
+        {
+          "PartText": "OK, OK...",
+          "Description": null
+        },
+        {
+          "PartText": "I know, it needs a little work, but it does make me think of something",
+          "Description": null
+        },
+        {
+          "PartText": "Where did we put Angela\u0027s test results?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I remember wondering about this test she periodically did on Frank...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking in amazement at John"
+        },
+        {
+          "PartText": "You remembered a name!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, it only seems appropriate...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve dreamed of killing him often enough...",
+          "Description": null
+        },
+        {
+          "PartText": "Would almost seem rude not to remember his name at this point",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But why?",
+          "Description": null
+        },
+        {
+          "PartText": "And what do you mean by \u0027dreamed of killing him\u0027?",
+          "Description": null
+        },
+        {
+          "PartText": "Like daydreaming or do you kill him in your dreams?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No, no... Only in my dreams...",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, I guess I do feel a need to strangle the son of bitch when I am awake...",
+          "Description": null
+        },
+        {
+          "PartText": "BUT ONLY WHEN HE\u0027S IN THE ROOM!",
+          "Description": null
+        },
+        {
+          "PartText": "No, I\u0027m talking about when I dream...",
+          "Description": null
+        },
+        {
+          "PartText": "Something annoying will happen to make me just about to lose my shit...",
+          "Description": null
+        },
+        {
+          "PartText": "like being late for the train...",
+          "Description": null
+        },
+        {
+          "PartText": "and then he shows up, smarting off in that annoying way he has...",
+          "Description": null
+        },
+        {
+          "PartText": "and then I basically beat him to death...",
+          "Description": null
+        },
+        {
+          "PartText": "I try to keep him alive so I can beat him some more...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s really therapeutic...",
+          "Description": null
+        },
+        {
+          "PartText": "You should try it!",
+          "Description": "said in the certain voice of someone who KNOWS"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t think there was ever any doubt, but carpooling is definitely off the table!",
+          "Description": null
+        },
+        {
+          "PartText": "Why do you hate Frank so much?",
+          "Description": null
+        },
+        {
+          "PartText": "I may not worship him like most of the others do, but as far as middle management goes, I think he\u0027s pretty good!",
+          "Description": null
+        },
+        {
+          "PartText": "He certainly tries hard enough to do right by people",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t think I hate him...",
+          "Description": null
+        },
+        {
+          "PartText": "I just want to kill him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are still young, apprentice...",
+          "Description": null
+        },
+        {
+          "PartText": "There are levels of wisdom that cannot be reached through rational thought...",
+          "Description": "putting his hand on Albert\u0027s shoulder"
+        },
+        {
+          "PartText": "sometimes, you just have to listen to your heart!",
+          "Description": "putting his hand on his own heart... Looking sacred"
+        },
+        {
+          "PartText": "John has found his way of truth",
+          "Description": null
+        },
+        {
+          "PartText": "and personally, I\u0027m with John...",
+          "Description": null
+        },
+        {
+          "PartText": "I think we should kill Frank!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are doing it again Albert...",
+          "Description": null
+        },
+        {
+          "PartText": "Let go of that which holds your spirit back from the light",
+          "Description": null
+        },
+        {
+          "PartText": "Frank is an evil bastard, and if we don\u0027t kill him, who will?",
+          "Description": null
+        },
+        {
+          "PartText": "Sometimes, you have to be the change you want to see in the world",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John hadn\u0027t really been driving at anything... He had just put his view on Frank out there, as sort of a: \u0027by the way, I think Frank is a fucking psycho and I\u0027d really like to kill him\u0027 with the same lighthearted intent two married men will notice the changes in \u0027hot and not in women\u0027s legwear\u0027 on a young woman passing by their bar stool, without actually having any intent of approaching her. Of course, if she offered to go somewhere more private with one of them so he could have a closer look, he may feel forced to oblige in much the same way that John wouldn\u0027t mind catching Frank doing some weird shit that would justify pummeling the man silly, but neither had any intent. But now that it is out there, John inevitably gets to thinking about some more aspects of the situation: there is definitely something about Frank that rubs him very wrong, but he is also suddenly struck by an all-new realization - though come to think about, the old freak might have hinted at it a couple of times: say he was right about Frank and this little unholy group of outcasts killed the man and were able to get away with it and prove to the world that Frank had been responsible for every catastrophe since the destruction of Babel, his job here at FinaLibre would be done. And how would he feel about that? UNSATISFIED!\r\nThe old bastard is right: \u0027his involvement in this scene is about a lot more than figuring out who killed Angela and prevent further killings. To him, this is first and foremost about HER!\u0027\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Much as I hate to disagree with you old man, he\u0027s right:",
+          "Description": null
+        },
+        {
+          "PartText": "We can\u0027t kill him without proper cause",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s true:",
+          "Description": null
+        },
+        {
+          "PartText": "the guy is highly respected here at the company, and people will definitely notice if he goes missing all of a sudden",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll take the test data Angela pulled on him home with me, and see if I can find something to suggest that he went psycho over the years working here, or that Angela at least suspected him of it",
+          "Description": null
+        },
+        {
+          "PartText": "Let\u0027s not make a move until we agree on a course of action, alright?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "These two cards were in the Frank pile earlier",
+          "Description": "pulling out two cards on which had been handwritten \u0027Leo \u00A4BB29384\u0027 and \u0027Thomas \u00A4BB88204\u0027"
+        },
+        {
+          "PartText": "But I wasn\u0027t sure they belonged there...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ll take them for good measure",
+          "Description": "shrugging, taking the cards"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Sune doesn\u0027t say anything to this but also doesn\u0027t make any objections. Albert on the other hand, replies with a \u0027bowing-to-Sensei\u0027-gesture to show his approval.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I hate to leave you guys to it, but I have an appointment in town in an hour, and I really need to change into something that won\u0027t have me arrested on suspicions of terrorism if I happen to run into a police bomb squad on my way there",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You promised!",
+          "Description": null
+        },
+        {
+          "PartText": "At least give me her phone number so I can write her myself",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright...",
+          "Description": null
+        },
+        {
+          "PartText": "But whatever happens, know that she\u0027s going to absolutely loathe you and do everything in her power to pull you into the swamp of self-loathing and hold you under until you drown",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking into the void, seemingly love-stricken"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Have fun Sensei",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OOOOSSSHH!!!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John has been surprised to discover that he kind of likes hanging out with the old freak and the young whore... There is something freeing about for once not being the most mentally disturbed person in the room. John however knows, that the trio works best when they are indeed a trio. When the whore is there, John can sort of lean back and only interfere with the conversation when it has gone too far off track - like smacking an 80\u0027s television set when the signal goes bad - but when it\u0027s just him and the old man, it\u0027s all just too much. The constant barrage of bullshit fired at him is draining as hell, and John is contemplating an exit strategy as Albert steps out but he could have saved himself the trouble, because as soon as Albert is out of earshot the old freak does his signature move - the one where he balances between being far off in some other world and being very \u0027right here and in your face\u0027 - as he slams both his fists into the desk between John and him, leans in and stares intensely at John:\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You may think you have all the time in the world to fuck around and chase the ghost of Angela, but you don\u0027t, and if you don\u0027t reconcile yourself to that fact, a lot of people are going to die!",
+          "Description": null
+        },
+        {
+          "PartText": "Nobody is saying you have to stop, but keep your fucking eyes on the primary objective!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "unbelieving"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Sune\u0027s phone gives out a \u0027DING\u0027.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now get the fuck out!",
+          "Description": null
+        },
+        {
+          "PartText": "I have a very fine and extremely angry young woman on the way paying good money to do me a great deal of bodily harm, and I have to hose down the laundry room before she gets here...",
+          "Description": null
+        },
+        {
+          "PartText": "and locate the damn pigs-blood",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John knows better than to try for a win when trailing by 10 and in a way, there is something beautiful - no, that\u0027s the wrong word for something so evil - \u0027awe-inspiring\u0027 about watching the guy do change-of-direction-drills up and down the mental illness spectrum. John lets the two last comments hang there as the final words and mental images to summarize the result of the day and walks out. \r\n\r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Did he do it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "My gut feeling is \u0027no\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "if we are talking about killing Angela...",
+          "Description": null
+        },
+        {
+          "PartText": "as for all sorts of other twisted stuff... probably... sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Does any of that other stuff involve murder?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I wouldn\u0027t rule it out...",
+          "Description": null
+        },
+        {
+          "PartText": "I just don\u0027t know sir",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m sorry...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Please keep at it, John...",
+          "Description": null
+        },
+        {
+          "PartText": "We are keeping him away from the police...",
+          "Description": null
+        },
+        {
+          "PartText": "for obvious reasons...",
+          "Description": null
+        },
+        {
+          "PartText": "but we have to make sure that we aren\u0027t just sheltering a homicidal maniac",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes sir",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "Sir?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I need you to give on Frank",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah... I thought you might ask at some point",
+          "Description": null
+        },
+        {
+          "PartText": "So you have noticed that me and Frank don\u0027t get on very well...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I hadn\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "but I have also never seen you with Frank...",
+          "Description": null
+        },
+        {
+          "PartText": "I just have a bad feeling about him...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m sure there is a reasonable explanation for that, but let me start from the beginning",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 3,
+      "Title": "Frank: The Crown Prince of FinaLibre",
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": [
+        {
+          "Items": null,
+          "Text": "FinaLibre was formed 9 years ago and consisted of just myself and 5 other breakouts from some of the big Financial players in the country. The first couple of years were sort of a struggle just to stay alive, but around 7 years ago we had managed to secure a solid foundation in terms of loyal clients and we slowly began hiring more people. Almost 6 years ago, one of those people was named Frank. \r\nHe had taken the long road before ending up with us: after high school, he first served his mandatory conscription and then joined the Special Forces and did 2 tours to Afghanistan. He then did some kind of voluntary work related to the conflicts in Syria and Iraq around the year of 2015, but he has always been very reluctant to talk about that... don\u0027t get me wrong: I\u0027m sure he was on the \u0027right side\u0027 - if ever there is a such in war - but I\u0027ve always gotten the feeling that he experienced some pretty gruesome stuff down there, and I haven\u0027t pushed the issue."
+        },
+        {
+          "Items": null,
+          "Text": "Upon his return from voluntary service, he started on a degree in Finance and after he finished his B.Sc. he signed on to FinaLibre and worked full-time while at the same time completing his M.Sc.\r\nI did the interview with him back then, and I immediately recognized that he was a force of nature! He is by no means the brightest or most knowing here at the company, but when he sets his mind to something, he goes for it full-throttle! And he believed in our mission... You see, most of the people we hire - especially those bringing a degree in Finance or Economics - come with a mindset of \u0027what will you give me, if I give you this\u0027, but Frank really believed in our purpose: to make the capital markets accessible to everyone and always gave his all."
+        },
+        {
+          "Items": null,
+          "Text": "He spent 2 years working for different teams within the company before I promoted him to Team Lead and then within a year he was pretty much 1st in line to take my spot when I either decide to leave the company or I am thrown out. \r\nAnd it\u0027s been that way for the past 4 years, give or take."
+        },
+        {
+          "Items": null,
+          "Text": "3 years ago I had a conflict with him and since then... our relationship has gone... cold, I suppose. Frank hired a guy he had served with in Afghanistan who - like himself - had gone on to study Finance and seek work in the Financial Sector. The guy had lost one of his legs from a roadside bomb, and I always figured Frank somehow wanted to make up for the guy\u0027s loss, but Frank\u0027s relation to him blinded him from seeing the guy for what he was: lazy and manipulative. I was going to have a talk to Frank about it when my wife - who is CFO for another financial institution - told me that the guy had approached her company and offered to sell confidential secrets from one of our RnD initiatives, so I just fired the guy the first chance I got. I was still going to have a word with Frank about the issue... but then I decided not to. The thing is, that Frank was beginning to show signs of fatigue, but this thing sort of brought new life to him. 3 years ago, Frank\u0027s wife was pregnant with their first son, and between them settling down in a house and getting ready for a baby and Frank\u0027s responsibilities here at the company, I think it was all getting to be a bit much for him. But then when this thing happened... there was no doubt he was angry with me for firing his friend, and with good cause... neither he nor anybody else knew about the guy offering to sell trade secrets to the competitor... but Frank seemed able to harvest that anger and put it into his work. In many ways, he became the best version of Frank we\u0027ve had! And that made me figure that if seeing me as an unreasonable asshole could help Frank - and by extension the company - be more efficient, then I didn\u0027t mind being the bad guy. For the past many years, I have expected Frank to succeed me when the time is right, and he has a much better handle on what goes on around here than I ever did, so I\u0027m mostly just waiting for Frank\u0027s private life to settle down a bit - they had their 2nd son last year - before seizing the opportunity to get out and see what else life has to offer."
+        }
+      ],
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Does Frank still believe in the company mission?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well...",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "That\u0027s a good question...",
+          "Description": null
+        },
+        {
+          "PartText": "I would have to suppose so...",
+          "Description": "gesturing some uncertainty"
+        },
+        {
+          "PartText": "as I said, we don\u0027t talk much nowadays, but from the reports I receive from the different departments, I would say he still has a solid hold on things...",
+          "Description": null
+        },
+        {
+          "PartText": "and he still seems very liked by the other staff...",
+          "Description": null
+        },
+        {
+          "PartText": "but, I would expect that his priorities have changed since becoming a father...",
+          "Description": null
+        },
+        {
+          "PartText": "I certainly hope they have...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Could he have killed Angela?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, he was a professional soldier...",
+          "Description": null
+        },
+        {
+          "PartText": "So I\u0027m sure he COULD have...",
+          "Description": null
+        },
+        {
+          "PartText": "but I can\u0027t see why he WOULD have...",
+          "Description": null
+        },
+        {
+          "PartText": "I think he always really liked Angela",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "One last thing sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You saw Angela outside of work?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I did... Or well, WE did...",
+          "Description": null
+        },
+        {
+          "PartText": "There was a period about two years ago when she came by our house a lot",
+          "Description": null
+        },
+        {
+          "PartText": "It lasted for a couple of months...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why did she come?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not sure...",
+          "Description": null
+        },
+        {
+          "PartText": "Sometimes we talked about work, but most of the time she would stop by and have dinner with us",
+          "Description": null
+        },
+        {
+          "PartText": "then stick around for a couple of hours talking about... life...",
+          "Description": null
+        },
+        {
+          "PartText": "and go home",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sir...",
+          "Description": null
+        },
+        {
+          "PartText": "did you ever have sex with her?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shaking his head"
+        },
+        {
+          "PartText": "I suppose you have to ask...",
+          "Description": null
+        },
+        {
+          "PartText": "No... There was never anything sexual between us...",
+          "Description": null
+        },
+        {
+          "PartText": "In fact, since I met my wife 25 years ago, I\u0027ve only been intimate with her...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve always hated when people have said something like what I am about to say...",
+          "Description": null
+        },
+        {
+          "PartText": "but she was more like a daughter to me...",
+          "Description": null
+        },
+        {
+          "PartText": "and that is of course totally off the mark, because I only ever saw her at work",
+          "Description": null
+        },
+        {
+          "PartText": "and then during those couple of months...",
+          "Description": null
+        },
+        {
+          "PartText": "but the DYNAMICS were more like a grown-up daughter coming home to visit her retired parents...",
+          "Description": null
+        },
+        {
+          "PartText": "than a middle-aged couple looking for fresh young meat for sexual depravity",
+          "Description": "looking accusingly at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "putting his hands up in a defensive \u0027your-said-it-yourself-I-had-to-ask\u0027 gesture"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Maybe with the exception, that she asked a lot about us as a couple...",
+          "Description": null
+        },
+        {
+          "PartText": "Again... nothing intimate, but questions like: \u0027how do we solve conflicts?\u0027 and \u0027how do we decide where to go on vacation?\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What made her stop coming?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm... It\u0027s hard to be sure since we never talked about that...",
+          "Description": null
+        },
+        {
+          "PartText": "But I got the feeling that she had found the answers she needed...",
+          "Description": null
+        },
+        {
+          "PartText": "or at least the ones we could provide her with",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How did your wife feel about Angela?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think she liked her...",
+          "Description": null
+        },
+        {
+          "PartText": "My wife is also a somewhat special woman...",
+          "Description": null
+        },
+        {
+          "PartText": "I think she saw a part of herself in her...",
+          "Description": null
+        },
+        {
+          "PartText": "and Angela was always very polite when she came by, so it was usually very cozy",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you, sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 23,
+  "ChapterHash": "zzb1Cyl88ZBKiYsJD\u002BNPmegENeiKaMKLmaDcoOa6rBaqxsb2AGmLyf8r2sP2M8OkJagaP0LbHG6QAQvlphh9zA==",
+  "Video": {
+    "FileName": "blood.gif",
+    "AttributionText": "Murder Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/murder"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

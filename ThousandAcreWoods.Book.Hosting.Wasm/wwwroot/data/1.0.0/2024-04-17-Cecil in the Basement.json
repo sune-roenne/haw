@@ -1,0 +1,866 @@
+{
+  "ChapterDate": "2024-04-17T00:00:00",
+  "ChapterName": "Cecil Goes Spelunking in the Basement",
+  "ChapterFileName": "2024-04-17-Cecil in the Basement.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hey Shit-Bird! Whatcha doin\u0027?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ugh! I\u0027m trying to understand this CCP Swap setup. I understand the whole CCP ordeal and all, but who the hell came up with THIS?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t I just know it man! It\u0027s been that way at least since I was in the Academy... We all got slaughtered on the test!",
+          "Description": null
+        },
+        {
+          "PartText": "Look, we\u0027re not supposed to help you guys out, but some of these tests they throw at you are about more than just what\u0027s on the screen. We need people who\u0027ll see the shortest path to victory and take it, not sheep who will march off to the slaughter neatly in file... Do you follow?",
+          "Description": "tapping the side of his nose with his index finger"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, yes and no... What\u0027s the angle?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The documentation of the CCP setup is PURPOSEFULLY incomprehensible because you won\u0027t find the key to the setup there",
+          "Description": null
+        },
+        {
+          "PartText": "You have to go directly to the source!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, I hear ya... And the \u0027the source\u0027 would be?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "\u0027The One Below\u0027... The man who lives outside of time... \u0027The Inventor\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... I may need you to be a little more specific...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not sure of his name, because Management tries to keep him a secret for the need-to-know",
+          "Description": null
+        },
+        {
+          "PartText": "...you know: so we don\u0027t disturb him all the time",
+          "Description": null
+        },
+        {
+          "PartText": "This guy is involved in all of the high-profile projects, and you know the craziest thing about it: he\u0027s actually a super chill dude...",
+          "Description": null
+        },
+        {
+          "PartText": "Or so I\u0027ve heard.",
+          "Description": "lowering voice conspiratorially"
+        },
+        {
+          "PartText": "As I said, my entire class at the Academy struck out on this assignment big time and I haven\u0027t found a good excuse to see him since, but this is the PERFECT opportunity for you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Shit yes brother! How do I find him?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "His office is in the north side of the basement, so the easiest thing is to take the stairs next to the Fund Accounting team",
+          "Description": null
+        },
+        {
+          "PartText": "I knew a dude who used to smoke reefer with the guy, and from what I understand, you can\u0027t miss it, especially since that part of the basement is mostly supply rooms and such",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I owe you man! Cover for me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s not a prison my man. You don\u0027t need me to cover for you",
+          "Description": null
+        },
+        {
+          "PartText": "But if anyone asks, I\u0027ll throw them off your scent long enough for you to take 1st place on the CCP assignment. Deal?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Fuckin\u0027 A brotha",
+          "Description": "gets up and walks briskly towards the hall"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yo, what\u0027s the hurry with Shit-Bird?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He\u0027s off to see a man about a CCP setup",
+          "Description": "grinning"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You fucking didn\u0027t! That\u0027s low man... He\u0027s only been here a couple of weeks!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Relax, what doesn\u0027t kill him only makes him stronger",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You pissed yourself when they pulled that stunt on you!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Shut up asshole, that was just a wild rumor",
+          "Description": null
+        },
+        {
+          "PartText": "Look, don\u0027t tell anyone about it - especially Carol - until he has completed his rite of passage... Alright?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I ain\u0027t no rat, but this is no goddamn \u0027rite of passage\u0027... It\u0027s just cruel!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "At the bottom of the stairs, Cecil opens the solid fire door into a hallway of about 20 meters. Throughout, small stacks of unused office furniture is stored at either side of the hallway. When Cecil has gone 3 steps along the hallway, one of the overhead lights begins to flicker, and within 10 seconds, another light joins in the flickering, creating an eerie atmosphere. Cecil is not immediately troubled, and pulls on the handle of the first door on his right, to discover what appears to be a pretty crammed storage room for more office supply. As he steps back into the hallway and closes the door to the storage room, the two lights closest the entrance to the hallway, give out. Except for a dark corner at the other end of the hallway, it is still reasonably lit, and Cecil continues along. \r\nCecil passes another room with cleaning supplies and a washroom - or so at least the signs on the doors will have him think - and decides to take the signs at face value. As he takes one more step along the hall, all of the lights go out and he is left in complete darkness. \r\n\r\nThe human mind is such a funny thing, with all of its little weird ways: it\u0027s capable of deciphering hidden messages in chaotic images of seemingly random shapes and colors and can send us traversing across the ever-growing canyon of time between our Now and Christmas Eve when we were 7 years old by just a whiff of cinnamon, but present it with a single contradictory piece of information to the otherwise convincing story of who we are and what we are doing, and it is ready to tear itself to shreds in sheer panic. If for instance, Cecil\u0027s mind did not have this tendency to question reality by a mere change in lighting, it would have easily convinced itself that: \r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " he is situated in a building with about 100 other people within a radius of 50 meters",
+        " no serial killer - no matter how crazy and blood-thirsty he may be - would choose this time and location to single out his next target",
+        " the Swiss-army knife of useful utilities in his pocket had more than enough battery that he could use its flashlight to peruse this hall for the next hour with more than enough light to keep him from bumping into things"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "\r\nBut well... such are the ways of the mind, and when 2 lights at the other end of the hall start blinking, Cecil practically runs towards them, smashing his foot against an office chair about halfway there. \r\nThis is no time to pause or slow down, but DAMN that hurts! When he is safely within the flickering light, Cecil gathers his composure by drawing in a couple of deep breaths and wipes a little moisture from the side of one eye. The sign on the door to what could very well be an office reads: \u0027Sune\u0027. The door is slightly ajar, but Cecil doesn\u0027t feel right about just barging in. \u0022This better be it\u0022 he thinks, and is about to knock on the door, when he is interrupted by a loud voice from the other side of the door.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "voice",
+        "CharacterName": "Voice",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What the fuck do you mean you don\u0027t feel right about this?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "another voice",
+        "CharacterName": "Another voice",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can\u0027t tell me you like these jobs!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "There is something about how hoarse and angry especially the first voice sounded that terrifies Cecil, and for the time being, he opts to remain on his side of the door.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "voice",
+        "CharacterName": "Voice",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Like has nothing to do with it! You\u0027re paid handsomely to do a goddamn job soldier... A job that lets you sit around and watch TV most days, as long as you perform when the firm needs you, and now it needs you, so quit your fucking whining and load up!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "other voice",
+        "CharacterName": "Other voice",
+        "Color": "rgb(65,3,182)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Christ! What is it this time? Liver, lung?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "voice",
+        "CharacterName": "Voice",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Nope! It\u0027s the big one: a heart",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Even though Cecil cannot see the two men, he is absolutely certain that the last part is said with a satanic grin.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "voice",
+        "CharacterName": "Voice",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yep, we gotta be real careful we don\u0027t accidentally kill him... He has to be kept alive and routinely \u0027exercised\u0027 until the operation...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "other voice",
+        "CharacterName": "Other voice",
+        "Color": "rgb(65,3,182)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "At least stop sugar-coating it and call it what it is: torture! You\u0027re going to torture the poor guy until the doctors are ready to transfer his heart to some fat Chinese bastard with a fuckton of embezzled money, so he may be able to live 5 years longer when we - assuming these dicks haven\u0027t thrown US into the feeding pit - get to hunt down the next poor soul, dumb enough to seek their destiny in this sham of an operation",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "voice",
+        "CharacterName": "Voice",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Just be glad you\u0027re on this side of the hunt holding the assault rifle! Wouldn\u0027t want to be this Cecil-guy now would you...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "At the mention of his name, Cecil\u0027s mind suddenly regains its grip on reality, and finds the hidden message in the dark and twisted imagery: RUN! It must have somehow forgotten about one very important condition of the current scenario though: more than 2 meters away from the flickering lights, the hallway is completely dark. What his mind has forgotten, Cecil\u0027s body reminds it of as it first crashes into what might be a desk, then loses its balance on impact with something that may be the same damn chair he hit going the other way, and as a result hereof, does a nose-dive against the floor. Pretty much every part of Cecil\u0027s body has a message for Cecil\u0027s brain, but the latter is in no mood to argue and merely insists that the body fulfills its duty, gets off the floor and goes back to that running bit it failed so horribly at just a moment ago. \r\nCecil is thus hurdling his body towards the exit into the stairway when he hears a loud shout:\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "voice",
+        "CharacterName": "Voice",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "THAT\u0027S HIM... GET HIM!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "and the hallway is lit up by a flashlight pointed directly at him from the other side of the hall. Cecil feels no need to turn his head to get a better look at his pursuers and maybe give out a little \u0022tooteloo\u0022 but rather seizes this new-found light to sprint through the stairway door, barely stopping to open it.\r\n\r\nAs the door of the stairway next to the Fund Accounting team bursts open and a panic-ridden young man with streaks of blood running down his face spawns from it, it causes an abrupt pause to all activity in the vicinity. A mute and dumbstruck group of employees watches the young man continue his sprint through the building towards the main exit, trying to decipher the meaning of the poor guy\u0027s shouts, which make mention of \u0027harvesting\u0027 and \u0027bloody murderous bastards\u0027 but are otherwise utterly intelligible. \r\nOnly a single person does not seem at all surprised by the scene. He actually seems to be rather enjoying himself, as he takes out his cell phone to record the grand finale featuring the horror-stricken young man running across the parking lot outside the building, in some direction where he prays to God the organ harvesters won\u0027t find him.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are such a fucking asshole man! You better call him yourself and make sure he doesn\u0027t do something stupid, \u0027cause I\u0027m not taking the fall with Carol for this one!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "In a - now once again well-lit - hallway in the northern part of the basement, a middle-aged man puts the last piece of fallen furniture back in its right place before he walks back to his office.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "man",
+        "CharacterName": "Man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What an idiot!",
+          "Description": "muttered to himself, shaking his head"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 4,
+  "ChapterHash": "Cq0KwnEjrnym6sTQ/zK6UlNBMSPAdDXdzsBVMbEueC\u002BpeArHhgsplbu3VU5d4P/gew28FCp9NkM/IMbUpeJqmA==",
+  "Video": {
+    "FileName": "blood.gif",
+    "AttributionText": "Murder Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/murder"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

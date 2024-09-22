@@ -1,0 +1,12 @@
+﻿<div class="taw-site-chapter-header">
+    <div class="taw-site-chapter-header-text" style="font-family: '@(Chapter.ChapterHeaderFontSettings.TheFontFamily)'; font-size:@(Chapter.ChapterHeaderFontSettings.FontSize)pt;">
+        @(Chapter.ChapterName)
+    </div>
+    <div class="taw-site-chapter-header-progress">
+        @if(_allChapters != null)
+        {
+            <label class="taw-site-chapter-header-progress-slider-label @(_isDraggingSlider ? "label-uncertain" : "label-certain")" for="taw-site-chapter-header-slider">@_sliderLabelText</label>
+            <input class="form-range" id="taw-site-chapter-header-slider" type="range" value="@Chapter.ChapterOrder" step="1" min="0" max="@(_allChapters.Length - 1)" @oninput="OnSliderDragEnd" @onchange="OnSliderValueCHange"/>
+        }
+    </div>
+</div>

@@ -1,0 +1,514 @@
+{
+  "ChapterDate": "2024-05-02T00:00:00",
+  "ChapterName": "Enter Mike",
+  "ChapterFileName": "2024-05-02-A-Mike Joins.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Mike joins FinaLibre the month following Cecil\u0027s first day and is - like Cecil - given the general layout of the organization along with a tour around the building.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How much do you know about what we do here at FinaLibre?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not a lot to be honest",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "About half our new hires don\u0027t. Do you have a pension plan?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t think so",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, but you may want to someday, you know: save a little money for your retirement, and in that case, you could choose to stash away a bit of money each month in a bank account. One of the problems with that approach is, that banks don\u0027t pay a lot of interest and due to inflation, your money is likely to be worth less at the time of your retirement than the sum of the deposits made to your bank account. Do you follow so far?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I do",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Great! Preferable to storing your money in the bank, is something yielding a higher expected rate of return",
+          "Description": null
+        },
+        {
+          "PartText": "Something that will earn you more money in the long run, so to speak",
+          "Description": null
+        },
+        {
+          "PartText": "Buying common stock - or equities - in successful businesses has historically proven to be a preferable alternative, yielding a much higher EXPECTED rate of return, but of course, it also comes with a risk: there is a chance that the businesses you invest in will go bankrupt, in which case you have lost all of your invested money",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oof!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes... but there are ways to mitigate the risk by spreading out your investments over different companies in different sectors, subject to different risk- and growth- potentials, such that SOME of your investments may end up worthless but the probability that ALL of your investments become worthless is negligible, that is, you hedge your bets so to speak by spreading your eggs across different baskets",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "starting to look a little drowsy"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, this is a fairly large domain and you can read up on all the formal stuff on your own time, so for the purpose at hand, let\u0027s abstract to the point where we conclude, that as a normal person that just doesn\u0027t want his savings to rot away on a bank account, you are faced with the choice of either:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " coming to terms with the domain and hand-picking your investments",
+        " letting specialists handle the investment of your savings for you, in exchange for a small periodic fee"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "This presentation is of course a little over-simplified and may seem biased towards the second option, but in all fairness I have worked with a lot guys of normal or higher intelligence who suddenly realized that outside of work, they had way too much time to spend on their wives and children, and thus embarked on their own Project Buffet, and ultimately ended up at least solving the problem of having too much time on their hands",
+          "Description": null
+        },
+        {
+          "PartText": "Do you follow?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeaahhh....",
+          "Description": "clearly not following"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "At FinaLibre we offer investment products that bundle together the savings of many investors in a cost-effective manner",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I get it... We buy and sell finance... thingies... on behalf of these investors, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, not exactly... but it\u0027s in the right ball park",
+          "Description": null
+        },
+        {
+          "PartText": "You might say we handle pretty much everything OTHER than actually investing the money:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " Accounting: Legislation requires at least 1 annual audit of all investment funds, to ensure that all valuables are accounted for",
+        " Investment Compliance: We offer a lot of different shared investment products, that differentiate themselves from each other and the rest of the market, by having different investment strategies, guidelines and restrictions.  Some funds invest in Asian companies, some funds invest in debt certificates issued by large European banks and our Investment Compliance unit makes sure that the people actually responsible for making the investments, follow these guidelines and restrictions along with any relevant legislation",
+        " Reporting and APIs: We service shared investment vehicles for both small private investors as well as huge pension funds, and especially the latter has a tendency to want very frequent updates on the status of their investments",
+        " Settlement and Reconciliation: So I mentioned that we aren\u0027t actually the ones to decide WHAT to invest in, but even with the decision being made by an outside party, we still need to make sure that the transactions execute as expected, such that if the Investment Advisor or Portfolio Manager has decided to buy 10.000 shares of some common stock, paying 102,76 EUR per share, that we actually receive the 10.000 shares in our custody, and that no more than 10.276.000 EUR is withdrawn from our bank accounts",
+        " Then there\u0027s also all the legal stuff, and publishing Net Asset Value per fund throughout the day, but I think we\u0027ll save that for another day. Are you with me so far?"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Weeelll.... I think I kinda understand, but I wouldn\u0027t like to be quizzed on this tomorrow",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t worry... We won\u0027t quiz you for another 2 weeks",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "But I advise you to read and understand the intro material...",
+          "Description": null
+        },
+        {
+          "PartText": "When push comes to shove, there\u0027s really no way around the necessity of having a solid understanding of the domain of Finance if you want to be effective and productive in this field",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you",
+          "Description": "displaying the broad smile of a man about to sign a contract with absolutely no understanding of its content"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 6,
+  "ChapterHash": "aW\u002Bnco1i\u002BzKMWoS9o3EYKS/VTyyzi/fdDcyjHjf/\u002Buu86NxjovbgDznw86/FWml3ZnMFVfG9ZlC2uQ8GkTPJcg==",
+  "Video": {
+    "FileName": "work-meeting.gif",
+    "AttributionText": "Video by Tiger Lily from Pexels",
+    "AttributionLink": "https://www.pexels.com/video/team-meeting-7147921/"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Old Standard TT",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Old Standard TT",
+    "TheFontFamily": "Old Standard TT",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

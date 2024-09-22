@@ -1,0 +1,2190 @@
+{
+  "ChapterDate": "2024-06-07T00:00:00",
+  "ChapterName": "The 3 Detectives: Out on the Town",
+  "ChapterFileName": "2024-06-07-Three Detectives - Out on the Town.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, this has been a really productive day but would you look at the time already...",
+          "Description": null
+        },
+        {
+          "PartText": "uuoooaaaawww",
+          "Description": "unconvincing attempt at a yawn"
+        },
+        {
+          "PartText": "Time flies and some of us have very active social lives...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027d love to have you guys hang around all night...",
+          "Description": null
+        },
+        {
+          "PartText": "but then again not",
+          "Description": null
+        },
+        {
+          "PartText": "GTFO! I\u0027m going out on the town",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As John and Albert are being hurried out of Sune\u0027s office, they stare at each other in amazement.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What the fuck was that all about?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugs shoulders, indicating \u0027yes, that was weird, but not even on today\u0027s top 10, was it?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "contemplating"
+        },
+        {
+          "PartText": "Are you turning tricks tonight HookerBoy?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I have a meeting with a client at 21",
+          "Description": "opting for the high road"
+        },
+        {
+          "PartText": "Why?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Because I want to see what the fucker is up to",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No you don\u0027t!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know what you mean, and you\u0027re right...",
+          "Description": null
+        },
+        {
+          "PartText": "but at the same time:",
+          "Description": null
+        },
+        {
+          "PartText": "we have a damn obligation to know what he is up to...",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027re lead investigators on the case of a woman murdered in the same building that freak of nature has wreaked mental havoc on for the past 8 years...",
+          "Description": null
+        },
+        {
+          "PartText": "and are actively taking part in hiding him from the police...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Come on... the guy barely has the mental capacity to finish one sentence before starting another...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yet, you gotta admit that some of the \u0027rite of passage\u0027s he\u0027s pulled off have been pretty elaborate",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you honestly believe he\u0027s guilty of Angela\u0027s murder?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No I don\u0027t",
+          "Description": null
+        },
+        {
+          "PartText": "but I damn well don\u0027t believe he has a \u0027very active social life\u0027 either...",
+          "Description": null
+        },
+        {
+          "PartText": "and if he spirals off into some criminal act of retardation...",
+          "Description": null
+        },
+        {
+          "PartText": "and we get questioned about it come Monday morning...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027And you never suspected the mental patient had something planned?\u0027",
+          "Description": "cop voice imitation"
+        },
+        {
+          "PartText": "\u0027No officer... He said he was going out on the town and had a very active social life\u0027",
+          "Description": "imitation of someone very dumb and gullible"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know what you\u0027re saying...",
+          "Description": null
+        },
+        {
+          "PartText": "but we don\u0027t even know where he is going...",
+          "Description": null
+        },
+        {
+          "PartText": "do you want to just trail after him and hope he doesn\u0027t notice us?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look... If he\u0027s going \u0027out on the town\u0027 there\u0027s really only one town that can be...",
+          "Description": null
+        },
+        {
+          "PartText": "And we\u0027re both going there anyways",
+          "Description": null
+        },
+        {
+          "PartText": "He doesn\u0027t seem like the type of man to own a car...",
+          "Description": null
+        },
+        {
+          "PartText": "at least: I sure as shit hope he doesn\u0027t",
+          "Description": null
+        },
+        {
+          "PartText": "so he\u0027s bound to take a train to town, right?",
+          "Description": null
+        },
+        {
+          "PartText": "which we were both going to do anyways...",
+          "Description": null
+        },
+        {
+          "PartText": "All I\u0027m suggesting is, that we hang back down at the train and wait to see if he shows up...",
+          "Description": null
+        },
+        {
+          "PartText": "we\u0027ll give him half an hour and if he\u0027s not there by then, we\u0027ll forget about it, head into town, and go our separate ways...",
+          "Description": null
+        },
+        {
+          "PartText": "No harm done...",
+          "Description": null
+        },
+        {
+          "PartText": "If he does show up...",
+          "Description": null
+        },
+        {
+          "PartText": "let\u0027s just see where he goes...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, but he\u0027s still going to notice us...",
+          "Description": null
+        },
+        {
+          "PartText": "it\u0027s not like there\u0027s all sorts of places to hide down at the train stop",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "and I\u0027ve thought about that as well...",
+          "Description": null
+        },
+        {
+          "PartText": "it\u0027s game day today, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Albert and John are waiting at the train stop.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I feel damn ridiculous!",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t even like soccer!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Me neither...",
+          "Description": null
+        },
+        {
+          "PartText": "but look at it as an opportunity to act loud and obnoxious in public and sing about female genitalia without anyone batting an eye",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why would I even want to do that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "well... I don\u0027t know really...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess I just don\u0027t see why you have to make this a 2-man operation...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look at me!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I look like someone who just got released from prison...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But that\u0027s how you always look...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know!",
+          "Description": null
+        },
+        {
+          "PartText": "But with you tagging along...",
+          "Description": null
+        },
+        {
+          "PartText": "I look like someone who\u0027s just been released from prison...",
+          "Description": null
+        },
+        {
+          "PartText": "being accompanied by his parole officer...",
+          "Description": null
+        },
+        {
+          "PartText": "or his friend who will swear:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Yes officer, I\u0027ll make sure he keeps it down\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "I have a much better chance of not being stopped for \u0027random questioning\u0027 with you hanging around",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright...",
+          "Description": null
+        },
+        {
+          "PartText": "but I\u0027m taking off at 19:30 at the latest...",
+          "Description": null
+        },
+        {
+          "PartText": "I can\u0027t show up at the client looking like a damn clown...",
+          "Description": null
+        },
+        {
+          "PartText": "or well... maybe for this specific client...",
+          "Description": "pensive"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "19:30 is cool, and then you can go do your thing...",
+          "Description": null
+        },
+        {
+          "PartText": "Look, there he comes, blend in...",
+          "Description": null
+        },
+        {
+          "PartText": "What\u0027s that they are singing about someone being a wall?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "During the train ride into town, Sune seems to be totally consumed by his own thoughts and probably wouldn\u0027t have noticed John and Albert if they had sat down next to him, but to be on the safe side, they choose to stand in the cart neighboring the one in which Sune is sitting, hoping to catch him as he leaves the train.\r\nAt the stop just before the downtown central station, Sune gets up from his seat and gets ready to leave. Lucky for John and Albert\u0027s keeping with their disguise, so do most of the soccer fans aboard the train.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look, he\u0027s going into that bar",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, what do you want to do now then?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Let\u0027s go to that fast food joint across the street...",
+          "Description": null
+        },
+        {
+          "PartText": "It looks like we\u0027ll have a pretty good view of what goes on in the bar from there",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "About half an hour goes by, and to no great surprise to neither John nor Albert, Sune is indeed not joined by a large group of friends, nor a female companion nor just a single school friend who is unlucky enough to run into him. He just sits alone at a table in the back of the bar, seemingly staring at nothing.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wow, what a social guy!",
+          "Description": "in a sarcastic tone that isn\u0027t really needed to get the point across"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oooh... He\u0027s getting up now...",
+          "Description": null
+        },
+        {
+          "PartText": "Wonder if he\u0027s had his social bone tickled enough for one exciting evening",
+          "Description": null
+        },
+        {
+          "PartText": "What the fuck is he doing now?...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring intensely"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is he harassing that young couple?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t think they are a couple...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What does that even have to do with anything?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You didn\u0027t notice what the guy did when she was in the bathroom a moment ago, did you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Guess not",
+          "Description": null
+        },
+        {
+          "PartText": "He just chugged the girl\u0027s drink...?",
+          "Description": "shocked amazement"
+        },
+        {
+          "PartText": "And now he\u0027s sitting down with them...?",
+          "Description": null
+        },
+        {
+          "PartText": "Looks like he\u0027s getting in trouble with the bouncer now...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "The hell?",
+          "Description": null
+        },
+        {
+          "PartText": "The bouncer did nothing about this and just left them...",
+          "Description": null
+        },
+        {
+          "PartText": "And now they are stuck with him...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How old is Sune\u0027s daughter?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know...",
+          "Description": null
+        },
+        {
+          "PartText": "Adult\u0027ish I think...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure anyone at the company really knows for sure...",
+          "Description": null
+        },
+        {
+          "PartText": "You don\u0027t suppose that\u0027s his daughter, do you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Obviously not...",
+          "Description": null
+        },
+        {
+          "PartText": "Unless her mother is extremely dark-skinned",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027ve got a pretty good idea of what\u0027s going on here...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll bet you an even hundred, that in about 30 minutes, Sune is going to start getting really uncoordinated, and then the bouncer is going to come have a talk with our young Casanova there",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "thinking"
+        },
+        {
+          "PartText": "I see what you\u0027re saying...",
+          "Description": null
+        },
+        {
+          "PartText": "but there must be an easier way than this to go about it...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m sure there is, but you know the guy:",
+          "Description": null
+        },
+        {
+          "PartText": "doing the Lord\u0027s work and getting free drugs in just one sitting...",
+          "Description": null
+        },
+        {
+          "PartText": "that\u0027s like hitting two birds with one stone",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "but that stuff is like horse tranquilizers or some shit...",
+          "Description": null
+        },
+        {
+          "PartText": "He\u0027s going to be all over the place...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "gesturing \u0027hey, to each their own\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As suspected, no more than half an hour goes by before Sune is swaying all over the place and the bouncer returns to the table and grabs the young man by the shoulder. The young man is looking really worried at this point. John and Albert have had to yield their table at the fast food joint to a group of drunk hooligans, and are watching the spectacle from the street.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, unless you\u0027re in the mood for watching some good old rapist-bashing, it\u0027s cool if you take off now",
+          "Description": null
+        },
+        {
+          "PartText": "If the old weirdo has anything planned after this, I doubt it will be anything that threatens world peace with him hopped op on horse tranquilizer",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, I have no doubt you\u0027ll get a real kick out of watching the bouncer kick the living shit out of that young turd, but I\u0027d just as well go home and get ready for my appointment",
+          "Description": null
+        },
+        {
+          "PartText": "See you John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "See you HookerBoy...",
+          "Description": null
+        },
+        {
+          "PartText": "Give it your all!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John goes around a building to see the action in the back alley to the caf\u00E9 where the bouncer is having at it on the young scumbag. To his surprise, Sune has not only gone along to watch the spectacle, but is - in his own way - attempting to partake in the beating of the creep, mostly punching the air, but once in a while managing to land a solid one. After about a minute of this, with the creep now lying senseless on the ground, the bouncer goes back into the caf\u00E9, and John watches in amazement as Sune picks through the creep\u0027s pockets, pulls out a vial of pills, leans back his head and empties the vial. Granted, most of the pills hit anywhere but the open target of Sune\u0027s mouth, but John has to assume that the guy dry-swallows a good 5-10 of those pills. Sune then stumbles out of the back alley, walking right past John without showing any sign of recognizing him.  \r\n\r\nFor about an hour, John follows Sune as he stumbles around the area of the immediate vicinity of the caf\u00E9 without any apparent purpose, until Sune gets on a bus headed South of the greater metropolitan area of the city, and John follows. \r\nAt this point, John is fairly certain Sune isn\u0027t op to any mischievous scheme, but partly to make sure and partly out of curiosity as to how the old man manages to still remain standing, he is determined to see this thing through. If nothing else, then to have something to do until his appointment with Carol at 22:00.\r\nAbout midway through the bus\u0027s route Sune gets up, seemingly with the intent of getting off at the next stop, which indeed he does.\r\nHe stumbles out of the bus and approaches a group of 5 senior men who, based on John\u0027s estimate, has been sitting on the bench next to the bus stop for a good couple of hours drinking beers. Sune starts yelling at the men.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Which one of you bastards did this?",
+          "Description": null
+        },
+        {
+          "PartText": "I will fuck you up!",
+          "Description": "waving fist around at no one and everyone it seems"
+        },
+        {
+          "PartText": "Fucking drunkards...",
+          "Description": null
+        },
+        {
+          "PartText": "Pissing another man\u0027s pants",
+          "Description": null
+        },
+        {
+          "PartText": "YOU WILL NOT GET AWAY WITH THIS!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m terribly sorry gentlemen",
+          "Description": null
+        },
+        {
+          "PartText": "This man is a patient at the nearby mental institution, and has just been released on a trial basis today",
+          "Description": null
+        },
+        {
+          "PartText": "The darn head shrink and head nurse decided that today would be a good day to try changing the poor guy\u0027s medication",
+          "Description": "shaking his head"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can\u0027t do that to a bloke",
+          "Description": "almost crying, pointing an angry finger at a bus-sign"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "elderly drunk man 1",
+        "CharacterName": "Elderly drunk man 1",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I feel that in my soul man...",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ve all been there brother!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "elderly drunk man 2",
+        "CharacterName": "Elderly drunk man 2",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Shut up Johnny!",
+          "Description": null
+        },
+        {
+          "PartText": "You better tell your friend there to move on along now, or he\u0027s gonna need medication...",
+          "Description": "at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not friend kind sir, I\u0027m this man\u0027s man-nurse",
+          "Description": "low-key hoping this will set off drunk guy #2"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "elderly drunk man 2",
+        "CharacterName": "Elderly drunk man 2",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring at John, maybe considering it, then takes a couple of steps away to center the group\u0027s attention away from John and Sune"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Come on you miserable old bastard, I\u0027m taking you home",
+          "Description": null
+        },
+        {
+          "PartText": "Where do you live?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s so kind of you good sir",
+          "Description": null
+        },
+        {
+          "PartText": "I think I live in that mental institution right around the corner",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You don\u0027t. House number?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aaahh yes... 642, 4th floor to the right",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s in the other part of the area",
+          "Description": null
+        },
+        {
+          "PartText": "Why the hell did you get off the bus here?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I needed to have a talk with those BASTARDS",
+          "Description": "yelling that last part, while pointing somewhere 15 degrees off the location of the elderly drunk guys"
+        },
+        {
+          "PartText": "They pissed my pants, man",
+          "Description": "in a comradely voice to John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "A long half an hour later - at least it felt long to John who had to support Sune\u0027s weight the whole way - they are standing outside the stairway to 642\u0022\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Your last name sure as shit isn\u0027t Myzunki",
+          "Description": null
+        },
+        {
+          "PartText": "Give me your God-damned wallet!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is this a robbery?",
+          "Description": "handing over the wallet regardless"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus Christ!...",
+          "Description": null
+        },
+        {
+          "PartText": "You live in 210 you miserable son of a bitch",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure I do... Only person who lives down here is Miss Myzunki",
+          "Description": null
+        },
+        {
+          "PartText": "She\u0027s haaaaawt!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Come on!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As they are approaching 210.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know who pissed my pants, John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, those drunk hooligans you almost beat the living shit out of...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It was the Shadow-Man John",
+          "Description": "stops walking and looks at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What do you know about the Shadow-Man?",
+          "Description": "looking sternly at Sune"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know one very important thing!",
+          "Description": "starts walking again"
+        },
+        {
+          "PartText": "The bastard pissed my pants!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Where did you hear about the Shadow-Man?",
+          "Description": null
+        },
+        {
+          "PartText": "Damn it old man... This is important",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Then pay attention, John!",
+          "Description": null
+        },
+        {
+          "PartText": "The Shadow-Man pissed my pants",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John helps a staggering Sune get in the front door to his apartment, and then Sune settles on going to rest on the floor.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sune... What can you tell me about the Shadow-Man?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "suddenly getting a sober and very intense look in his eyes, getting himself up to a sitting position and grabs both sides of John\u0027s collar"
+        },
+        {
+          "PartText": "Now you pay attention, John, because this is important!",
+          "Description": null
+        },
+        {
+          "PartText": "I pissed my own pants, and the Shadow-Man doesn\u0027t exist!",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s just something you and Angela made up to not have to take responsibility for the consequences of your actions",
+          "Description": "throws himself backward onto the floor and goes to sleep"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 27,
+  "ChapterHash": "eNWfvFer99WtD70CJemxB8HeQAduS9pnZ9AEXCVft5Eg3o8OX9UJPjviUy/7b7P61mugSlEhdc8LWqqM5zA0nQ==",
+  "Video": {
+    "FileName": "blood.gif",
+    "AttributionText": "Murder Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/murder"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

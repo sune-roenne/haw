@@ -1,0 +1,971 @@
+{
+  "ChapterDate": "2024-06-17T00:00:00",
+  "ChapterName": "Another John and Carol",
+  "ChapterFileName": "2024-06-17-Old John likes Carol.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... and so, in conclusion, ladies and gentlemen, I hope to have proven beyond any doubt, that not only was Steve Jobs Head Marshall of the Lizard People, there\u0027s simply no way 9/11 could have happened without his Icelandic influences! ",
+          "Description": "ending speech with a slight bow"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I was there through the whole thing, and I still can\u0027t believe how you pulled it off, but you certainly did!",
+          "Description": null
+        },
+        {
+          "PartText": "5 out of 5 from me",
+          "Description": "miming applause, gets up to leave the table"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I yield!",
+          "Description": null
+        },
+        {
+          "PartText": "That was such an unrestrained crock of pure bullshit!",
+          "Description": null
+        },
+        {
+          "PartText": "I simply CANNOT!",
+          "Description": "small bow to the victor as he gets up to leave"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ve gotta hand it to you Ben:",
+          "Description": null
+        },
+        {
+          "PartText": "when it comes to drowning people in mind shit, you are a sewage plant!",
+          "Description": "gets up to follow the others"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wait a minute Carol...",
+          "Description": null
+        },
+        {
+          "PartText": "can you spare 10 minutes for an idea I\u0027ve got?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Anything for you dear",
+          "Description": "theatrical smile"
+        },
+        {
+          "PartText": "You guys go ahead, John and I are going to discuss a movie idea that will finally send us off to Hollywood and away from the rest of you losers",
+          "Description": "to everyone else"
+        },
+        {
+          "PartText": "What\u0027s up Doc?...",
+          "Description": "to John"
+        },
+        {
+          "PartText": "Wow, you look really serious",
+          "Description": null
+        },
+        {
+          "PartText": "Are you alright?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m alright",
+          "Description": "nervous smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "grasps mouth with hands in mock surprise"
+        },
+        {
+          "PartText": "You are going to ask me to marry you, aren\u0027t you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wow!...",
+          "Description": null
+        },
+        {
+          "PartText": "Right country fair, but I\u0027m at the skeet shooter and you\u0027re in the Honky Tonk",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... What?",
+          "Description": "looking puzzled"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Never mind...",
+          "Description": null
+        },
+        {
+          "PartText": "The thing is...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve been thinking ever since this John and Angela deal...",
+          "Description": null
+        },
+        {
+          "PartText": "This is going to be a bumpy ride, but hang in there...",
+          "Description": "smiling reassuringly"
+        },
+        {
+          "PartText": "You know I like you right?",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, as in:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027That one? That\u0027s Carol, she\u0027s pretty cool\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "and that\u0027s pretty much how I\u0027ve thought about it:",
+          "Description": null
+        },
+        {
+          "PartText": "Carol\u0027s pretty cool, but I don\u0027t have any intention of going THERE with her",
+          "Description": null
+        },
+        {
+          "PartText": "And do you know why?",
+          "Description": null
+        },
+        {
+          "PartText": "Or... let me rephrase that:",
+          "Description": null
+        },
+        {
+          "PartText": "do you know what reason I gave myself for not going there mentally, because objectively speaking:",
+          "Description": null
+        },
+        {
+          "PartText": "you are a really beautiful and smart woman so it would be natural to go there, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course John!...",
+          "Description": null
+        },
+        {
+          "PartText": "You knew that you could never live up to my consistently high level",
+          "Description": "smiling victoriously"
+        },
+        {
+          "PartText": "It\u0027s the body count, isn\u0027t it?",
+          "Description": "more gravely"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Body count!",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s such a stupid term!",
+          "Description": null
+        },
+        {
+          "PartText": "Like, how many other activities do we feel the need to quantify in that way?",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027That guy over there is De\u0027Shaun; he\u0027s been to 17 rap concerts!\u0027",
+          "Description": "intense"
+        },
+        {
+          "PartText": "Yes, the body count!",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027m not a saint in any way...",
+          "Description": null
+        },
+        {
+          "PartText": "I would actually think:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Carol is cool, but she has a high body count\u0027!",
+          "Description": null
+        },
+        {
+          "PartText": "And these last few weeks I\u0027ve been thinking",
+          "Description": null
+        },
+        {
+          "PartText": "You see...",
+          "Description": null
+        },
+        {
+          "PartText": "John and Angela were wrong about a lot of things",
+          "Description": null
+        },
+        {
+          "PartText": "They were ultimately selfish people who would sacrifice anyone around them in the name of John and Angela",
+          "Description": null
+        },
+        {
+          "PartText": "They were the types to take the dance floor and expect everyone else to just step aside and give them room to dance however they wanted",
+          "Description": null
+        },
+        {
+          "PartText": "Great intense love story, but if just 1% of couples went about their relationship like they did, the world would be a burning chaos",
+          "Description": null
+        },
+        {
+          "PartText": "They would fight and kill for their right to love each other exactly the way they wanted",
+          "Description": null
+        },
+        {
+          "PartText": "and though I never wanted for any of them to be killed, death is really the only place big enough for them",
+          "Description": null
+        },
+        {
+          "PartText": "But see...",
+          "Description": null
+        },
+        {
+          "PartText": "they were right about one thing:",
+          "Description": null
+        },
+        {
+          "PartText": "They were right in insisting on their right to feel what they felt!",
+          "Description": null
+        },
+        {
+          "PartText": "You know, when I would tell one of the noobs:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Yeah Carol\u0027s cool, but she\u0027s been to town a lot\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "the last part of that statement was not so much for them as it was for me...",
+          "Description": null
+        },
+        {
+          "PartText": "I was reminding myself not to go there",
+          "Description": null
+        },
+        {
+          "PartText": "And it was out of fear",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027ve been thinking a lot about what I was afraid of",
+          "Description": null
+        },
+        {
+          "PartText": "I think it goes something like this:",
+          "Description": null
+        },
+        {
+          "PartText": "I would fall in love with you and you would reject my advances and I\u0027d be reminded every time you hooked up with someone new",
+          "Description": null
+        },
+        {
+          "PartText": "And then maybe throw in some:",
+          "Description": null
+        },
+        {
+          "PartText": "what if we actually hit it off, and I would be faced with a daily dose of: ",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Dude, you look TIRED! Did Carol bring home someone new from the club last night and keep you awake with her moaning and screaming?\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "from our common friend, the Duke of Douche-bags, and then he would go on to moan lightly and touch himself and that is",
+          "Description": null
+        },
+        {
+          "PartText": "- in it\u0027s own right -",
+          "Description": null
+        },
+        {
+          "PartText": "enough to send chills down my spine!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "nodding in agreement"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Those last few days leading up to John\u0027s death...",
+          "Description": null
+        },
+        {
+          "PartText": "I knew you guys had something going",
+          "Description": null
+        },
+        {
+          "PartText": "It was pretty clear that you really cared about him...",
+          "Description": null
+        },
+        {
+          "PartText": "more than you allowed yourself to believe I think",
+          "Description": null
+        },
+        {
+          "PartText": "and I knew that John was in some way faced with a decision to either continue his Doomsday hunt for Angela, or choose a normal life, that at least for a start would include you...",
+          "Description": null
+        },
+        {
+          "PartText": "and you know what?...",
+          "Description": null
+        },
+        {
+          "PartText": "I was hoping SO MUCH that he would choose you!",
+          "Description": null
+        },
+        {
+          "PartText": "I didn\u0027t really understand his obsession with Angela, but even if I had, I felt like choosing a future with you was the only thing that made any sense, and he deserved that!...",
+          "Description": null
+        },
+        {
+          "PartText": "When things played out the way they did, I was almost heartbroken, but then I realized that I wasn\u0027t sad for John",
+          "Description": null
+        },
+        {
+          "PartText": "It wasn\u0027t actually that I wanted you for John",
+          "Description": null
+        },
+        {
+          "PartText": "I wanted you for me!",
+          "Description": null
+        },
+        {
+          "PartText": "John had the guts to do what I was afraid to do:",
+          "Description": null
+        },
+        {
+          "PartText": "acknowledge to himself just how great a person you are, and not give a fuck what anyone else thought about that!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... I don\u0027t know what to say...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, you don\u0027t have to say anything",
+          "Description": null
+        },
+        {
+          "PartText": "Actually, I would expect nothing but for you to not know what to say when I spring something like this on you...",
+          "Description": null
+        },
+        {
+          "PartText": "What I am driving at is essentially this:",
+          "Description": null
+        },
+        {
+          "PartText": "I really like you Carol, and I would like to hang out with you outside of work",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s it",
+          "Description": null
+        },
+        {
+          "PartText": "If you don\u0027t feel any tug in that direction: no worries",
+          "Description": null
+        },
+        {
+          "PartText": "We don\u0027t have to \u0027forget it ever happened\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll move on and I won\u0027t bring it up again",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027m not declaring my intent to woo you",
+          "Description": null
+        },
+        {
+          "PartText": "this is my entire sales pitch",
+          "Description": null
+        },
+        {
+          "PartText": "Consider it a suggestion, and if you think it\u0027s something you\u0027d like to roll with, we\u0027ll find some activity we can do together",
+          "Description": null
+        },
+        {
+          "PartText": "I personally feel like dinner dates easily get awkward, but I\u0027m open for suggestions",
+          "Description": null
+        },
+        {
+          "PartText": "And if we find that the chemistry isn\u0027t there, or if we end up going at it and find that we \u0027march to two different rhythms\u0027, we\u0027ll conclude that it was worth the shot, and then at least we can say that we weren\u0027t afraid to try it out",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And you wouldn\u0027t be afraid that I would hook up with someone else?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well... no, not really...",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, if we go on a couple of dates and shimmy around in the \u0027maybe\u0027-zone, I\u0027m not expecting an exclusive deal",
+          "Description": null
+        },
+        {
+          "PartText": "If we clear the \u0027maybe\u0027-zone and take off, I do expect monogamy but then I wouldn\u0027t be afraid that you would break that deal",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But what if I did?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Then I would be sad",
+          "Description": null
+        },
+        {
+          "PartText": "I can\u0027t promise you tears, because they don\u0027t come all that easily to me, but it would hurt",
+          "Description": null
+        },
+        {
+          "PartText": "and I would probably be angry for a while...",
+          "Description": null
+        },
+        {
+          "PartText": "and we\u0027d break up and both move on and after a cool-down period we\u0027d both be back at this lunch table discussing far-off conspiracy theories and that would be that",
+          "Description": null
+        },
+        {
+          "PartText": "But I honestly can\u0027t see it happening",
+          "Description": null
+        },
+        {
+          "PartText": "Because I think you want a \u0027real relationship\u0027 between just two people who love each other",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t doubt that you like sex and that you like having sex with different people, and I respect that side of you, because I think it comes from the fact that you generally like other people and you \u0027find them\u0027 most intensely during sex",
+          "Description": null
+        },
+        {
+          "PartText": "But I also think that you want to find something different or more than what you find during the course of a single sleepless night",
+          "Description": null
+        },
+        {
+          "PartText": "And I think it scares you!",
+          "Description": null
+        },
+        {
+          "PartText": "And to some extent, I think you\u0027ve been wanting to try out this concept of a relationship, and you\u0027ve chosen to do that with guys you knew could never be in a committed relationship, and maybe that comes from wanting an easy out, or so you could convince yourself that relationships weren\u0027t for you and at the end of the day:",
+          "Description": null
+        },
+        {
+          "PartText": "what do I know?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John...",
+          "Description": null
+        },
+        {
+          "PartText": "I have appointments lined up for the next 3 nights...",
+          "Description": "looking a little worried"
+        },
+        {
+          "PartText": "This is a lot to take in...",
+          "Description": null
+        },
+        {
+          "PartText": "But I will think about it, OK?",
+          "Description": "looking him in the eyes"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s plenty",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "And Carol did think about it. She thought about it all through the rest of the day at work. And she thought about it as she was getting ready to go out that night. And she thought about it while What\u0027s-his-name was talking about the real estate market or something, and it was while feigning interest in whatever he was saying, that Carol decided that she was done thinking about it. And then she got to thinking: \u0027I wonder what John\u0027s doing now\u0027, and then she thought that the time for thinking was through and decided to get up and get out and find out for herself what John was doing now.",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 36,
+  "ChapterHash": "LedoreCym\u002Bx/WHxFj3BiZOndtXPdaOXC\u002BH9v0aO5f3CLAThnA/y\u002BvLDSue05ZZzn4Ds0dE/LALIQQk5MyO3ncw==",
+  "Video": {
+    "FileName": "orange-sky.gif",
+    "AttributionText": "Red Sun Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/red-sun"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

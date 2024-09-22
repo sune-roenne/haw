@@ -1,0 +1,70 @@
+﻿@using ThousandAcreWoods.UI.Pages.Common
+@using ThousandAcreWoods.UI.Components.TextUtilities
+
+@page "/capture"
+@layout EmptyLayout
+
+<script src="javascript/screen-capture.js"></script>
+
+<div class="taw-capture-bg-container" id="taw-capture-bg-container">
+    <div class="taw-capture-txt-container">
+        @if (_currentTextClass != null && _currentTexts != null)
+        {
+            @foreach (var txt in _currentTexts)
+            {
+                <div class="taw-capture-txt">
+                    @if (_currentTextClass.Classname == nameof(BlinkingNeonLights))
+                    {
+                        <BlinkingNeonLights 
+                            FontSettings="@(new FontSettings(
+                                Family: txt.FontFamily ?? _currentTextClass.FontFamily ?? "Curlz MT",
+                                Size: _currentText!.TextSize ?? _currentTextClass!.TextSize,
+                                Color: txt!.Color ?? _currentTextClass!.Color ??  "rgb(255,213,255)",
+                                ShadowColor: txt!.ShadowColor ??  "rgb(212,44,202)"))"
+                            SlowBlinkingIndexes=[1,4,10,13,18]
+                                            FastBlinkingIndexes=[2,3,7,12,16]
+                                            Text="@txt.Text"></BlinkingNeonLights>
+                    }
+                    else if (_currentTextClass.Classname == nameof(FlashOnOffText))
+                    {
+                        <FlashOnOffText Text="@txt!.Text" FontSettings="@(new FontSettings(
+                                Family: txt.FontFamily ?? _currentTextClass.FontFamily ?? "Dancing Script", 
+                                Size: txt.TextSize ?? _currentTextClass!.TextSize, 
+                                Color: txt.Color ?? _currentTextClass.Color ??  "rgb(255,213,255)" ))" 
+                           TimeToAnimatePerLetter="TimeSpan.FromMilliseconds(30)">
+                        </FlashOnOffText>
+                    }
+                    else if (_currentTextClass.Classname == nameof(GlidingInText))
+                    {
+                        <GlidingInText Text="@txt!.Text" FontSettings="@(new FontSettings(
+                                Family: txt.FontFamily ?? _currentTextClass.FontFamily ?? "Dancing Script",
+                                Size: txt.TextSize ?? _currentTextClass!.TextSize,
+                                Color: txt.Color ?? _currentTextClass.Color ?? "rgb(255,213,255)" ))"
+                           AnimationDelayPerCharacter="TimeSpan.FromMilliseconds(20)"></GlidingInText>
+                    }
+                    else if (_currentTextClass.Classname == nameof(GlitchText))
+                    {
+                        <GlitchText Text="@txt!.Text" BackgroundColor="green"></GlitchText>
+                    }
+                    else if (_currentTextClass.Classname == nameof(SmoothFadeInText))
+                    {
+                        <SmoothFadeInText Text="@txt!.Text" FontSettings="@(new FontSettings(
+                                Family: txt.FontFamily ?? _currentTextClass.FontFamily ?? "Dancing Script",
+                                Size: txt!.TextSize ?? _currentTextClass!.TextSize,
+                                Color: txt.Color ?? _currentTextClass.Color ?? "rgb(255,213,255)" ))"
+                                          MillisDelayPerCharacter="30"></SmoothFadeInText>
+                    }
+                    else if (_currentTextClass.Classname == nameof(TerminalText))
+                    {
+                        <TerminalText Text="@(["finalizing...","Website complete! Wasn't that easy?"])"
+                                      OnAnimationComplete="OnAnimationComplete">
+                        </TerminalText>
+                    }
+                </div>
+            }
+        }
+    </div>
+
+
+</div>
+

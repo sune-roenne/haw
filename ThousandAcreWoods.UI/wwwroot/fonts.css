@@ -1,0 +1,38 @@
+﻿@font-face {
+    font-family: 'Flesheater';
+    src: url('fonts/Eater-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('fonts/DancingScript.ttf');
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: 'Great Vibes';
+    src: url('fonts/GreatVibes-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Reenie Beanie';
+    src: url('fonts/ReenieBeanie-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Satisfy';
+    src: url('fonts/Satisfy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Sevillana';
+    src: url('fonts/Sevillana-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Tangerine';
+    src: url('fonts/Tangerine-Regular.ttf') url('fonts/Tangerine-Bold.ttf');
+    font-weight: normal bold;
+}
+
+

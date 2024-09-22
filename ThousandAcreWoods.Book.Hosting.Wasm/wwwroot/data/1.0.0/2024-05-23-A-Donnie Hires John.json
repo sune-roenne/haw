@@ -1,0 +1,1830 @@
+{
+  "ChapterDate": "2024-05-23T00:00:00",
+  "ChapterName": "John is Hired",
+  "ChapterFileName": "2024-05-23-A-Donnie Hires John.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m here to see Donald",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "receptionist",
+        "CharacterName": "Receptionist",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s not an abbreviation...",
+          "Description": null
+        },
+        {
+          "PartText": "He is actually named \u0027Donnie\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "He is waiting for you in his office. Follow me",
+          "Description": "courteous, smiling"
+        },
+        {
+          "PartText": "...",
+          "Description": "knocks on the door to Donnie\u0027s office and opens it"
+        },
+        {
+          "PartText": "Donnie... John is here to see you",
+          "Description": "leaning head inside office"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Please show him in Janet",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "janet",
+        "CharacterName": "Janet",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He\u0027ll see you now",
+          "Description": "to John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The large office is about what John had imagined the office of the CEO of the countries largest fund administration company would look like, complete with giant windows with a view of the forest and a whole bunch of furniture that looks old and expensive. \r\nBehind the desk of his very large desk, what John assumes to be the CEO is all suited up and ready for a game of Corporate Hardball.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Have a seat, please",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you, sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "To start with, I have two questions for you John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "nods in approval"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "During your interview yesterday, you mentioned 4 services typically provided by a fund administration company",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes, sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If I were to ask you which of the 4 services typically deals with balance sheets, would you answer that question?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I would, sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "stern"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... and I believe I would have a 25% chance of getting the answer right",
+          "Description": "slight sideways nod with head to signal minor concession"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "nods, slight smile"
+        },
+        {
+          "PartText": "Second question: Can you tell me the name of either of the two people who interviewed you yesterday?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "closes eyes, movements behind the eyelids"
+        },
+        {
+          "PartText": "Their names were Dan and Maria",
+          "Description": "sternly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Convincing!",
+          "Description": "nods head"
+        },
+        {
+          "PartText": "And 100% wrong. But I guess the odds for this one were also a lot worse than 1:4",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Can you tell me what my name is John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think we both know that indeed I cannot... sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s what I thought!",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Now for something a little more serious",
+          "Description": null
+        },
+        {
+          "PartText": "I need you to have a look at these 4 photographs, and tell me if you know the young lady - Angela - in them",
+          "Description": "lays out 4 photos of Angela"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "leans forward and studies the photographs intensely for 15 seconds"
+        },
+        {
+          "PartText": "I don\u0027t believe that I do, sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Most people would have responded with a simple yes or no...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I certainly don\u0027t know her personally...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "but...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know...",
+          "Description": null
+        },
+        {
+          "PartText": "She looks familiar...",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "Like maybe I have seen her somewhere...",
+          "Description": null
+        },
+        {
+          "PartText": "But I don\u0027t recall where that might have been",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s alright John",
+          "Description": "leans forward in his chair, looking John sternly in the eye"
+        },
+        {
+          "PartText": "This is Angela again...",
+          "Description": null
+        },
+        {
+          "PartText": "as she looked when she was found on the bathroom floor in this building yesterday a little after 14:30...",
+          "Description": "showing John a 5th image"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "nods slightly in acknowledgment, otherwise no reaction"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You don\u0027t seem the least bit shaken nor surprised from seeing a woman who has been stabbed more than 30 times",
+          "Description": null
+        },
+        {
+          "PartText": "Why is that, John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I have a pretty strong stomach when it comes to gore...",
+          "Description": null
+        },
+        {
+          "PartText": "and...",
+          "Description": null
+        },
+        {
+          "PartText": "I got the clear impression yesterday, that something very grave had happened",
+          "Description": null
+        },
+        {
+          "PartText": "and cozy as this conversation is...",
+          "Description": null
+        },
+        {
+          "PartText": "I didn\u0027t think you asked me to come here at 8:00 to discuss my cognitive shortcomings",
+          "Description": null
+        },
+        {
+          "PartText": "When you leaned forward in your chair I assumed you were about to show me something bad and wanted to study my reaction to it",
+          "Description": "becoming more consumed by the murder scene photos while speaking"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "pensive"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m guessing there is no reason to say that I didn\u0027t do it, as I\u0027m sure you know that I was engaged in a job interview at the time in question.",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Mmmmm",
+          "Description": null
+        },
+        {
+          "PartText": "Well, actually...",
+          "Description": null
+        },
+        {
+          "PartText": "The police believe that the murder occurred somewhere between 14:10 and 14:35...",
+          "Description": null
+        },
+        {
+          "PartText": "The part of the building where Angela was found, is mostly used for meetings...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "At 14:03 yesterday, every employee at FinaLibre received a fraudulent email, that had people centered around their desks at the other end of the building...",
+          "Description": null
+        },
+        {
+          "PartText": "The police haven\u0027t ruled out that the two events are connected...",
+          "Description": null
+        },
+        {
+          "PartText": "But they have very few leads to go on, in terms of discovering the actual sender of the email",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "pausing, looking at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So I assume you want to know if I may know anything about the email and the murder...?",
+          "Description": "now lifting his eyes to meet Donnie\u0027s"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmmm...",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "No. I can\u0027t see why you would, to be frank...",
+          "Description": null
+        },
+        {
+          "PartText": "and Janet has informed me that you were in the lobby from around 14:10, which pretty much rules you out as the killer",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "No. I want to ask you...",
+          "Description": null
+        },
+        {
+          "PartText": "During the interview yesterday...",
+          "Description": null
+        },
+        {
+          "PartText": "You were unable to say who had asked you to apply for the job...",
+          "Description": null
+        },
+        {
+          "PartText": "In light of what you now know, has your position on the topic changed?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No. I am sorry, sir. I would love to help out in finding whoever did this, but I can\u0027t...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "waving dismissively with his hands"
+        },
+        {
+          "PartText": "I didn\u0027t think so...",
+          "Description": null
+        },
+        {
+          "PartText": "...but I want you to please consider the following question very carefully before answering...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "As I said, the young woman in the photos is...",
+          "Description": null
+        },
+        {
+          "PartText": "WAS named Angela, and she was 27 years old when she was murdered yesterday",
+          "Description": null
+        },
+        {
+          "PartText": "She worked in the Fund Accounting Team here at FinaLibre and she was brilliant",
+          "Description": null
+        },
+        {
+          "PartText": "She was by many - myself included - considered to be the brightest person here...",
+          "Description": null
+        },
+        {
+          "PartText": "but she was also a controversial person, and there was a tendency for people to consider her...",
+          "Description": null
+        },
+        {
+          "PartText": "insensitive... bordering on anti-social",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not aware that anyone in the company would want her dead, but then again...",
+          "Description": "gesturing at the photo from the murder scene"
+        },
+        {
+          "PartText": "I have a theory, that Angela was the person responsible for summoning you to the interview yesterday",
+          "Description": null
+        },
+        {
+          "PartText": "for reasons probably only she knew",
+          "Description": null
+        },
+        {
+          "PartText": "Neither Carol nor Frank remember scheduling the interview...",
+          "Description": null
+        },
+        {
+          "PartText": "If I were to name three people within the company as most likely to do something like that",
+          "Description": null
+        },
+        {
+          "PartText": "I would say Angela 3 times. Without hesitation!",
+          "Description": null
+        },
+        {
+          "PartText": "Now for the question:",
+          "Description": null
+        },
+        {
+          "PartText": "based on the message you received the other day and what I have now told you about Angela, can you say with any certainty that she was or was not the person behind the message?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "nodding slightly, pensive"
+        },
+        {
+          "PartText": "I certainly cannot rule it out",
+          "Description": null
+        },
+        {
+          "PartText": "In fact, based on what you have told me about Angela, I think it is very likely that she was the person behind the message, sir...",
+          "Description": null
+        },
+        {
+          "PartText": "though I haven\u0027t the faintest idea WHY she would send the message, nor what she may have stood to gain from me working here...",
+          "Description": null
+        },
+        {
+          "PartText": "She must have known that the chances of me actually getting a job based on my qualifications were slim",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... Is there anything else I can do to help out in this situation, sir?",
+          "Description": null
+        },
+        {
+          "PartText": "As I have said: I really don\u0027t know anything other than what I have told you, but I\u0027ll help out if I at all can...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I am glad you feel that way John...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Because I am going to offer you a job, similar to the one you were interviewing for yesterday",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "showing slight surprise"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You will enter the company in an entry-level position, and will spend the first period of your employment in our Academy...",
+          "Description": null
+        },
+        {
+          "PartText": "Normally, participants are expected to show progression and are evaluated at the 14 days and 3 months mark of their employment...",
+          "Description": null
+        },
+        {
+          "PartText": "Frank, the man who interviewed you yesterday, will be let in on the actual purpose of your employment...",
+          "Description": null
+        },
+        {
+          "PartText": " - which I will get to in a moment - ",
+          "Description": null
+        },
+        {
+          "PartText": "and I will ask him to make sure that we \u0027have our eyes on the bigger picture\u0027 during your exams...",
+          "Description": null
+        },
+        {
+          "PartText": "For the purpose of not causing any more alarm among the staff than what the events of yesterday have already caused...",
+          "Description": null
+        },
+        {
+          "PartText": "I would like for them to believe that your employment here is on standard terms...",
+          "Description": null
+        },
+        {
+          "PartText": "but what I will actually have you do, is ask around and uncover:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " who was responsible for Angela\u0027s murder",
+        " if Angela\u0027s murder was part of a greater conspiracy against the company"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "but I would like you to prioritize the latter over the former",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "How do you feel about the offer?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmm... To be honest, I feel...",
+          "Description": null
+        },
+        {
+          "PartText": "A bit suspicious... sir",
+          "Description": null
+        },
+        {
+          "PartText": "From what you have just told me, the offer hinges on your belief that Angela asked me to come here...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure your reasoning for letting a total stranger into the company at this time based solely on that resonates with me... sir",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ah, yes...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "...",
+          "Description": "thinking"
+        },
+        {
+          "PartText": "Let me tell you a story, John",
+          "Description": null
+        },
+        {
+          "PartText": "About a year ago, I was approached by a journalist from one of the major TV networks...",
+          "Description": null
+        },
+        {
+          "PartText": "Who wanted to do an interview with me regarding the \u0027rampant drug problem at FinaLibre\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "The story he had lined up went something like this:",
+          "Description": null
+        },
+        {
+          "PartText": "He had video evidence of 5 of our young employees snorting coke off strippers in a private room at a downtown strip joint on 3 separate occasions",
+          "Description": null
+        },
+        {
+          "PartText": "Which I imagine isn\u0027t really a breaking news story in 2024...",
+          "Description": null
+        },
+        {
+          "PartText": "Or at least, I would say that the problem isn\u0027t really a FinaLibre-problem as such",
+          "Description": null
+        },
+        {
+          "PartText": "but more of a youth-problem",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugging in agreement"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "but the guy had linked the events to operational mistakes that occurred on the days immediately following each of the 3 occasions",
+          "Description": null
+        },
+        {
+          "PartText": "and the \u0027pension funds for blue-collar workers lose money from decadent behavior by FinaLibre employees\u0027 wasn\u0027t a good look for us",
+          "Description": null
+        },
+        {
+          "PartText": "He hadn\u0027t run the story yet, but it seemed evident that he was only wrapping it up before going national with it",
+          "Description": null
+        },
+        {
+          "PartText": "I told a few people at the company about the situation:",
+          "Description": null
+        },
+        {
+          "PartText": "Angela, Carol, Frank, and our PR team",
+          "Description": null
+        },
+        {
+          "PartText": "After a week, I got a call from the boss of the journalist, telling me that the man had been fired",
+          "Description": null
+        },
+        {
+          "PartText": "And that the story had been dropped",
+          "Description": null
+        },
+        {
+          "PartText": "In a tone of voice that suggested that he had held up his part of the bargain...",
+          "Description": null
+        },
+        {
+          "PartText": "Now, you might be thinking:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Alright, but what does that have to do with Angela?\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "conceding with a shrug"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And you would be right to think so...",
+          "Description": null
+        },
+        {
+          "PartText": "But this wasn\u0027t the first time Angela had pulled a Hail Mary for us...",
+          "Description": null
+        },
+        {
+          "PartText": "It was in fact the third time...",
+          "Description": null
+        },
+        {
+          "PartText": "So I immediately went to her and told her the good news...",
+          "Description": null
+        },
+        {
+          "PartText": "and asked her what she had done...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "In an \u0027I certainly didn\u0027t do anything, but let\u0027s HYPOTHETICALLY assume\u0027 kind of way, she told me that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " so-called FunBox TM boxes had begun appearing in storage rooms and other secluded areas of a list of major financial- and news-media institutions within a couple of days of when I was contacted by the journalist",
+        " these FunBox TM boxes released an amount of substance - cocaine, benzodiazepines or medium-strength synthetic opiates - on the user transferring an amount of Monero to the address on the box",
+        " SOMEONE was in possession of urine samples from up to 20 employees of each company, and that someone may be inclined to release said samples for public scrutiny if we were to have a big public debate on \u0027rampant drug problems\u0027"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking sternly at John to make sure he understands"
+        },
+        {
+          "PartText": "What I\u0027m saying is:",
+          "Description": null
+        },
+        {
+          "PartText": "If Angela wanted you here, I know enough to indulge that wish",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "How does that resonate?",
+          "Description": "sympathetic smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well... It sounds...",
+          "Description": null
+        },
+        {
+          "PartText": "Impressive",
+          "Description": "nodding in approval"
+        },
+        {
+          "PartText": "...",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "I accept the offer",
+          "Description": null
+        },
+        {
+          "PartText": "It sounds like a big whale",
+          "Description": "smiling slightly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If you want...",
+          "Description": "packing away the photos of Angela, not looking at John"
+        },
+        {
+          "PartText": "We can call you Ahab",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "... we checked, and we know that the \u0027John\u0027-identity is fake, so for all I care, you can go by whatever you want ...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... Hmmm...",
+          "Description": null
+        },
+        {
+          "PartText": "I do like \u0027Fernando Sanchez\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027d never swing it with my complexion",
+          "Description": null
+        },
+        {
+          "PartText": "John will do, sir",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Then John it is",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "I hope you don\u0027t take this the wrong way...",
+          "Description": null
+        },
+        {
+          "PartText": "but you don\u0027t like the people we normally employ",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I look like I just got out of prison",
+          "Description": "conceding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "...so...",
+          "Description": "takes out a Sunflower lanyard from the drawer of his desk and tosses it to John"
+        },
+        {
+          "PartText": "you are now the first hire of our new Sunflower program: \u0027Bringing FinaLibre into the neurodivergent age of 2024\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "which should buy you some leeway especially with the people coming from a financial background...",
+          "Description": null
+        },
+        {
+          "PartText": "who tend to believe that \u0027programmer\u0027 is its own sub-category of behavioral disorders",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "I would like you to report directly to me at least once a week",
+          "Description": null
+        },
+        {
+          "PartText": "If I\u0027m not in here, feel free to wait for me here...",
+          "Description": null
+        },
+        {
+          "PartText": "Though, I\u0027d advise you...",
+          "Description": null
+        },
+        {
+          "PartText": "If you use the sofa over there...",
+          "Description": null
+        },
+        {
+          "PartText": "You may want to wash your hands afterward, as I think Carol uses it for some of her \u00271-on-1\u0027s",
+          "Description": "shrugging in a \u0027what can you do\u0027 manner"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugging in a \u0027sounds reasonable\u0027 manner"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 14,
+  "ChapterHash": "mzF52WU4BuJflBOWDmEmVZpx\u002B57bZUydIfK5OicVBBgMmaAt\u002BVM4ivZOLqpcSp0rsW7G9TjSCPp8uJcx7GmDqQ==",
+  "Video": {
+    "FileName": "deep-sea.gif",
+    "AttributionText": "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

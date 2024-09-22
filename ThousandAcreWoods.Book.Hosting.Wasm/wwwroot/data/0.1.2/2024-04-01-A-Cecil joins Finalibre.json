@@ -1,0 +1,415 @@
+{
+  "ChapterDate": "2024-04-01T00:00:00",
+  "ChapterName": "Enter Cecil",
+  "ChapterFileName": "2024-04-01-A-Cecil joins Finalibre.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know we covered some of this during the interviews, but let me start by giving you a brief introduction to what we do here at FinaLibre",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That would be great",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "FinaLibre is first and foremost the leading fund administration company in the country. A position we have held for the last 5 years when measured by Assets Under Management, which today is no less than 200 billion EUR",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s impressive",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Indeed it is, but we have no intention of stopping there",
+          "Description": null
+        },
+        {
+          "PartText": "Although I am not able to share the specifics of our current RnD projects, don\u0027t expect to face unemployment anytime soon",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That sounds great",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Cecil isn\u0027t expecting to be facing unemployment anytime soon and he isn\u0027t expecting to be staying with FinaLibre any longer than necessary. Sure, the company had a reputation of being a good employer and had been pretty consistently represented in the top 3 financial services employers for the past many years and \u0027that\u0027s nice\u0027 Cecil supposes, \u0027if you\u0027re into that sort of thing\u0027. And Cecil doesn\u0027t believe he IS into that sort of thing.\r\nHe is simply too young for that!\r\n\r\nCecil wants back in the Major League! He had been well on his way to securing a place in the express lane to Investment Advisor superstardom, but then one little mistake on a ski trip a couple of months ago had sent him back in the \u0027poor bastards\u0027-lane. Cecil had learned his lesson: dating the daughter of the person you expect to hold the express lane open for you is walking a tight line, and if something similar should befall him again, he needs to pay more attention.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "As I mentioned during the interviews, I have extensive experience with Investment Advisory...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m afraid we don\u0027t provide Investment Advisory services...",
+          "Description": null
+        },
+        {
+          "PartText": "We are strictly Fund Management",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh... So, what would you like me to do?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, first off, we need to get you through the Academy",
+          "Description": null
+        },
+        {
+          "PartText": "Everyone starts their employment with us in the Academy",
+          "Description": null
+        },
+        {
+          "PartText": "This lets us ensure that every new hire understands what we do here and that they have the skill set we are looking for",
+          "Description": null
+        },
+        {
+          "PartText": "At the Academy you learn basic concepts about Finance... though I\u0027m sure there will be nothing new for you here",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "And basic concepts of Computer Science and Programming",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t we have IT guys for that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "About 40% of our employees are people with an IT background. We train them to have the sufficient understanding of Finance required to partake in designing solutions...",
+          "Description": null
+        },
+        {
+          "PartText": "Having efficient processes is at the core of our operating philosophy...",
+          "Description": null
+        },
+        {
+          "PartText": "And we simply can\u0027t waste time translating between \u0027IT-talk\u0027 and \u0027money-talk\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I guess that makes sense, but I should warn you: IT was never my strong suit in college...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "frank",
+        "CharacterName": "Frank",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You needn\u0027t worry... You are not the first...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "The Academy has successfully trained people from all walks of life, so I\u0027m sure we\u0027ll be able to train you...",
+          "Description": null
+        },
+        {
+          "PartText": "... and if we can\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "we\u0027ll know at the 2-week or 3-month evaluation...",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking a little worried"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 1,
+  "ChapterHash": "i68Q/FG3iWZwZ3Is1tM4lqjTJs1XVtws9s4aDXaRJh5p9qGqD3IwY3p1mmIzohB89RXbgQk7EHguzL6uWRUFPA==",
+  "Video": {
+    "FileName": "work-meeting.gif",
+    "AttributionText": "Video by Tiger Lily from Pexels",
+    "AttributionLink": "https://www.pexels.com/video/team-meeting-7147921/"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Old Standard TT",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Old Standard TT",
+    "TheFontFamily": "Old Standard TT",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

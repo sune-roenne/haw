@@ -1,0 +1,82 @@
+﻿@using ThousandAcreWoods.Book.Hosting.Wasm.Model
+@using ThousandAcreWoods.UI.Components.TextAnimation
+
+
+@if(_chapter != null)
+{
+    <div class="taw-site-chapter-bg" style="background-image: url('@VideoFileName');">
+        @if(_showText)
+        {
+            <div class="taw-site-chapter-text-holder" id="@ContentHolderId">
+                <CascadingValue Value="_chapter">
+                    <ChapterHeaderComponent></ChapterHeaderComponent>
+                    <TextViewerComponent ScrollTo="ScrollTo"></TextViewerComponent>
+                </CascadingValue>
+                <div id="taw-site-chapter-text-holder-bottom"></div>
+            </div>
+        }
+        <div class="taw-site-chapter-bg-attribution">
+            <p>Video from: <a href="@(_chapter.Video.AttributionLink)">@(_chapter.Video.AttributionText)</a></p>
+        </div>
+
+    </div>
+    <script>
+        const textHolderId = 'taw-site-chapter-text-holder'
+        const textHolderQuery = '#' + textHolderId
+
+        window.scrollToBlock = (blockId) => document.getElementById(blockId).scrollIntoView({
+            behavior: 'smooth'
+        });
+
+        function isVisible (elementId, containerId) {
+            const ele = document.getElementById(elementId)
+            const container = document.getElementById(containerId)
+            const { bottom, height, top } = ele.getBoundingClientRect();
+            const containerRect = container.getBoundingClientRect();
+
+            return top <= containerRect.top ? containerRect.top - top <= height : bottom - containerRect.bottom <= height;
+        };
+
+        function hasScrolledToBottom() 
+        {
+            return isVisible('taw-site-chapter-text-holder-bottom', textHolderId);
+        }
+
+        function getCurrentParagraphIndex() 
+        {
+            const topContentY = $(textHolderQuery).position().top
+            let minDistance = 9999999
+            let bestMatchIndex = '0'
+            $('.taw-site-chapter-paragraph-static').each((indx, para) => {
+                let blockY = $(para).position().top
+                if (blockY < topContentY) {
+                    let blockDistance = topContentY - blockY
+                    if (blockDistance < minDistance) {
+                        bestMatchIndex = $(para).attr('paragraph-index')
+                        minDistance = blockDistance
+                    }
+                }
+            })
+            let topParagraphIndex = parseInt(bestMatchIndex)
+            return topParagraphIndex;
+        }
+
+        function getScrollStatus() 
+        {
+            let topParagraphIndex = getCurrentParagraphIndex()
+            let isAtBottom = hasScrolledToBottom()
+            let returnee = JSON.stringify({ ParagraphIndex: topParagraphIndex, IsAtBottom: isAtBottom });
+            return returnee;
+        }
+
+        $(document).ready(() => {
+            $(textHolderQuery).on('scrollend', (ev) => {
+                let topParagraphIndex = getCurrentParagraphIndex()
+                let isAtBottom = hasScrolledToBottom()
+                DotNet.invokeMethodAsync('ThousandAcreWoods.Book.Hosting.Wasm', 'UpdateScrollingStatus', topParagraphIndex, isAtBottom)
+            })
+        })
+
+    </script>
+
+}

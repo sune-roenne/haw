@@ -1,0 +1,11 @@
+﻿.taw-site-chapter-animated-text-box {
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(161, 59, 59);
+/*    background-color: rgb(254, 243, 243); */
+    margin: -10px;
+    padding: 10px;
+    min-height: 200px;
+    width: 100%;
+}

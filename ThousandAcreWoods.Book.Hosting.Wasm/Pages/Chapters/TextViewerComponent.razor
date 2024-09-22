@@ -1,0 +1,14 @@
+﻿<div class="taw-site-chapter-text-viewer">
+    @if(_paragraphs != null)
+    {
+        @foreach(var para in RenderParagraphs)
+        {
+            <ParagraphComponent Animate="para.ShouldAnimate" OnFinishedRendering="OnFinishedRendering" Paragraph="para.Paragraph"></ParagraphComponent>
+        }
+    }
+    <div class="taw-site-chapter-text-viewer-bottom-nav">
+        <NavigationArrowComponent IsDisabled="LeftArrowIsDisabled" IsLeft="true" OnClick="OnLeftArrowClick"></NavigationArrowComponent>
+        <NavigationArrowComponent IsDisabled="RightArrowIsDisabled" IsLeft="false" OnClick="OnRightArrowClick"></NavigationArrowComponent>
+    </div>
+
+</div>

@@ -1,0 +1,12 @@
+﻿@using ThousandAcreWoods.UI.Components.TextAnimation
+@if(!Animate)
+{
+    <div style="@(Font.ToCssRules())">
+        @Text
+
+    </div>
+}
+else
+{
+    <FlashOnOffText TimeToAnimatePerPart="DelayPerItem" FontSettings="Font" Text="@Text" TextSplitMode="TextSplitMode.ByWord"></FlashOnOffText>
+}

@@ -1,0 +1,3468 @@
+{
+  "ChapterDate": "2024-04-10T00:00:00",
+  "ChapterName": "Angela\u0027s First Dream",
+  "ChapterFileName": "2024-04-10-Angelas First Dream of John.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Angela is sitting on the train, commuting to work, when suddenly the world freezes... Not in the sense of getting cold, but in the sense that the train\u0027s movement is completely halted from one instant to the next. At the same time, every passenger in the train becomes inanimate. It\u0027s as if someone clicked the pause button, but the world forgot to include Angela in the pause command.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m dreaming!",
+          "Description": null
+        },
+        {
+          "PartText": "Wait... I said that out loud, didn\u0027t I?",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027m allowed to say things out loud because it\u0027s my dream!",
+          "Description": null
+        },
+        {
+          "PartText": "I like this... Maybe I should begin thinking out loud more often",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, so this is my morning commute, I recognize that",
+          "Description": null
+        },
+        {
+          "PartText": "And, I can see from the progress bars, that we are 5 minutes off Thousand Acre Forest (East), so I have a pretty good idea of the \u0027where\u0027 of this dream",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Angela takes out her cell phone and checks the date on the display: Wednesday - April 10th - 2024. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s today, isn\u0027t it?",
+          "Description": null
+        },
+        {
+          "PartText": "OK, so the \u0027when\u0027 is today...or yesterday... How the hell do I determine the time OUTSIDE my dream",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "brain",
+        "CharacterName": "Brain",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Who cares?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OK... I kinda thought this was my show, but alright...",
+          "Description": null
+        },
+        {
+          "PartText": "So... Here we are, in a situation I have recently experienced, and you have brought me here...",
+          "Description": null
+        },
+        {
+          "PartText": "You\u0027ve brought me here because I missed something, right?",
+          "Description": null
+        },
+        {
+          "PartText": "Because that\u0027s what dreams are about... The brain does a complete garbage collection and cleans out any interrupted and/or unfinished thoughts, and at this point of my day, I left something interrupted",
+          "Description": null
+        },
+        {
+          "PartText": "Am I right?",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "waiting"
+        },
+        {
+          "PartText": "Look Brain, I don\u0027t negotiate with terrorists... Either you\u0027re in the dream, and you ping/pong with me and you get to have your little passive/aggressive outbursts, or you\u0027re out and you stay out",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, just remember that you asked for it...",
+          "Description": null
+        },
+        {
+          "PartText": "DOES A TREE MAKE A SOUND IF IT FALLS IN THE FOREST AND NO ONE IS AROUND TO HEAR IT?",
+          "Description": "shouting"
+        },
+        {
+          "PartText": "AND WHAT IF IT DOESN\u0027T SO MUCH FALL AS GENTLY LAND ON ITS BUTT?",
+          "Description": null
+        },
+        {
+          "PartText": "DO TREES EVEN HAVE BUTTS? I KNOW THEY HAVE BUDS, BUT DO THEY HAVE BUTTS?",
+          "Description": null
+        },
+        {
+          "PartText": "AND WHAT IF THERE IS INDEED SOMEONE AROUND TO HEAR IT, BUT THE PERSON IS DEAF AND...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "brain",
+        "CharacterName": "Brain",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh my God, what the hell is wrong with you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, if Doctor Petersson couldn\u0027t figure that out over the course of 5 years, do you think we\u0027re going to figure it out during this dream?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "brain",
+        "CharacterName": "Brain",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What do you want from me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "A simple answer would be nice: Have you brought me here to figure out what I missed?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "brain",
+        "CharacterName": "Brain",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "YES!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Good! Now, are you in or are you out?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "brain",
+        "CharacterName": "Brain",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m OUT! Goodbye",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Good riddance! I can\u0027t stand people - or brains - who think they can have it both ways",
+          "Description": null
+        },
+        {
+          "PartText": "Have your cake and eat it too...",
+          "Description": null
+        },
+        {
+          "PartText": "Now, that gives me an idea...",
+          "Description": null
+        },
+        {
+          "PartText": "I will close my eyes, and think about a chocolate cake with chocolate frosting...",
+          "Description": null
+        },
+        {
+          "PartText": "It worked! But look at that thing, not even in my dreams could I win a baking show, huh?",
+          "Description": "dismayed"
+        },
+        {
+          "PartText": "But... who cares? This is about the science of it...",
+          "Description": null
+        },
+        {
+          "PartText": "TONIGHT LADIES AND GENTLEMEN, WE WILL ANSWER THE AGE-OLD QUESTION:",
+          "Description": "game show presenter voice"
+        },
+        {
+          "PartText": "\u0027IF YOU EAT AN ENTIRE CHOCOLATE CAKE IN YOUR DREAMS, WILL YOU WAKE UP AND BE FAT?\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "AND... TO HELP US ANSWER THAT QUESTION, HERE IS THE LOVELY AAAAANGEEELLAAAAAA",
+          "Description": "clapping"
+        },
+        {
+          "PartText": "AND NOW... IF THE AUDIENCE WOULD PLEASE SHUT THE FUCK UP AS LOVELY ANGELA ATTEMPTS TO CRAM DOWN THIS WHOLE CAKE IN ONE GO...",
+          "Description": null
+        },
+        {
+          "PartText": "Drum-roll please...",
+          "Description": "drum-rolls"
+        },
+        {
+          "PartText": "...",
+          "Description": "practically shoving cake down her throat"
+        },
+        {
+          "PartText": "AND THERE YOU HAVE IT LADIES AND GENTLEMEN, SHE\u0027S DONE IT! LET\u0027S HEAR FROM THE LOVELY ANGELA HOW SHE\u0027S DOING",
+          "Description": null
+        },
+        {
+          "PartText": "ANGELA! HOW DO YOU FEEL RIGHT NOW?",
+          "Description": null
+        },
+        {
+          "PartText": "Well Mike, I feel like I have just swallowed an entire chocolate cake...",
+          "Description": null
+        },
+        {
+          "PartText": "And I don\u0027t even like cake... boo hoo for me...",
+          "Description": null
+        },
+        {
+          "PartText": "I think I\u0027m going to be sick!",
+          "Description": null
+        },
+        {
+          "PartText": "ISN\u0027T SHE JUST A TREAT LADES AND GENTLEMEN?!",
+          "Description": null
+        },
+        {
+          "PartText": "WELL, THAT\u0027S IT FOR TONIGHT, BE SURE TO CHECK IN AGAIN WHEN WE WAKE UP, TO DISCOVER IF \u0027LOVELY ANGELA\u0027 IS NOW \u0027FAT ANGELA\u0027. UNTIL NEXT TIME!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, with that out of the way, let\u0027s see what we have here",
+          "Description": null
+        },
+        {
+          "PartText": "I remember that guy, but why?",
+          "Description": null
+        },
+        {
+          "PartText": "Do I feel attracted to him?",
+          "Description": null
+        },
+        {
+          "PartText": "No... He\u0027s certainly not the type of guy I would usually go for",
+          "Description": null
+        },
+        {
+          "PartText": "But this is definitely about him",
+          "Description": null
+        },
+        {
+          "PartText": "There was something about what he was doing... and what he was doing was...?",
+          "Description": null
+        },
+        {
+          "PartText": "He was watching that guy over there",
+          "Description": null
+        },
+        {
+          "PartText": "Uff! That guy looks like a complete sleazebag. Yuck!",
+          "Description": null
+        },
+        {
+          "PartText": "He\u0027s got like a sex-offender vibe to him",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t want him in my dream",
+          "Description": null
+        },
+        {
+          "PartText": "EXCUSE ME, CREEP",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "creep",
+        "CharacterName": "Creep",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Who me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How many other creeps do you see in this dream?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "creep",
+        "CharacterName": "Creep",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "There\u0027s at least...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s enough FILTH out of your FILTHY mouth! Go stand in the other end of the train where I can\u0027t see you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "creep",
+        "CharacterName": "Creep",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Or what?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooooh... magic time again",
+          "Description": null
+        },
+        {
+          "PartText": "Now, we say \u0027abracadabra\u0027, and look what started crawling on your arms... Bull ants!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "creep",
+        "CharacterName": "Creep",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Eeeew... That\u0027s disgusting!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh yes... very, but wait until you feel their bite!",
+          "Description": "sadistic smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "creep",
+        "CharacterName": "Creep",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "AAAAAAAAARRRRRGHHHH! THAT HURTS SO BAD!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes... That\u0027s what I have heard. Now go stand in the other end of the train, and if you leave now, I\u0027ll make sure someone is waiting for you with a strong painkiller to take the top off",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "creep",
+        "CharacterName": "Creep",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "ARRRRGGGGGGHHH",
+          "Description": "running out of the train car"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No rest for the wicked! The guy will be waiting for you with a nice shot of FENTANYL... Let\u0027s hope you get the dose right... Muahaha",
+          "Description": null
+        },
+        {
+          "PartText": "Alright... Back to the guy. He was watching the creep, but why?",
+          "Description": null
+        },
+        {
+          "PartText": "What do you say we cheat a little Angela...?",
+          "Description": null
+        },
+        {
+          "PartText": "Oh my, that\u0027s a splendid idea! Seeing as this is my dream, and I\u0027m supreme ruler",
+          "Description": null
+        },
+        {
+          "PartText": "- queen of the bull ants - ",
+          "Description": null
+        },
+        {
+          "PartText": "I could step a little closer and have a better look at the guy",
+          "Description": null
+        },
+        {
+          "PartText": "Hmmm... Those are sinister eyes. Pretty color of blue, but they cover some nasty secrets, don\u0027t they? Intriguing!",
+          "Description": null
+        },
+        {
+          "PartText": "Now... You were watching the creep. You weren\u0027t in love with the creep, and you don\u0027t look like you are about to burst out in a birthday tune for the loser, so why were you watching him?",
+          "Description": null
+        },
+        {
+          "PartText": "Let me think...",
+          "Description": null
+        },
+        {
+          "PartText": "Back in the real world...",
+          "Description": null
+        },
+        {
+          "PartText": "The boring world...",
+          "Description": null
+        },
+        {
+          "PartText": "The place where I cannot command bull ants... YET (!)",
+          "Description": null
+        },
+        {
+          "PartText": "... you got off at the same stop as he did... because you were following him, but wait a minute...",
+          "Description": null
+        },
+        {
+          "PartText": "You went for the exit before he did! Which means that you must have known where he was going, and when you got off the train...",
+          "Description": null
+        },
+        {
+          "PartText": "...you were going to follow him and... kill him!",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s it, isn\u0027t it?! You were following him, and you were following him in order to kill him, and the reason you wanted to kill the creep was... that he\u0027s a creep!",
+          "Description": null
+        },
+        {
+          "PartText": "... or that is at least what you tell yourself, but maybe that\u0027s just an excuse...",
+          "Description": null
+        },
+        {
+          "PartText": "...because you are a very angry man!",
+          "Description": null
+        },
+        {
+          "PartText": "And so you track down and kill creeps as an outlet for your anger!",
+          "Description": null
+        },
+        {
+          "PartText": "Am I right?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are right, but I\u0027d like to think I\u0027m also doing some good in the world",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Holy shit! You talk!",
+          "Description": null
+        },
+        {
+          "PartText": "How long have you been here?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, the whole time",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, but like, there\u0027s a lot of people here, but they\u0027re not really here...",
+          "Description": null
+        },
+        {
+          "PartText": "Like, I could draw a whiskers on them and they wouldn\u0027t object...",
+          "Description": null
+        },
+        {
+          "PartText": "How long have you been... sentient?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s kinda hard for me to say, but I think the whole time",
+          "Description": null
+        },
+        {
+          "PartText": "I was there for the terrorist negotiation with Brain",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh no... Then you also saw the cake-eating contest?",
+          "Description": "embarrassed"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes, I found that bit especially...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "embarrassing?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "charming",
+          "Description": "smiles"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooooh... I like you!",
+          "Description": null
+        },
+        {
+          "PartText": "And forget all the stuff I said about me not being attracted to you",
+          "Description": null
+        },
+        {
+          "PartText": "- I\u0027m not saying I am or anything -",
+          "Description": null
+        },
+        {
+          "PartText": "but I was just checking to see if you were awake that\u0027s all",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hey, this is your show... Feel free to change my looks in whatever way you want",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmm... I think we\u0027ll stick with it for now...",
+          "Description": null
+        },
+        {
+          "PartText": "Your look does have kind of a rough quality to it",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s probably just an acquired taste",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Have it your way",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... So I feel like I have solved the first riddle, but I bet there\u0027s more...",
+          "Description": null
+        },
+        {
+          "PartText": "Am I supposed to guess the details of what that creep has done?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh God no! I\u0027ve read his file and it\u0027s not something I want to be reminded of",
+          "Description": null
+        },
+        {
+          "PartText": "No, for now, you can relax",
+          "Description": null
+        },
+        {
+          "PartText": "I have something I need to show you",
+          "Description": "gets up and reaches into his pocket"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooooh... Is this gonna be one of those dreams where I\u0027m going to need a long hot shower when I wake up?",
+          "Description": "biting her lower lip"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That wasn\u0027t the plan... Do you want it to be?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmmm",
+          "Description": "dreamy"
+        },
+        {
+          "PartText": "Alright... No Mike, let\u0027s see what great mystery hides behind door number 1",
+          "Description": null
+        },
+        {
+          "PartText": "But, before we continue, I need to give you a name...",
+          "Description": null
+        },
+        {
+          "PartText": "It feels weird thinking of you as \u0027angry man\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "unnamed man",
+        "CharacterName": "Unnamed man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Can I be Fernando Sanchez? I like that name",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No... That you cannot",
+          "Description": null
+        },
+        {
+          "PartText": "Because Fernando Sanchez is a silly name, which anybody who\u0027s anybody knows...",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ll call you John!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John will do",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Great... Now, let\u0027s see what you have there John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "pulls out a cell phone and sits down beside her"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Can I hold it?",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s sort of a thing for me...",
+          "Description": null
+        },
+        {
+          "PartText": "I like being in control...",
+          "Description": null
+        },
+        {
+          "PartText": "I know... I\u0027m working on it with Doctor Petersson",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t mind",
+          "Description": "hands the cell phone over"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You need a new phone!",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, no time to waste on that now, but let me at least fix the cracks in the screen like...so",
+          "Description": null
+        },
+        {
+          "PartText": "Do you want popcorn?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure, I could go for popcorn",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Abracadabra: POPCORN!",
+          "Description": null
+        },
+        {
+          "PartText": "And... We\u0027ll hit \u0027play\u0027 like so...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The cell phone starts playing a movie. The camera fades in on a young man and a young woman sitting in the clearing by a forest lake on a bright Summer\u0027s day.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooooh... Is that us?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not exactly, but then again...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... Do you want to be the boy or the girl?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d prefer to be the young man",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm... Alright... A little boring I suppose...",
+          "Description": null
+        },
+        {
+          "PartText": "But \u0027you shouldn\u0027t ask a question if you\u0027re not willing to accept the answer\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "Ooooh... look... I\u0027m pretty ain\u0027t I?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think so",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are kinda handsome too!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "On behalf of the young man: thank you",
+          "Description": null
+        },
+        {
+          "PartText": "The dialogue is about to start",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Point taken",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young woman",
+        "CharacterName": "Young woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "They want me to marry him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do YOU want to marry him?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young woman",
+        "CharacterName": "Young woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No! I want to marry you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I also want to marry you",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young woman",
+        "CharacterName": "Young woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t think it\u0027s right that they get to decide",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It isn\u0027t",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young woman",
+        "CharacterName": "Young woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is there anything we can do?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think so, but we will have the whole world against us",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young woman",
+        "CharacterName": "Young woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, if the world is going to go against us for not getting in line with such a stupid demand, then let the world burn",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I love you, and I think I am always going to love you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young woman",
+        "CharacterName": "Young woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I love you more than life itself",
+          "Description": null
+        },
+        {
+          "PartText": "Will you make love to me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I will",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The screenplay feels a little cheesy doesn\u0027t it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, but it\u0027s supposed to take place in another day and age...",
+          "Description": null
+        },
+        {
+          "PartText": "but even so, I\u0027d have to agree with you that it could use a little...",
+          "Description": null
+        },
+        {
+          "PartText": "spunk",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes... spunk",
+          "Description": null
+        },
+        {
+          "PartText": "Ooooh, look at them going at it...",
+          "Description": null
+        },
+        {
+          "PartText": "This isn\u0027t PG-13 huh?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You have the phone... You can press fast forward",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No way! Look at that!",
+          "Description": null
+        },
+        {
+          "PartText": "Look how clumsy they are!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think it\u0027s their first time... And this is supposed to be way before porn was a thing",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, but this is like the Viking age, isn\u0027t it?",
+          "Description": null
+        },
+        {
+          "PartText": "Didn\u0027t they have like massive sex orgies and such?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I honestly don\u0027t know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooooh... I just got to thinking...",
+          "Description": null
+        },
+        {
+          "PartText": "This was before plumbing and regular showers were a thing...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know what you\u0027re driving at...",
+          "Description": null
+        },
+        {
+          "PartText": "Let\u0027s be grateful for modern-day hygiene",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Amen! Alright... I\u0027m just going to fast forward a bit...",
+          "Description": null
+        },
+        {
+          "PartText": "Now what do we have here...",
+          "Description": null
+        },
+        {
+          "PartText": "Ooooh... there\u0027s our young couple again",
+          "Description": null
+        },
+        {
+          "PartText": "They look mean! They are up to no good!",
+          "Description": null
+        },
+        {
+          "PartText": "Oh... I think I know what\u0027s going to happen here...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure I want to watch it",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... Let me at least turn the sound off",
+          "Description": null
+        },
+        {
+          "PartText": "Oh, that\u0027s horrible! Those people don\u0027t stand a chance!",
+          "Description": null
+        },
+        {
+          "PartText": "NO! If you touch that child, I\u0027m not going to watch any more of this!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "They don\u0027t touch the children. There are a couple of the grown-ups that get spared as well",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s good!",
+          "Description": null
+        },
+        {
+          "PartText": "How many do they kill?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "They sliced the throat of 38 people of the village that night, 35 of which died",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Because they wanted her to marry someone else?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "They were kind of insistent. Those were different times, and she was just a property... He was as well",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So, he couldn\u0027t just buy her free and work off the debt in the kitchen, huh?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m afraid not",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But I bet you didn\u0027t come here to show me just that... There\u0027s more isn\u0027t there",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Because the world is not going to just sit back and let them get away with happiness, is it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And 35 murders \u002B 3 accounts of attempted murder in the first degree, but no, it isn\u0027t",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And you want me to watch it, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m afraid that\u0027s best",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Will you hold me while we watch?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d love to",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "NO NO NO NO YOU DUMB BITCH! DON\u0027T GO IN THERE!",
+          "Description": "shouting at the screen"
+        },
+        {
+          "PartText": "WHAT\u0027S WRONG WITH YOUR DUMB BRAIN?",
+          "Description": null
+        },
+        {
+          "PartText": "THERE\u0027S ENOUGH SPEARS FOR AN ENTIRE ARMY LEANED AGAINST THE WALL OUTSIDE, AND YOU ARE WILLING TO BELIEVE THERE\u0027S JUST A SINGLE FAMILY IN THERE!!!?!",
+          "Description": null
+        },
+        {
+          "PartText": "I almost don\u0027t feel sorry for you when you are that STUPID!",
+          "Description": null
+        },
+        {
+          "PartText": "Please tell me that the man has a little brains",
+          "Description": null
+        },
+        {
+          "PartText": "Yes... that\u0027s good... That\u0027s right Mr. Big Brain, it IS a trap...",
+          "Description": null
+        },
+        {
+          "PartText": "Yes, just watch them and figure out a plan... Maybe you should jack the spears, eh?",
+          "Description": null
+        },
+        {
+          "PartText": "NO! WHAT ARE YOU DOING?!",
+          "Description": null
+        },
+        {
+          "PartText": "YOU ALREADY KNEW THEY HAD HER! JESUS CHRIST!",
+          "Description": null
+        },
+        {
+          "PartText": "ALL YOU HAD GOING FOR YOU WAS THE ELEMENT OF SURPRISE AND NOW YOU DON\u0027T EVEN HAVE THAT...",
+          "Description": null
+        },
+        {
+          "PartText": "ALL BECAUSE THEY WAVED A LITTLE KNIFE AGAINST YOUR GIRLFRIENDS THROAT!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh no... Please tell me they aren\u0027t going to use that for what I think they are going to use it for!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I can\u0027t",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jeeesus! WHAT THE FUCK IS WRONG WITH MEN???!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know! But look, it\u0027s not just the men",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aw hell! I take back what I said about the slaughter in the village!",
+          "Description": null
+        },
+        {
+          "PartText": "They should have killed ALL OF THEM!",
+          "Description": null
+        },
+        {
+          "PartText": "Well, not the children... even though they\u0027re probably going to grow up to be the same kind of bastards!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Without surviving adults, the children would have been as good as dead come Winter",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you Mr. Sinister Realism! Let\u0027s do a RomCom next time... I want to see how you handle that!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wait a minute! What was that?! In the shadows",
+          "Description": null
+        },
+        {
+          "PartText": "Let me just pause it... and enlarge...",
+          "Description": null
+        },
+        {
+          "PartText": "That looks kind of like a man, doesn\u0027t it? A really evil man",
+          "Description": null
+        },
+        {
+          "PartText": "Is that a man?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The jury is still out on that one... some call him the Shadow-Man and think of him as kind of an orchestrator of these kinds of rituals, some say there isn\u0027t anything at all",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I\u0027m on Team Shadow-Man! There totally IS a very evil man right there",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, let me just hit \u0027play\u0027 again",
+          "Description": null
+        },
+        {
+          "PartText": "Oh, I forgot what this was",
+          "Description": null
+        },
+        {
+          "PartText": "How long does this crap go on?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "For about an hour",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Seriously?! What the hell is wrong with people?!",
+          "Description": null
+        },
+        {
+          "PartText": "Do I have to watch the whole thing?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No... The highlights are enough",
+          "Description": null
+        },
+        {
+          "PartText": "There is a small part of about 5 seconds right before she dies where she looks longingly at the guy with sort of a \u0027I\u0027ll-see-you-on-the-other-side\u0027-look that is really memorable, but I wouldn\u0027t advice on watching the entire thing just for that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright",
+          "Description": "handing the cell phone back, and moving to a seat across from John"
+        },
+        {
+          "PartText": "So. Why did I have to see that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "To get an understanding of what\u0027s at stake",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Cryptic... But I hadn\u0027t expected much more to be honest",
+          "Description": null
+        },
+        {
+          "PartText": "Is the Shadow-Man real?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I have a feeling I\u0027m barking up the wrong tree here...",
+          "Description": null
+        },
+        {
+          "PartText": "There is a riddle in this dream... right here... for me. Right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s right... you are completely oblivious. I mean, not you as you\u0027re sitting right here in front of me... But as it played out on the train...",
+          "Description": null
+        },
+        {
+          "PartText": "You were sitting on the train... Closing in on the prey... And your entire focus was on that!",
+          "Description": null
+        },
+        {
+          "PartText": "And it wasn\u0027t supposed to be",
+          "Description": null
+        },
+        {
+          "PartText": "You were supposed to notice me!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not sure there is any \u0027supposed\u0027 here... that would imply predetermination",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Potato, potahrto... But I get it...",
+          "Description": null
+        },
+        {
+          "PartText": "Something else could have happened here...",
+          "Description": null
+        },
+        {
+          "PartText": "And under almost any other circumstance, it would have, but you were too focused on that creep to play the part right",
+          "Description": null
+        },
+        {
+          "PartText": "UGH! I\u0027m going to BURN that creep!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Angela closes her eyes and looks concentrated, and then a loud scream is heard from the other end of the train.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling, while fading away"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John! Where are you going? John!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The entirety of Angela\u0027s dream world dissolves into nothing, and Angela is gripped by the feeling of falling through endless darkness.\r\nAngela wakes up in shock! As it turns out, she does have to take a shower because she is drenched in sweat. \r\nBut she is not fat.",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 3,
+  "ChapterHash": "TANijyFYjjiQcYBLkqTgfHAtrVmwTgg4GnlrHXqfAxlQTfw6HOx7uq2SbTNh0js\u002BE73xmoaJN0kAwNpa/WR1qQ==",
+  "Video": {
+    "FileName": "floating-clouds.gif",
+    "AttributionText": "Floating Clouds Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/floating-clouds"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Shadows Into Light",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Shadows Into Light",
+    "TheFontFamily": "Shadows Into Light",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

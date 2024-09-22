@@ -1,0 +1,49 @@
+﻿@font-face {
+    font-family: 'Shadows Into Light';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/ShadowsIntoLight-Regular.ttf');
+}
+@font-face {
+    font-family: 'Gloria Hallelujah';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/GloriaHallelujah-Regular.ttf');
+}
+@font-face {
+    font-family: 'Trade Winds';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/TradeWinds-Regular.ttf');
+}
+@font-face {
+    font-family: 'Protest Revolution';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/ProtestRevolution-Regular.ttf');
+}
+@font-face {
+    font-family: 'Old Standard TT';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../fonts/OldStandardTT-Regular.ttf');
+}
+@font-face {
+    font-family: 'Old Standard TT';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/OldStandardTT-Bold.ttf');
+}
+@font-face {
+    font-family: 'Old Standard TT';
+    font-weight: 400;
+    font-style: italic;
+    src: url('../fonts/OldStandardTT-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Ink Free Web';
+    font-weight: 400;
+    font-style: italic;
+    src: url('../fonts/Inkfree.ttf');
+}

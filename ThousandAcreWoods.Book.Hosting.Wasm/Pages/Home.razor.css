@@ -1,0 +1,33 @@
+﻿.taw-site-home-page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background: none;
+    z-index: 0;
+}
+
+.taw-site-full-screen {
+    width: 100%;
+    height: 100%;
+}
+
+.taw-site-condensed-side-panel {
+    width: 40px;
+    height: 100%;
+}
+
+.taw-site-uncondensed-side-panel {
+    width: 350px;
+    height: 100%;
+}
+
+
+.taw-site-rest-right {
+    width: 100%;
+    height: 100%;
+}
+
+

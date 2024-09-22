@@ -1,0 +1,186 @@
+[
+  {
+    "From": "albert and john",
+    "To": [
+      "albert",
+      "john"
+    ]
+  },
+  {
+    "From": "ben and karl",
+    "To": [
+      "ben",
+      "karl"
+    ]
+  },
+  {
+    "From": "old john",
+    "To": [ "oldjohn" ]
+  },
+  {
+    "From": "new john",
+    "To": [ "john" ]
+  },
+  {
+    "From": "job interview guy",
+    "To": [
+      "frank"
+    ]
+  },
+  {
+    "From": "john, cecil, ben and mike",
+    "ChapterDate": null,
+    "ChapterOrder": null,
+    "To": [
+      "john",
+      "cecil",
+      "ben",
+      "mike"
+    ]
+  },
+  {
+    "From": "karl, ben, old john",
+    "To": [
+      "karl",
+      "ben",
+      "oldjohn"
+    ]
+  },
+  {
+    "From": "man",
+    "ChapterDate": null,
+    "ChapterOrder": null,
+    "To": [
+    ]
+  },
+  {
+    "From": "mike, cecil, susan and carol",
+    "To": [
+      "mike",
+      "cecil",
+      "susan",
+      "carol"
+    ]
+  },
+  {
+    "From": "sune and albert",
+    "To": [
+      "sune",
+      "albert"
+    ]
+  },
+  {
+    "From": "sune and albert in chorus",
+    "To": [
+      "sune",
+      "albert"
+    ]
+  },
+  {
+    "From": "man",
+    "ChapterDate": "2024-04-01",
+    "ChapterOrder": "B",
+    "To": [
+      "suneasevilman"
+    ]
+  },
+
+
+
+  {
+    "From": "all three",
+    "ChapterDate": "2024-04-01",
+    "ChapterOrder": "B",
+    "To": [
+      "karl",
+      "oldjohn",
+      "ben"
+    ]
+  },
+  {
+    "From": "both",
+    "ChapterDate": "2024-04-25",
+    "ChapterOrder": "",
+    "To": [
+      "angela",
+      "john"
+    ]
+  },
+  {
+    "From": "everyone else",
+    "ChapterDate": "2024-05-21",
+    "ChapterOrder": "A",
+    "To": [
+      "ben",
+      "carol",
+      "oldjohn",
+      "mike",
+      "susan",
+      "cecil"
+    ]
+  },
+  {
+    "From": "everyone else",
+    "ChapterDate": "2024-05-21",
+    "ChapterOrder": "A",
+    "To": [
+      "ben",
+      "carol",
+      "mike",
+      "susan",
+      "cecil"
+    ]
+  },
+  {
+    "From": "the gang",
+    "ChapterDate": "2024-05-23",
+    "ChapterOrder": "B",
+    "To": [
+      "ben",
+      "carol",
+      "mike",
+      "susan",
+      "cecil",
+      "oldjohn",
+      "karl"
+
+    ]
+  },
+  {
+    "From": "everyone else",
+    "ChapterDate": "2024-06-11",
+    "ChapterOrder": "A",
+    "To": [
+      "carol",
+      "mike",
+      "susan",
+      "oldjohn",
+      "karl"
+
+    ]
+  },
+  {
+    "From": "everyone",
+    "ChapterDate": "2024-06-11",
+    "ChapterOrder": "A",
+    "To": [
+      "carol",
+      "mike",
+      "susan",
+      "oldjohn",
+      "karl"
+
+    ]
+  },
+  {
+    "From": "both",
+    "ChapterDate": "2024-06-12",
+    "ChapterOrder": "A",
+    "To": [
+      "john",
+      "angela"
+    ]
+  }
+
+
+]

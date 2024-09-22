@@ -1,0 +1,58 @@
+﻿.taw-front-page-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgb(5, 4, 1);
+}
+
+
+.taw-front-page-bg-image {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 3000px;
+    height:1200px;
+    z-index:2;
+    background-image: url('images/FrontPage/front-page.webp');
+}
+
+.taw-front-page-finalibre-sign {
+    position: absolute;
+    top: 400px;
+    left: 1270px;
+    transform: skew(-2.4deg, -17deg);
+}
+
+
+.taw-front-page-opening-for-business-sign {
+    position:absolute;
+    top:470px;
+    left:970px;
+    z-index:5;
+    transform:skew(-2.4deg, -17deg);
+}
+
+
+.taw-front-page-come-home-john {
+    position: absolute;
+    top: 920px;
+    left: 2290px;
+    z-index: 5;
+    transform: skew(2.4deg, 1deg);
+}
+
+
+.taw-front-page-welcome-to-taw {
+    font-family: 'Felix Titling';
+    font-size: 30pt;
+    width:300px;
+    position: absolute;
+    color: rgb(6, 141, 153);
+    top: 590px;
+    left: 2670px;
+    z-index: 5;
+    transform: skew(2.4deg, 8deg);
+}

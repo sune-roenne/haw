@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="566px" height="376px" viewBox="-0.5 -0.5 566 376">
+  <defs/>
+    <g>
+	  <g id="cell-h1IptmaF3zSd_jTofO3I-1">
+	    <g>
+		  <path d="M 7 367 L 7 13.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+		  <path d="M 7 8.12 L 10.5 15.12 L 7 13.37 L 3.5 15.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+		</g>
+      </g>
+	  <g id="cell-h1IptmaF3zSd_jTofO3I-2">
+	  <g>
+	    <path d="M 7 367 L 550.63 367" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+		<path d="M 555.88 367 L 548.88 370.5 L 550.63 367 L 548.88 363.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+	  </g>
+	</g>
+	<g id="cell-AnimateId1" content="&lt;UserObject label=&quot;&quot; tags=&quot;Animate&quot; Animate=&quot;true&quot;/&gt;" data-label="" data-tags="Animate" data-Animate="true">
+	  <g>
+	    <path d="M 7 257 L 474.94 57.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+		<path d="M 470.44 62.33 L 475.97 57.44 L 468.62 58.03" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+	  </g>
+	</g>
+  </g>
+</svg>

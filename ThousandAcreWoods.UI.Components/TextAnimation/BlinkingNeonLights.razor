@@ -1,0 +1,36 @@
+﻿<h1 class="taw-text-neon-@_id">
+    @TextMarkupString
+</h1>
+
+<style>
+    .taw-text-neon-@_id {
+        font-family: '@TheFontSettings.TheFontFamily', cursive;
+        font-size: @(TheFontSettings.TheFontSize)px;
+        color: @TheFontSettings.TheFontColor;
+        font-weight: 400;
+        letter-spacing: 8px;
+        text-shadow: 1px 0px 4px @TheFontSettings.TheFontColor, 2px 0px 4px @TheFontSettings.TheFontColor, 3px 0px 4px @TheFontSettings.TheFontColor, 2px 0px 3px @TheFontSettings.TheFontShadowColor, 2px 3px 15px @TheFontSettings.TheFontShadowColor, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px @TheFontSettings.TheFontShadowColor,40px 0vw 200px @TheFontSettings.TheFontShadowColor;
+    }
+
+
+
+
+    .taw-text-neon-blink-slow-@_id {
+        animation: flicker 3s linear infinite;
+     }
+
+     .taw-text-neon-blink-fast-@_id {
+         animation: flicker 1s linear infinite;
+     }
+
+ @@keyframes flicker {
+    0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+        opacity: .99;
+    }
+
+    20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+        opacity: 0.4;
+    }
+}
+
+</style>

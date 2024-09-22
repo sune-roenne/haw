@@ -1,0 +1,1300 @@
+{
+  "ChapterDate": "2024-05-02T00:00:00",
+  "ChapterName": "Mike Meets the Cool People",
+  "ChapterFileName": "2024-05-02-B-Mike meets the Cool People.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hey Poindexter, wanna join the rest of us for lunch?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That sounds nice... thanks",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m Carol",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Mike... glad to meet you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Mike has previously held part-time jobs in retail during his early studies but this is his first time working corporate, and as they walk in silence towards the cafeteria, he has plenty of time to wonder about etiquette for these quasi-1-on-1-situations and if maybe he is expected to say something.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Most people fill the void with pointless blabber about the latest in corporate politics, SFW details of their personal life, and so on, but I don\u0027t mind the silence",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Was it that obvious?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes. It was very obvious, but we\u0027ve all been there",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "And here is a free tip for you: if you\u0027re scared of awkward silence and/or would like to engage in a little man-on-man-flirtation yet would like to stay on the safe side of the unwritten laws of heterosexual and only slightly homophobic behavior of meterosexual males, you can always pick a soccer-team to route for and join in on the verbal orgy",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I like Chelsea",
+          "Description": "lighting up in a maybe purposefully too bright a smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Riiight...",
+          "Description": null
+        },
+        {
+          "PartText": "Look Mike...",
+          "Description": null
+        },
+        {
+          "PartText": "You seem like a really nice guy and all, but I\u0027m not going to have sex with you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "Contemplating"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... OK",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OK? That\u0027s it? OK? What the hell kind of a response is that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "About the only sensible response as far as I can see",
+          "Description": "smiling, once again in a bit too broad a smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No getting down on your knees and begging the \u0027most beautiful woman you have ever met\u0027 to please, please, please reconsider?",
+          "Description": null
+        },
+        {
+          "PartText": "Or throwing your hands in the air and go: \u0027tsk tsk tsk... LIKE I WOULD EVEN WANT TO HAVE SEX WITH YOU\u0027?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Maybe I\u0027m doing that first thing on the inside, but you have clearly stated that THAT is not an option for you, so it would be a little respectless of me to just ignore that fact and \u0027plow on\u0027 - no pun intended - and as for the second option... that\u0027s just plain childish",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "hmmm....",
+          "Description": "thinking"
+        },
+        {
+          "PartText": "Well, you could say: \u0027I can respect that\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "That explicitly expresses respect and is A LOT better than plain old \u0027OK\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "At this, Mike stops walking and as Carol does likewise, he looks her sternly in the eyes. No broad smile now.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look Carol, I\u0027m picking up sort of a... vibe from you...",
+          "Description": null
+        },
+        {
+          "PartText": "You SAY you don\u0027t want to have sex with me, yet I can\u0027t help but feel like this is just a ploy to somehow lure me into bed so you can have your way with me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I DO NOT WANT TO HAVE SEX WITH YOU!",
+          "Description": "equally stern"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I can respect that",
+          "Description": "nodding, resumes walking"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...slick!",
+          "Description": "approvingly, under her breath"
+        },
+        {
+          "PartText": "Oh, there\u0027s the in-crowd... I\u0027ll introduce you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So Mike, how are you liking your new job so far?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, it far surpasses my expectations...",
+          "Description": null
+        },
+        {
+          "PartText": "not that I really know what I had expected come to think about it...",
+          "Description": null
+        },
+        {
+          "PartText": "maybe that I would feel at least a slight sting when they removed my soul, but I haven\u0027t felt a thing except for this immense joy when I think about making a lot of money",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Let me guess: you just finished some kind of degree in Computer Science...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "At this, Karl extends a punch to Cecil\u0027s chest across the table.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ouch! What the hell did you do that for?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Get with the company spirit, Cecil!",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027We are all flung from the same dung heap!\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Point taken... jeeez",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, now that he mentions it, I don\u0027t remember being properly compensated for my soul! Surely, there\u0027s gotta be something wrong here",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess it depends on whether or not you had one when you started here which - speaking as your undoubtedly best friend and closest confident - I know that you did in fact NOT, so..",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wow, wow... ease down buddy... there were all kinds of things wrong with that sentence, but just to stay on topic:",
+          "Description": null
+        },
+        {
+          "PartText": "I have never closed any deal with the Devil",
+          "Description": null
+        },
+        {
+          "PartText": "I may have flirted... sure",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not ruling out light petting and a trip to 1st base, but I have not gone all the way with him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Which one is 1st base again?...",
+          "Description": "whispering to Susan"
+        },
+        {
+          "PartText": "Is it the one where your mouth goes here...",
+          "Description": "pointing at a part of himself below table level"
+        },
+        {
+          "PartText": "and my mouth would go there...",
+          "Description": null
+        },
+        {
+          "PartText": "or is it the one with the midgets?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shaking head in a grin"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Seriously, hear me out...",
+          "Description": null
+        },
+        {
+          "PartText": "When it comes right down to it, I don\u0027t even think that I would sign with the Devil...",
+          "Description": null
+        },
+        {
+          "PartText": "When compared to God, he is definitely the weaker of the two..",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "BUT, strength-stats aside, God doesn\u0027t really have a good track record for dishing out from his stash...",
+          "Description": null
+        },
+        {
+          "PartText": "Look at what he did to his own son for crying out loud",
+          "Description": "purposefully over-dramatic"
+        },
+        {
+          "PartText": "Naahah... That horned MOFO is my DAWG!",
+          "Description": null
+        },
+        {
+          "PartText": "He is always down to spread the dough on his friends!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... until you read the fine-line right, and then what the hell is the point of cashing in, if you gotta spend an eternity deciphering lawyer mumbo-jumbo just to make sure he\u0027s not screwing you on the deal",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I\u0027m with Karl on this one. Team Red Demon \u002B1",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh Lordy! I don\u0027t mind saving my soul and signing with the Almighty",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ditto... I\u0027m too risk-averse to bet an entire eternity",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aw heck guys, that means the gang is going to have to split up",
+          "Description": "looking longingly at Karl and Ben"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Quit it Carol! There\u0027s only a 0% chance of you NOT being in the dark and steamy dungeons trying to get your hands on fresh meat when the rest of us arrive",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It does sound a little like my trip to Italy, Summer of 2019",
+          "Description": "concedes"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And now, let me tell you why you are all damn fools!",
+          "Description": null
+        },
+        {
+          "PartText": "You guys want to sign with Big Spikey",
+          "Description": "pointing at Ben and Karl"
+        },
+        {
+          "PartText": "who is of course known for always honoring an agreement",
+          "Description": null
+        },
+        {
+          "PartText": "but how much do you honestly think he\u0027ll pay you for it?",
+          "Description": null
+        },
+        {
+          "PartText": "You\u0027re thinking you\u0027ll be able to get at least a couple million EUR, but who are you fooling?",
+          "Description": null
+        },
+        {
+          "PartText": "Speaking as your \u0027close confident\u0027 I know for a fact that even the combined sum of your souls isn\u0027t worth the time we have spent on this discussion so far...",
+          "Description": null
+        },
+        {
+          "PartText": "but more importantly: HE KNOWS...",
+          "Description": null
+        },
+        {
+          "PartText": "... he absolutely KNOWS he\u0027ll get them either way, \u0027cause it\u0027s been your life-long dream, so why would he pay any more than a quarter for the pair?",
+          "Description": null
+        },
+        {
+          "PartText": "And as for signing with Old Thundering Voice In The Cloud...",
+          "Description": null
+        },
+        {
+          "PartText": "with the whole Prodigal Son fuck-up, he made it absolutely clear that he isn\u0027t handing out early-sign-on-bonuses",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wooooow, wow, wow... wait a minute, I see what you are trying to do here, and even though it was not explicitly agreed upon at the onset of this discussion, it was implicitly understood by all parties, that the discussion was strictly on the topic of the Christian alternatives... if you start throwing in Zen or Ahmed or whatever, you are clearly in violation of the rules",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But that is not where I\u0027m going!",
+          "Description": null
+        },
+        {
+          "PartText": "What I\u0027m saying is, that you should play those fuckers for all you can!",
+          "Description": null
+        },
+        {
+          "PartText": "Keep close contact with Team White and check in frequently, but make sure that you\u0027re seen chilling with your Horn-Dawg once in a while",
+          "Description": null
+        },
+        {
+          "PartText": "Drive the price as high as you can, and only cash in on the best offer at the very last minute",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I think that settles it in John\u0027s favor. I\u0027m with you!",
+          "Description": "nodding approvingly as she gets up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, I think I\u0027ma jump ship and join Team Coy as well",
+          "Description": "also gets up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Carol the Coy! Like that\u0027s going to happen!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Weak! The whole damned bunch \u0027o you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No Karl...",
+          "Description": null
+        },
+        {
+          "PartText": "You are just damned!",
+          "Description": null
+        },
+        {
+          "PartText": "4... evah....",
+          "Description": "also gets up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 7,
+  "ChapterHash": "ifjENm8xThQI86fVK8WcRmnkZmYkst20XOAf6DLB/p54oRFml/a1TawE2kbC3ueEVJzf5Q4ncNDNTKx92EGSOg==",
+  "Video": {
+    "FileName": "lunch.gif",
+    "AttributionText": "Lunch Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/lunch"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

@@ -1,0 +1,3885 @@
+{
+  "ChapterDate": "2024-06-14T00:00:00",
+  "ChapterName": "Louisa Drops by",
+  "ChapterFileName": "2024-06-14-Louisa stops by the Office.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Carol notices a young woman standing outside the main entrance to FinaLibre. The woman has what seems to be a permanent stern expression on an otherwise pretty face, but at the same time looks like someone who doesn\u0027t know if she is in the right place.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Can I help you?",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "woman",
+        "CharacterName": "Woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t think so...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m sorry...",
+          "Description": null
+        },
+        {
+          "PartText": "This is not the place I am supposed to be",
+          "Description": "apologetic, turns and walks away"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are here because of John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "woman",
+        "CharacterName": "Woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "halts without turning around"
+        },
+        {
+          "PartText": "John is dead",
+          "Description": "low voice, bows head"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you Louisa?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "woman",
+        "CharacterName": "Woman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Did he mention me?",
+          "Description": "turns around"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "On a few occasions",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know why I\u0027m here...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s how I feel every morning walking through that entrance",
+          "Description": "smiles"
+        },
+        {
+          "PartText": "I\u0027m no expert on these kinds of things, but it seems perfectly reasonable to want to see where he spent his last days",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "What do you say I give you a tour around the place?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you even allowed to do that?",
+          "Description": null
+        },
+        {
+          "PartText": "The papers said you guys are real big-shots in Finance...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t want to get you in trouble...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Please...",
+          "Description": null
+        },
+        {
+          "PartText": "I commit greater crimes against our hopelessly ineffective access control system every Friday night",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "In that case:",
+          "Description": null
+        },
+        {
+          "PartText": "yes... I would very much like a tour",
+          "Description": "smiles"
+        },
+        {
+          "PartText": "Did you know John well?",
+          "Description": null
+        },
+        {
+          "PartText": "... that\u0027s not his real name by the way...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s the name he gave us when applying for the job, so we\u0027ve just kinda stuck with it",
+          "Description": "walking with Louisa towards the entrance, beginning the tour"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess it\u0027s as good a name as any",
+          "Description": "smiles"
+        },
+        {
+          "PartText": "Did you know him well?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "making sure to select her words carefully"
+        },
+        {
+          "PartText": "I think I knew a side of him...",
+          "Description": null
+        },
+        {
+          "PartText": "Janet, this is Louisa...",
+          "Description": null
+        },
+        {
+          "PartText": "one of John\u0027s friends...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m just going to show her around the place...",
+          "Description": null
+        },
+        {
+          "PartText": "Does she need an access card?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "janet",
+        "CharacterName": "Janet",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "waving dismissively with her one hand, while only taking her eyes of the cell phone to send Louisa a quick smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John had kind of a dark side, that I never really understood...",
+          "Description": null
+        },
+        {
+          "PartText": "or maybe I understood it, but just had a really hard time accepting it",
+          "Description": null
+        },
+        {
+          "PartText": "does that make sense?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh yes! Some things never change I guess",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "These well-dressed young men are our Client Management team",
+          "Description": null
+        },
+        {
+          "PartText": "They are responsible for talking on the telephone most of the day and say ridiculous things like \u0027Fino Bambino\u0027 and sucking up to dubious men in colored shirts",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wow... That sounds like something I could do!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course you could...",
+          "Description": null
+        },
+        {
+          "PartText": "but it would cost you your self-esteem",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yikes... We can\u0027t have that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t mind introducing you to them, but as you can see they are all busy on the phone",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, I\u0027d really prefer not having to do the rounds...",
+          "Description": null
+        },
+        {
+          "PartText": "I almost turned around and went back outside...",
+          "Description": null
+        },
+        {
+          "PartText": "I would really prefer not having to answer a lot of questions...",
+          "Description": null
+        },
+        {
+          "PartText": "The thing is, that John and I didn\u0027t really talk much this past year...",
+          "Description": null
+        },
+        {
+          "PartText": "objectively speaking, I don\u0027t really have any right being here...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t be silly...",
+          "Description": null
+        },
+        {
+          "PartText": "there are no restrictions when it comes to closure...",
+          "Description": null
+        },
+        {
+          "PartText": "from what he shared about the two of you, you were really close once",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027d like to think that we were...",
+          "Description": null
+        },
+        {
+          "PartText": "or... I DID think we were close...",
+          "Description": null
+        },
+        {
+          "PartText": "until we suddenly weren\u0027t",
+          "Description": null
+        },
+        {
+          "PartText": "... and I don\u0027t even know what happened...",
+          "Description": "stopping, in a quiet corner"
+        },
+        {
+          "PartText": "I would have understood if he had left me during our first years together...",
+          "Description": null
+        },
+        {
+          "PartText": "In fact, I never understood why he didn\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "I was in a really bad place back then",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "nodding knowingly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But I had put that behind me, and I honestly think John had too",
+          "Description": null
+        },
+        {
+          "PartText": "We weren\u0027t perfect, but what couple is?",
+          "Description": null
+        },
+        {
+          "PartText": "We had fights, sometimes really loud fights, but we always found a way, you know",
+          "Description": null
+        },
+        {
+          "PartText": "And I think we were moving towards a better life for the both of us",
+          "Description": null
+        },
+        {
+          "PartText": "I finished my studies and got full-time...",
+          "Description": null
+        },
+        {
+          "PartText": "we both laid off drugs and partying...",
+          "Description": null
+        },
+        {
+          "PartText": "We had a small apartment together, and we had found a way to live life, that wasn\u0027t destructive...",
+          "Description": null
+        },
+        {
+          "PartText": "we had even talked about starting a family...",
+          "Description": null
+        },
+        {
+          "PartText": "nothing hasty... Just:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027could you imagine this or that\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "joking about baby names and such...",
+          "Description": null
+        },
+        {
+          "PartText": "and it seemed to me like John was on board",
+          "Description": null
+        },
+        {
+          "PartText": "And then one day, he wasn\u0027t at all on board...",
+          "Description": null
+        },
+        {
+          "PartText": "he didn\u0027t want to start a family",
+          "Description": null
+        },
+        {
+          "PartText": "he cheated on me and then just broke it off",
+          "Description": null
+        },
+        {
+          "PartText": "And do you know what the weird thing is?",
+          "Description": null
+        },
+        {
+          "PartText": "even though the cheating was the final argument that more or less ended the relationship, I knew",
+          "Description": null
+        },
+        {
+          "PartText": "- even then -",
+          "Description": null
+        },
+        {
+          "PartText": "that I could have forgiven that",
+          "Description": null
+        },
+        {
+          "PartText": "as long as he didn\u0027t go get some other girl pregnant, what did I care what had happened on some stupid Thursday night with a bimbo from the bar...?",
+          "Description": null
+        },
+        {
+          "PartText": "The thing is, I think he only did the cheating to convince himself that it was best to break it off with me...",
+          "Description": null
+        },
+        {
+          "PartText": "I think somehow...",
+          "Description": null
+        },
+        {
+          "PartText": "he had convinced himself that he had to end \u0027us\u0027 before we got around to starting a family...",
+          "Description": null
+        },
+        {
+          "PartText": "Do you know what he told me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No idea...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He had a dream!",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s what he said!",
+          "Description": null
+        },
+        {
+          "PartText": "or at least, that\u0027s what it all boiled down to:",
+          "Description": null
+        },
+        {
+          "PartText": "he had a dream, and now he knew that he wasn\u0027t going to have kids",
+          "Description": null
+        },
+        {
+          "PartText": "At first, I thought he was joking, but he got all serious and like:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027I really need you to understand this one thing\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "and then he tells me about this dream he had...",
+          "Description": null
+        },
+        {
+          "PartText": "He met himself as older, only it wasn\u0027t him as such, but then again:",
+          "Description": null
+        },
+        {
+          "PartText": "IT WAS HIM...",
+          "Description": null
+        },
+        {
+          "PartText": "that\u0027s what he said...",
+          "Description": null
+        },
+        {
+          "PartText": "and he saw kids...",
+          "Description": null
+        },
+        {
+          "PartText": "whole kids, except they had a hole where their father was supposed to be...",
+          "Description": null
+        },
+        {
+          "PartText": "in the same way it was with him and his mother...",
+          "Description": null
+        },
+        {
+          "PartText": "Did he tell you that she died when he was 4?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He did",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Only, this was somehow worse, because he had lost his mother, which allowed him to grieve...",
+          "Description": null
+        },
+        {
+          "PartText": "but kids who have a hole for a parent, because the parent is empty...",
+          "Description": null
+        },
+        {
+          "PartText": "They can\u0027t grieve in that same way",
+          "Description": null
+        },
+        {
+          "PartText": "I try to tell it like I remember it...",
+          "Description": null
+        },
+        {
+          "PartText": "Seriously... what do you say to something like that?",
+          "Description": null
+        },
+        {
+          "PartText": "well, it sounded to me like the type of second thoughts any young \u0027dude\u0027 might have",
+          "Description": null
+        },
+        {
+          "PartText": "but his expression was dead serious, like he was telling me he had just been diagnosed with cancer and had a week left to live",
+          "Description": null
+        },
+        {
+          "PartText": "And I just couldn\u0027t... have it!",
+          "Description": null
+        },
+        {
+          "PartText": "We got into a huge argument, and I ended up telling him that the whole thing with the dream was STUPID",
+          "Description": null
+        },
+        {
+          "PartText": "and that it was just like him to come up with something stupid like that, and why didn\u0027t he just own up to being scared of being a parent and he got really quiet after that",
+          "Description": null
+        },
+        {
+          "PartText": "Like if I had really hurt his feelings",
+          "Description": null
+        },
+        {
+          "PartText": "I really don\u0027t understand why that remark got to him like that... but it did",
+          "Description": null
+        },
+        {
+          "PartText": "I realized later, that a lot of my own anger came from wanting to start a family more than I had been consciously aware and I know why I said the things I did, but if there was just one thing I could change about me and John...",
+          "Description": null
+        },
+        {
+          "PartText": "If I could go back in time for just 10 minutes, I would try harder to understand what that dream was about...",
+          "Description": null
+        },
+        {
+          "PartText": "because it feels like it was pretty central to understanding... him",
+          "Description": null
+        },
+        {
+          "PartText": "Well, look at me taking up your time like you were my shrink...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No, it\u0027s totally alright...",
+          "Description": null
+        },
+        {
+          "PartText": "there are things about John I wonder about myself, and it\u0027s good to hear about your experiences with him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How long were you together?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s that obvious huh...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I guess we weren\u0027t really together, other than on occasions over the course of 3 weeks...",
+          "Description": null
+        },
+        {
+          "PartText": "it was never really an exclusive deal...",
+          "Description": null
+        },
+        {
+          "PartText": "at least it wasn\u0027t for me, but I don\u0027t know if he saw anyone else...",
+          "Description": null
+        },
+        {
+          "PartText": "I think that was one of the things I liked about him from the start...",
+          "Description": null
+        },
+        {
+          "PartText": "he was really chill...",
+          "Description": null
+        },
+        {
+          "PartText": "about that, I mean...",
+          "Description": null
+        },
+        {
+          "PartText": "he had this whole \u0027wound-up-crazy-tight-violent-murderer\u0027-deal going for him, but he was really chill when it came to our relationship...",
+          "Description": null
+        },
+        {
+          "PartText": "I have a very active... social life...",
+          "Description": null
+        },
+        {
+          "PartText": "which scares off most men I meet...",
+          "Description": null
+        },
+        {
+          "PartText": "even when they say they are cool with it, somehow it always ends up being the elephant in the room...",
+          "Description": null
+        },
+        {
+          "PartText": "but it was never like that with John...",
+          "Description": null
+        },
+        {
+          "PartText": "I have sort of a... reputation in the company...",
+          "Description": null
+        },
+        {
+          "PartText": "and to begin with, I thought maybe he hadn\u0027t heard about it, and that made me feel kinda worried that he thought we had something exclusive going and that he would then find out from our colleagues about...",
+          "Description": null
+        },
+        {
+          "PartText": "well...",
+          "Description": null
+        },
+        {
+          "PartText": "and so I dropped some casual hints about how I sometimes spend time with other men, and he seemed totally unfazed by it...",
+          "Description": null
+        },
+        {
+          "PartText": "he only ever commented on...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027hygienic preferences\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "and even then, he took it on as a personal preference of his...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That was a really great quality about him!...",
+          "Description": null
+        },
+        {
+          "PartText": "but of course, it\u0027s a little hard to tell your mother that when you tell her you\u0027ve met someone",
+          "Description": "laughing"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Right",
+          "Description": "laughing"
+        },
+        {
+          "PartText": "... after a while, all this space he gave me...",
+          "Description": null
+        },
+        {
+          "PartText": "started to feel like maybe too much space...",
+          "Description": null
+        },
+        {
+          "PartText": "it\u0027s kinda hard to explain, cause he could be really present and make me feel heard...",
+          "Description": null
+        },
+        {
+          "PartText": "but then I would ask him for space, and it was like he just...",
+          "Description": null
+        },
+        {
+          "PartText": "disappeared...",
+          "Description": null
+        },
+        {
+          "PartText": "and I had this feeling that...",
+          "Description": null
+        },
+        {
+          "PartText": "like, if we had been hugging, and I had wanted a little more space to move my arms freely...",
+          "Description": null
+        },
+        {
+          "PartText": "all of a sudden I was alone on a mountain-top with nothing but space around me, and I wondered if he had ever really been there...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "... do you know what John did here at FinaLibre?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not in the slightest...",
+          "Description": null
+        },
+        {
+          "PartText": "I didn\u0027t even know he knew anything about Finance",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, he didn\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "not when he started here, and I doubt he knew much more about Finance on his last day than what was strictly necessary to pass off the act of belonging here...",
+          "Description": null
+        },
+        {
+          "PartText": "Our CEO hired him to investigate the murder of a young woman...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m fairly certain he didn\u0027t know her, but that she wanted him here, and that that\u0027s the only reason he came...",
+          "Description": null
+        },
+        {
+          "PartText": "I know that sounds weird...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I understand. Trust me!",
+          "Description": null
+        },
+        {
+          "PartText": "One of the first things you learn about John is",
+          "Description": null
+        },
+        {
+          "PartText": "that if you invite John, \u0027weird\u0027 is tagging along for the ride",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Right!...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "Well, he did his investigation, and in the end it all turned out alright...",
+          "Description": null
+        },
+        {
+          "PartText": "sort of...",
+          "Description": null
+        },
+        {
+          "PartText": "and I saw how the investigation changed him...",
+          "Description": null
+        },
+        {
+          "PartText": "as he got deeper into the investigation, he became more and more consumed by it...",
+          "Description": null
+        },
+        {
+          "PartText": "obsessed...",
+          "Description": null
+        },
+        {
+          "PartText": "it was like he fell in love with Angela...",
+          "Description": null
+        },
+        {
+          "PartText": "Angela was the dead girl\u0027s name.",
+          "Description": null
+        },
+        {
+          "PartText": "I knew Angela for five years, and our relationship was strained for the most part and it really hit a nerve...",
+          "Description": null
+        },
+        {
+          "PartText": "You see:",
+          "Description": null
+        },
+        {
+          "PartText": "it was kind of a theme with me and Angela, that I would fall in love with a guy, and then he would choose Angela over me...",
+          "Description": null
+        },
+        {
+          "PartText": "and here we were, after her death, and the same damn thing was happening again!",
+          "Description": null
+        },
+        {
+          "PartText": "And John didn\u0027t even know her when she was alive",
+          "Description": null
+        },
+        {
+          "PartText": "It drove me crazy!",
+          "Description": null
+        },
+        {
+          "PartText": "And I have wondered if I drove him away from me with these outlandish accusations about being in love with Angela and I will almost believe it",
+          "Description": null
+        },
+        {
+          "PartText": "but then I realize that I am kidding myself...",
+          "Description": null
+        },
+        {
+          "PartText": "and even though I don\u0027t understand it, John chose the possibility of meeting a dead girl in the afterlife over the option of life with me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Did he say that to you?",
+          "Description": "outraged"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No, he didn\u0027t explicitly say that to me...",
+          "Description": null
+        },
+        {
+          "PartText": "and talking of things you\u0027d wish you\u0027d done:",
+          "Description": null
+        },
+        {
+          "PartText": "I would wish I could go back to our last argument",
+          "Description": null
+        },
+        {
+          "PartText": "which was the last time we really talked to each other without a lot of other people around",
+          "Description": null
+        },
+        {
+          "PartText": "and try harder to understand what it was with him and Angela",
+          "Description": null
+        },
+        {
+          "PartText": "At that time, I didn\u0027t want to understand...",
+          "Description": null
+        },
+        {
+          "PartText": "because I was scared",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I can understand why you didn\u0027t want to know the details about him and Angela",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "You know what...",
+          "Description": null
+        },
+        {
+          "PartText": "I just came to think about someone I think you should meet",
+          "Description": null
+        },
+        {
+          "PartText": "I am not entirely sure why, but I have a feeling that the two of you could benefit from a palaver...",
+          "Description": null
+        },
+        {
+          "PartText": "Do you have any place you have to be?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not at all",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, then I\u0027ll cut the tour short",
+          "Description": null
+        },
+        {
+          "PartText": "- it\u0027s just more of these momma\u0027s boys in suit and tie anyway -",
+          "Description": null
+        },
+        {
+          "PartText": "and we\u0027ll head for the basement",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright you weird old son-of-a-bitch...",
+          "Description": null
+        },
+        {
+          "PartText": "Two LADIES are coming through, so we\u0027ll have none of your crazy shenanigans",
+          "Description": "waving her arms as they pass the CCTV camera in the stairway"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Coming through...",
+          "Description": null
+        },
+        {
+          "PartText": "Real ladies...",
+          "Description": null
+        },
+        {
+          "PartText": "No shenanigans",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Carol knocks on the door to Sune\u0027s office in the basement, and when there is no reply, she opens the door and enters.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright you old freak!",
+          "Description": null
+        },
+        {
+          "PartText": "Sune, allow me to introduce Louisa",
+          "Description": null
+        },
+        {
+          "PartText": " - a person who was very dear to John",
+          "Description": null
+        },
+        {
+          "PartText": "And Louisa, allow me to introduce Sune",
+          "Description": null
+        },
+        {
+          "PartText": "who undoubtedly has a lot of titles for his work here at FinaLibre...",
+          "Description": null
+        },
+        {
+          "PartText": "all of which boil down to being the village idiot",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Pleased to meet you Louisa",
+          "Description": "without taking his eyes off the screen"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The pleasure is all mine",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The sound of Louisa\u0027s voice, makes Sune look up immediately. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Christ, she even looks like her... then!",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "kind of staring"
+        }
+      ],
+      "IsThought": true,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, you know I always love hanging around you Sune...",
+          "Description": null
+        },
+        {
+          "PartText": "There\u0027s nothing quite like it for making one question one\u0027s own sanity...",
+          "Description": null
+        },
+        {
+          "PartText": "but I have a really interesting appointment with re-counting our stock of paper clips so...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure sure",
+          "Description": "taking his eyes off Louisa only briefly, to look distantly at Carol"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Will you be alright with me leaving you here?",
+          "Description": null
+        },
+        {
+          "PartText": "He is all kinds of weird, but mostly harmless",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course!",
+          "Description": null
+        },
+        {
+          "PartText": "Thank you so much for the chat and the tour...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiling at Louisa, as she turns around and exits the room"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m sorry to hear about your loss...",
+          "Description": null
+        },
+        {
+          "PartText": "John...",
+          "Description": null
+        },
+        {
+          "PartText": "that wasn\u0027t his name, but I\u0027m no good with names...",
+          "Description": null
+        },
+        {
+          "PartText": "mind if we call him John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s fine... And thank you",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Would you feel better if we talked outside in the sunlight?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Here or there doesn\u0027t make any difference to me",
+          "Description": null
+        },
+        {
+          "PartText": "Why do you ask?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, it\u0027s just that you are a totally normally sized woman, and I\u0027m this super-masculine and overpowered man...",
+          "Description": null
+        },
+        {
+          "PartText": "Don\u0027t get me wrong:",
+          "Description": null
+        },
+        {
+          "PartText": "Carol is right about me being harmless and all, but how would you know that?",
+          "Description": null
+        },
+        {
+          "PartText": "I wouldn\u0027t blame you if you wanted to be out where people could see us and all...",
+          "Description": null
+        },
+        {
+          "PartText": "I have a daughter who is grown up now, so I\u0027m used to worrying about what women must do to stay safe",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking him over, inspecting him"
+        },
+        {
+          "PartText": "Yeah... you don\u0027t scare me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at her confused, then looks down at himself"
+        },
+        {
+          "PartText": "Ah...",
+          "Description": "slapping his forehead"
+        },
+        {
+          "PartText": "it\u0027s because I\u0027m wearing my nerd-fit today...",
+          "Description": null
+        },
+        {
+          "PartText": "If I had brought my slav-uniform ",
+          "Description": null
+        },
+        {
+          "PartText": "- real Adeedas and gold chain -",
+          "Description": null
+        },
+        {
+          "PartText": "you would have been hella scared",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I find that a little offensive...",
+          "Description": null
+        },
+        {
+          "PartText": "My father\u0027s half Bulgarian",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "leans in over his desk and draws the items there closer to his chest as if to protect them against theft, all while maintaining a suspicious look at Louisa"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ha ha ha",
+          "Description": "loud genuine laugh"
+        },
+        {
+          "PartText": "You are a funny man!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeeeahhhh...",
+          "Description": null
+        },
+        {
+          "PartText": "speaking of John...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Which we weren\u0027t",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You kinda got me there I suppose, but I figured one of us had to bring it up, and...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know, I\u0027m not sure one of us does",
+          "Description": null
+        },
+        {
+          "PartText": "Carol thought it would be a good idea to talk to you for some reason, but I\u0027m not sure it was related to John...",
+          "Description": null
+        },
+        {
+          "PartText": "Not directly anyways",
+          "Description": null
+        },
+        {
+          "PartText": "We could of course call her and ask, but that seems a little immature",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "\u0027Help Carol, we forgot how to talk\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes, like that",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "How about we see if we can\u0027t solve this riddle by working together",
+          "Description": null
+        },
+        {
+          "PartText": "Suggest me 3 different topics",
+          "Description": null
+        },
+        {
+          "PartText": "- all related to you personally -",
+          "Description": null
+        },
+        {
+          "PartText": "and none of them related to John",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll pick one of them, and then we\u0027ll take it from there",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright...",
+          "Description": null
+        },
+        {
+          "PartText": "Let me think...",
+          "Description": null
+        },
+        {
+          "PartText": "Otherwise, I\u0027ll just pick whatever I was thinking about, and that might be uninteresting...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OK. I\u0027ve got it. In front of you are three doors:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " Surviving in the aftermath of nuclear war in the nuclear family: a personal tragedy from modern-day family life",
+        " My theories on how Hollywood budget cuts have ultimately caused the death of the exploratory conversation and eroded social coherence",
+        " Childhood trauma brought on by extreme asthma attacks and how they have cast a long shadow on my workout routine well into my early middle-age"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wow, those are quite the options...",
+          "Description": null
+        },
+        {
+          "PartText": "Well, I don\u0027t care about your asthma attacks to be honest, and although we could probably have an intense debate about subject number 2...",
+          "Description": null
+        },
+        {
+          "PartText": "Alex, I choose door number 1 and a tale about a broken marriage...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Excellent choice!",
+          "Description": null
+        },
+        {
+          "PartText": "OK, so have you ever noticed how limited our range of conversation has become?",
+          "Description": null
+        },
+        {
+          "PartText": "On most topics, there is a very limited set of responses/reactions that people expect you to choose from...",
+          "Description": null
+        },
+        {
+          "PartText": "and when the conversation is between a man and a woman...",
+          "Description": "throws hands up in a \u0027don\u0027t-get-me-started\u0027-gesture"
+        },
+        {
+          "PartText": "almost any interaction is expected to be along the lines of some light banter with an undertone of...",
+          "Description": null
+        },
+        {
+          "PartText": "Wait a minute...!",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "Why would you choose the one with the divorce?!",
+          "Description": null
+        },
+        {
+          "PartText": "What\u0027s wrong with you?!",
+          "Description": null
+        },
+        {
+          "PartText": "I just threw that one in there to make three!",
+          "Description": null
+        },
+        {
+          "PartText": "I was sure you would go for 2, and to be honest:",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m glad you didn\u0027t choose 3 because that is still hella traumatic to me...",
+          "Description": null
+        },
+        {
+          "PartText": "Nobody ever chooses the first option!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well funny man...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s my show, and I chose door number 1",
+          "Description": null
+        },
+        {
+          "PartText": "now get on with the tale!",
+          "Description": "taking a seat, leaning back in the chair, and gesturing with her hands for him to get on with the show"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well alright then...",
+          "Description": null
+        },
+        {
+          "PartText": "Let me just rewind my head...",
+          "Description": null
+        },
+        {
+          "PartText": "I sort of had the first 5 minutes of conversation theory all lined up...",
+          "Description": null
+        },
+        {
+          "PartText": "OK...",
+          "Description": null
+        },
+        {
+          "PartText": "I met my X-wife when we were 22...",
+          "Description": null
+        },
+        {
+          "PartText": "About a year after I met her, she gave birth to our daughter",
+          "Description": null
+        },
+        {
+          "PartText": "That was...",
+          "Description": null
+        },
+        {
+          "PartText": "pretty wild actually...",
+          "Description": null
+        },
+        {
+          "PartText": "I cried and all!",
+          "Description": "gesturing \u0027It\u0027s true!\u0027 with his eyes"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "A lot of people do that at the birth of a child...",
+          "Description": null
+        },
+        {
+          "PartText": "You are allowed to I think",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ah yes...",
+          "Description": "wiping relief off his forehead"
+        },
+        {
+          "PartText": "Time is really weird...",
+          "Description": null
+        },
+        {
+          "PartText": "I remember how I felt when my daughter was just a baby, and I used to go for these long walks at 5 o\u0027clock in the morning...",
+          "Description": null
+        },
+        {
+          "PartText": "It was the Summer...",
+          "Description": null
+        },
+        {
+          "PartText": "She would only sleep when she was being driven in her carriage because her stomach ached...",
+          "Description": null
+        },
+        {
+          "PartText": "So I would take these long walks of up to 2 hours, so my girlfriend",
+          "Description": null
+        },
+        {
+          "PartText": "- we weren\u0027t married then -",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m a Buddhist Viking so I am allowed to have children outside of wed-lock",
+          "Description": "whispering conspiratorially"
+        },
+        {
+          "PartText": "... so my girlfriend could sleep",
+          "Description": null
+        },
+        {
+          "PartText": "And I had dreams... for her!",
+          "Description": null
+        },
+        {
+          "PartText": "My daughter, that is",
+          "Description": null
+        },
+        {
+          "PartText": "I wanted her to be happy and have a good life...",
+          "Description": null
+        },
+        {
+          "PartText": "Which doesn\u0027t really express what I\u0027m trying to say...",
+          "Description": null
+        },
+        {
+          "PartText": "I wanted her to be whole... if that makes any sense...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve always felt empty in some way...",
+          "Description": null
+        },
+        {
+          "PartText": "not entirely soulless, but not entirely \u0027not soulless\u0027 either...",
+          "Description": null
+        },
+        {
+          "PartText": "and in some inarticulate way, I thought I could hug, dance and, sing her whole...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "now taking on a serious look"
+        },
+        {
+          "PartText": "Go on... I think this is what I came here for",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If we just take a snapshot of that instant...",
+          "Description": null
+        },
+        {
+          "PartText": "of me singing to our daughter in the living room of \u0027then\u0027 and hang it on the mental blackboard...",
+          "Description": null
+        },
+        {
+          "PartText": "and let\u0027s flash forward a couple of years to when my son was born, and I would take the same kinds of walks with him in the baby carriage...",
+          "Description": null
+        },
+        {
+          "PartText": "It was at the beginning of Fall and he was sleeping...",
+          "Description": null
+        },
+        {
+          "PartText": "and it had gotten dark and I walked by this villa",
+          "Description": null
+        },
+        {
+          "PartText": "it was newly built and you could see directly into the living room...",
+          "Description": null
+        },
+        {
+          "PartText": "and the family that lived there was having visitors over...",
+          "Description": null
+        },
+        {
+          "PartText": "all sitting around the family table having dinner...",
+          "Description": null
+        },
+        {
+          "PartText": "and it seemed to me like what family bliss must be like...",
+          "Description": null
+        },
+        {
+          "PartText": "house and car of your own...",
+          "Description": null
+        },
+        {
+          "PartText": "not living crammed into a small apartment with other people living on top, bottom, and all around you...",
+          "Description": null
+        },
+        {
+          "PartText": "and I believed, that if I worked hard for it...",
+          "Description": null
+        },
+        {
+          "PartText": "that\u0027s what we would have someday...",
+          "Description": null
+        },
+        {
+          "PartText": "Let\u0027s put a picture of that scene... here...",
+          "Description": "hanging yet another photo up on the mental blackboard"
+        },
+        {
+          "PartText": "And then let\u0027s just speed up this showing a bit...",
+          "Description": null
+        },
+        {
+          "PartText": "so we can actually see my behavior getting more and more erratic",
+          "Description": null
+        },
+        {
+          "PartText": "- and incompatible with family life -",
+          "Description": null
+        },
+        {
+          "PartText": "as 30\u002B years of living with an undiagnosed behavioral disorder becomes ever more noticeable in my behavior...",
+          "Description": null
+        },
+        {
+          "PartText": "getting up at 3:30 to hit the gym and go to work...",
+          "Description": null
+        },
+        {
+          "PartText": "or coming home from work when everyone else is asleep...",
+          "Description": null
+        },
+        {
+          "PartText": "and generally failing horribly at being a dad and a husband...",
+          "Description": null
+        },
+        {
+          "PartText": "And now, looking back, I have a blackboard full of photographs and broken promises, and I know that I am totally the one who hung up those photos and broke those promises, but it feels like I\u0027m living in a world that has gone under...",
+          "Description": null
+        },
+        {
+          "PartText": "like I passed out drunk before the party got started and wake up now that everybody\u0027s left, and I have this constant impulse that I should make it right...",
+          "Description": null
+        },
+        {
+          "PartText": "fix what I have broken...",
+          "Description": null
+        },
+        {
+          "PartText": "but there is nothing I can do to fix anything, and I can\u0027t make that impulse go away...",
+          "Description": null
+        },
+        {
+          "PartText": "for what it\u0027s worth, it seems like both my children and X-wife are doing really well now...",
+          "Description": null
+        },
+        {
+          "PartText": "and I\u0027m glad they are...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "and things being as they are, I\u0027m glad I\u0027m the only person stuck in the here...",
+          "Description": null
+        },
+        {
+          "PartText": "in the world that went under with the mental blackboard and all...",
+          "Description": null
+        },
+        {
+          "PartText": "but I sure would like to get out of here...",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "But...",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "If some sick omnipotent being with Napoleon issues offered me the choice between getting out of here on the one hand...",
+          "Description": null
+        },
+        {
+          "PartText": "and my children growing up to become whole human beings...",
+          "Description": null
+        },
+        {
+          "PartText": "well...",
+          "Description": "gesturing \u0027I guess it\u0027s not so bad in here...\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Throughout most of his trip down memory lane Sune had been staring into the desk in front of him. Only now, when he feels like his story has been told, does he look up at Louisa, and realize that she is sitting as if frozen in place. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you alright?",
+          "Description": null
+        },
+        {
+          "PartText": "You know, the story is over now...",
+          "Description": null
+        },
+        {
+          "PartText": "I know I am a really great storyteller, and you are probably preparing for a gut-punching twist...",
+          "Description": null
+        },
+        {
+          "PartText": "like in a Hollywood sob story...",
+          "Description": null
+        },
+        {
+          "PartText": "but there\u0027s no death or anything...",
+          "Description": null
+        },
+        {
+          "PartText": "no darn bees...",
+          "Description": null
+        },
+        {
+          "PartText": "both my kids are alive and doing better than they have in years...",
+          "Description": null
+        },
+        {
+          "PartText": "you can relax now",
+          "Description": "said with a smile, but also a little worried"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m glad your kids are alright",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I think I know why Carol wanted me to come here...",
+          "Description": null
+        },
+        {
+          "PartText": "Thank you for sharing your story with me...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not sure yet why I needed to hear that story, but I did...",
+          "Description": null
+        },
+        {
+          "PartText": "and...",
+          "Description": null
+        },
+        {
+          "PartText": "I know what you need!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t tell me you sell farming supplies wholesale...",
+          "Description": "looking skeptical"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "expressing: \u0027WHAT?\u0027"
+        },
+        {
+          "PartText": "You need somebody to take you out into the world, and show you that it\u0027s still there...",
+          "Description": null
+        },
+        {
+          "PartText": "And that\u0027s exactly what I am going to do!",
+          "Description": null
+        },
+        {
+          "PartText": "Do you dance?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I only know salsa",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Perfect!",
+          "Description": null
+        },
+        {
+          "PartText": "I wouldn\u0027t know salsa from Shinola and that means that you can teach me...",
+          "Description": null
+        },
+        {
+          "PartText": "and somehow, I think you find comfort in that role",
+          "Description": null
+        },
+        {
+          "PartText": "Are you through with whatever work you were doing when I came here, or do you need to finish up?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, I was just investigating how to produce VR gas... Nothing that can\u0027t wait",
+          "Description": "dismissive gesture with hands"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at him questioningly and a little worried, face expressing: \u0027You are kidding, right?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 1,
+      "Title": "Louisa and Sune and the Real World",
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Walking home to Louisa\u0027s place after a couple of hours of dancing.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know, I\u0027m really glad you took me out and showed me the world...",
+          "Description": null
+        },
+        {
+          "PartText": "you were right:",
+          "Description": null
+        },
+        {
+          "PartText": "I needed to see that it was still there, and I would love to walk you home, but I just need to check...",
+          "Description": null
+        },
+        {
+          "PartText": "Because, when I asked you earlier, you thought I was just joking about being in peak physical condition for a middle-aged man...",
+          "Description": null
+        },
+        {
+          "PartText": "but now that you have seen what these babies can do...",
+          "Description": "performing something that might have been an attempt at a shuffle"
+        },
+        {
+          "PartText": "maybe you\u0027ve changed your mind about just how dangerous I am",
+          "Description": null
+        },
+        {
+          "PartText": "and would like to walk the rest of the way home alone...?",
+          "Description": null
+        },
+        {
+          "PartText": "I would understand...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "stops walking, and does a top-to-bottom-to-top eye-scan of him"
+        },
+        {
+          "PartText": "No... I still can\u0027t see it...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m almost sorry, but I can\u0027t really see the danger here",
+          "Description": "starts walking again"
+        },
+        {
+          "PartText": "I would even ask you up for a drink, but I fear that might start you on your \u0027Hollywood-killed-spontaneous-interaction\u0027-ramblings...",
+          "Description": null
+        },
+        {
+          "PartText": "but on the other hand....",
+          "Description": "pensive"
+        },
+        {
+          "PartText": "I feel uneasy about having the end of this conversation determined by how long it takes us to walk to my place...",
+          "Description": null
+        },
+        {
+          "PartText": "Alright...",
+          "Description": null
+        },
+        {
+          "PartText": "I won\u0027t ask you to come up to my apartment...",
+          "Description": null
+        },
+        {
+          "PartText": "but I\u0027m commanding you to follow me home and escort me to my apartment",
+          "Description": null
+        },
+        {
+          "PartText": "come into the kitchen, sit down, and converse with me...",
+          "Description": null
+        },
+        {
+          "PartText": "at some point, I will throw my hands in the air and exclaim: \u0027Good Golly, I think we\u0027ve reached the end of this exciting evening\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "at which point I will walk you to the entrance and you will give me an awkward last-minute hug...",
+          "Description": null
+        },
+        {
+          "PartText": "you know: scratch that... ",
+          "Description": null
+        },
+        {
+          "PartText": "You strike me as the kind of person who would put way too much thought into what is appropriate social etiquette",
+          "Description": null
+        },
+        {
+          "PartText": "decide on a hand-shake to not seem presumptuous",
+          "Description": null
+        },
+        {
+          "PartText": "and when I hit you with that \u0027what-the-fuck-is-wrong-with-you\u0027-look...",
+          "Description": null
+        },
+        {
+          "PartText": "you\u0027ll jump ship and go in for a hug to not seem rude",
+          "Description": null
+        },
+        {
+          "PartText": "but by then it\u0027ll be too late, and what will always come first to mind from this otherwise really cozy evening will be that horribly awkward ending...",
+          "Description": null
+        },
+        {
+          "PartText": "No... I\u0027ll walk you to the entrance and when I say:\u0027hug\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "you\u0027ll give me a 10-second hug like we\u0027ve known each other for a long time and have just shared a really tough time...",
+          "Description": null
+        },
+        {
+          "PartText": "because even though we have only just met, that\u0027s exactly how it is",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiles"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "They walk for about 2 minutes in silence.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I got you there, didn\u0027t I?",
+          "Description": "smiling, victoriously"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh yes",
+          "Description": "smiling, conceding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Would you be ready to do it all over again?",
+          "Description": null
+        },
+        {
+          "PartText": "Would you feel this way if she didn\u0027t remind you so much of her?",
+          "Description": null
+        }
+      ],
+      "IsThought": true,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He\u0027s not \u0027John\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "John\u0027s dead!",
+          "Description": null
+        },
+        {
+          "PartText": "And you have a date with Alex tomorrow night!",
+          "Description": null
+        }
+      ],
+      "IsThought": true,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As they reach the door to the stairway of her apartment building:\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What are you thinking about?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Those poor bastards who drift off from shore in blowup rubber rafts at the beach every Summer",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "trying to suppress an \u0027are your kidding me?\u0027-expression"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "On the 2nd floor, Louisa gets out her keychain, unlocks the entry door to her apartment and gestures for him to go in... Both of them are trying to hide the fact that the short climb up the stairs has left them short-winded.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Were you really thinking about poor bastards in rubber rafts just now?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, yeah, figuratively speaking",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Please expand...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, you know...",
+          "Description": null
+        },
+        {
+          "PartText": "the Coast Guard makes a fuss about telling people to respect the damn current every year...",
+          "Description": null
+        },
+        {
+          "PartText": "and every time some sucker floats out to sea and they have to launch the choppers to save their ass, it makes the national news headlines...",
+          "Description": null
+        },
+        {
+          "PartText": "but well... it happens again and again",
+          "Description": "he looks at her and they lock eyes"
+        },
+        {
+          "PartText": "It just seems ingrained in us...",
+          "Description": null
+        },
+        {
+          "PartText": "we know we should stay close to shore, but it doesn\u0027t seem that dangerous...",
+          "Description": null
+        },
+        {
+          "PartText": "like: \u0027what\u0027s all the fuss about, I got this\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "and we don\u0027t really think about it before we are a long way from shore...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "louisa",
+        "CharacterName": "Louisa",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... and then we realize that our fate is in the hands of the current...",
+          "Description": null
+        },
+        {
+          "PartText": "and by then it\u0027s too late...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "They maintain eye contact as their heads near each other and their lips touch for the first kiss, and then their eyes close, and like two people drifting off into to the great void, they both know that they are now in the hands of greater powers and their kiss turns deeper and more passionate and the current is leading them away from shore at an accelerating pace. Their lips part and he leans slightly forward and she leans her head against his neck and shoulders and he lets his left hand slide over her soft hair, and the current rocks them slowly back towards the shore. \r\nFor the next 10 minutes, they hold each other. \r\nHe holds her and tries to let go of a past that once was as she holds him and tries to let go of a future that never will be, and in the end he leaves the apartment without either of them saying another word because they had already spoken all the words that needed to be spoken. \r\n\r\nThe last thought that goes through Louisa\u0027s mind before she drifts off to sleep that night is: \u0027I think I forgive you, John\u0027",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 35,
+  "ChapterHash": "XZzrHbHSATB9ZhFDGneKbmU30KG0N6AaqjdHz8Hb4mnTyaL5RcYS1\u002BnDSL6BTBGd3AC0ZgpaHAf81\u002BzgkBJ3BA==",
+  "Video": {
+    "FileName": "orange-sky.gif",
+    "AttributionText": "Red Sun Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/red-sun"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

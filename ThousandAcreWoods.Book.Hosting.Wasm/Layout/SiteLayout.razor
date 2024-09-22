@@ -1,0 +1,34 @@
+﻿@inherits LayoutComponentBase
+<div class="page">
+    @if(_siteState != null)
+    {
+        <CascadingValue Value="_siteState">
+            <CascadingValue Value="_siteScreenData">
+                <CascadingValue Value="_readingPreferences">
+                    <main class="taw-book-main">
+                        @Body
+                    </main>
+                </CascadingValue>
+            </CascadingValue>
+        </CascadingValue>
+    }
+    <script>
+        window.transferScreenWidth = () => window.innerWidth;
+        window.transferScreenHeight = () => window.innerHeight;
+        window.transferUserAgent = () => navigator.userAgent;
+
+        window.downloadFileFromStream = async (fileName, contentStreamReference) => {
+            const arrayBuffer = await contentStreamReference.arrayBuffer();
+            const blob = new Blob([arrayBuffer]);
+            const url = URL.createObjectURL(blob);
+            const anchorElement = document.createElement('a');
+            anchorElement.href = url;
+            anchorElement.download = fileName ?? '';
+            anchorElement.click();
+            anchorElement.remove();
+            URL.revokeObjectURL(url);
+        }
+
+    </script>
+
+</div>

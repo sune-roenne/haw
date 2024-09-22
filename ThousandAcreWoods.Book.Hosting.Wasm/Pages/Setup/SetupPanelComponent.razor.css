@@ -1,0 +1,91 @@
+﻿.taw-site-setup-panel {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background-color: rgb(255,255,255);
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+
+/*Condensed*/
+.taw-site-setup-expand-cond {
+    margin-top: 15px;
+}
+
+.taw-site-setup-play-cond {
+    margin-top: 25px;
+}
+
+/*Un-condensed*/
+
+.taw-site-setup-logo {
+    margin-left: 20px; 
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+
+.taw-site-setup-play-uncond {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.taw-site-setup-play-label-uncond {
+    font-family: 'Old Standard TT';
+    font-size: 16pt;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.taw-site-setup-play-speed-uncond {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.taw-site-setup-play-speed-label-uncond {
+    font-family: 'Old Standard TT';
+    font-size: 16pt;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.taw-site-setup-story-cond {
+    margin-top: 40px;
+}
+
+
+
+.taw-site-setup-download-pimped-pdf {
+    font-family: 'Old Standard TT';
+    font-size: 10pt;
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+.taw-site-setup-download-plain-pdf {
+    font-family: 'Old Standard TT';
+    font-size: 10pt;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.taw-site-setup-about {
+    font-family: 'Old Standard TT';
+    font-size: 10pt;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.taw-site-setup-about-btn {
+    color: black;
+}

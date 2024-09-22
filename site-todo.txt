@@ -1,0 +1,8 @@
+V Create "About the Author"
+V Host PDF?
+V Different animations
+V Common block component
+- Replace ¤ with No
+- <li> display and story time lists
+V Description on line-parts > 1
+V Parsing: About the Author (list items)

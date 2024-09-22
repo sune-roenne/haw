@@ -1,0 +1,1154 @@
+{
+  "ChapterDate": "2024-03-26T00:00:00",
+  "ChapterName": "Glider\u0027s Society",
+  "ChapterFileName": "2024-03-26-Introducing John.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Jacob enters the locker room of his local Gliders Society - a community of hobby glider pilots and enthusiasts - and immediately notices the young man sitting on the bench in front of the entrance. Jacob is about to ask the young man if he is lost - at 37 Jacob is the youngest member of the community that primarily consists of men over 50 with considerable liquidity to splurge on their hobby - but then notices the insistent and gloomy stare in the young man\u0027s eyes, and realizes what this is about.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "My tow-pilot could be here any minute",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Your T61F is motor-powered",
+          "Description": null
+        },
+        {
+          "PartText": "There is no one within a 5-kilometer radius",
+          "Description": null
+        },
+        {
+          "PartText": "Phone!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Jacob reaches into his pocket, pulls out his latest-edition iPhone, takes out the battery, and smashes the phone on the floor.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Personal phone?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Dual SIM",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Any other devices?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No. I just came to glide",
+          "Description": null
+        },
+        {
+          "PartText": "Was it the Hjort Hansen-job?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "apparently considering, deadpan stare"
+        },
+        {
+          "PartText": "No",
+          "Description": null
+        },
+        {
+          "PartText": "Trier Lundager",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Jacob doesn\u0027t like the outcome of the previous exchange. He had hoped for a sign of inexperience, a sign that the young man might show a willingness to engage in conversation, and if not that: a sign that he would be wound up tight enough to try and play the silent killer type. Jacob just needs a little leverage, a small advantage he can use to turn the situation around, but so far nothing has presented itself.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah?",
+          "Description": "challenging the young man to expand on the matter"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "considering, still deadpan"
+        },
+        {
+          "PartText": "Just bad luck",
+          "Description": "a very faint hint of compassion in his voice, otherwise emotionless"
+        },
+        {
+          "PartText": "I was vetting Herlevsen",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So what?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring at him in challenge"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Herlevsen is a business-associate. What\u0027s the connection?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You were in his recent contacts",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah...?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Had me looking into Trier\u0027s heart attack",
+          "Description": null
+        },
+        {
+          "PartText": "It wasn\u0027t easy",
+          "Description": null
+        },
+        {
+          "PartText": "but if I can make you for Trier, someone can start digging",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus Christ!",
+          "Description": null
+        },
+        {
+          "PartText": "You have no idea what kind of game you\u0027ve gotten yourself involved in, do you kid?",
+          "Description": null
+        },
+        {
+          "PartText": "If anybody \u0027starts digging\u0027 the Banshees will have the investigation shut down immediately",
+          "Description": null
+        },
+        {
+          "PartText": "You do know what kind of people are behind this thing, right?",
+          "Description": null
+        },
+        {
+          "PartText": "or do you think you are making the world a better place?",
+          "Description": null
+        },
+        {
+          "PartText": "Did the over-representation of wealthy CEO\u0027s on the list ever make you wonder if there\u0027s a money angle to the whole thing?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You knew the rules when you signed up",
+          "Description": "tired smile to suggest that Jacob should stop trying to talk his way out of this"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If you could do it all over again, would you still join?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring at him"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ve given the subject some thought...",
+          "Description": null
+        },
+        {
+          "PartText": "and on one hand, it gives you a whole other outlook on life...",
+          "Description": null
+        },
+        {
+          "PartText": "I mean... you have a deadline in 10 hours, the boss is on your back to close another client",
+          "Description": null
+        },
+        {
+          "PartText": "your colleagues are ready to stab you in the back at the slightest mistake",
+          "Description": null
+        },
+        {
+          "PartText": "but it totally pales in significance when compared to last night...",
+          "Description": null
+        },
+        {
+          "PartText": "when you broke into some guys home, shot him in the head and dumped the body in the harbor",
+          "Description": null
+        },
+        {
+          "PartText": "Who cares about a dip-shit boss getting upset?",
+          "Description": null
+        },
+        {
+          "PartText": "Who cares about clients catching you in a lie?",
+          "Description": null
+        },
+        {
+          "PartText": "if you slip up in that other operation, you\u0027re dead...",
+          "Description": null
+        },
+        {
+          "PartText": "but I guess I don\u0027t have to tell you that...",
+          "Description": "vague smile"
+        },
+        {
+          "PartText": "On the other hand, it gives you a whole other outlook on life...",
+          "Description": "repeating in a deeper tone of voice"
+        },
+        {
+          "PartText": "Make that deadline and make \u0027man of the hour\u0027? Can\u0027t feel any real sense of achievement...",
+          "Description": null
+        },
+        {
+          "PartText": "Bang the young intern during lunch hour? Kinda fun while it lasts, but you are too senseless to make it mean anything...",
+          "Description": null
+        },
+        {
+          "PartText": "And at some point, the killing stops being the same... The thrill is not the same, so you start taking unnecessary risks to get the feeling back",
+          "Description": null
+        },
+        {
+          "PartText": "... but I guess I don\u0027t have to tell you that",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "looking at the young man in challenge"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "meeting Jacob\u0027s stare, then apparently relenting, relaxing his composure a little"
+        },
+        {
+          "PartText": "I never signed up...",
+          "Description": null
+        },
+        {
+          "PartText": "Someone made me for a drunk driver I did...",
+          "Description": null
+        },
+        {
+          "PartText": "Guy killed a total of 7 people on 2 different occasions",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The Djernes case? That was you?!",
+          "Description": null
+        },
+        {
+          "PartText": "The newspapers said he looked like he had run into a bear or a pack of hungry wolves",
+          "Description": null
+        },
+        {
+          "PartText": "What did you use? A bat? A lead pipe? I\u0027m curious!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I didn\u0027t use anything",
+          "Description": "deadpan"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Holy Christ! You did that with your bare hands?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "When I got home, someone was waiting for me and gave me the Banshee spiel",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wait a minute, so you were doing this BEFORE Banshee? Freelance?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess it was more of a hobby-thing",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "giving it some thought"
+        },
+        {
+          "PartText": "Anger issues I suppose",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Christ!",
+          "Description": "in disbelief"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "Well, even knowing what I know now, I think I would still sign up... Make some stories, you know?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "If the young man does know, he\u0027s not making any attempt to show it. Instead, he gets up and cracks his neck and knuckles.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How are you going to do it?",
+          "Description": null
+        },
+        {
+          "PartText": "A gun?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t have a gun",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "A knife?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Suddenly, Jacob\u0027s outlook seems a lot brighter! \u0027What a fucking moron!\u0027 Did he really believe taking down Jacob would be like beating a drunkard in the boondocks? \r\nJacob pulls up the bottom of his shirt and lowers his pants a little to reveal a tattoo that looks a little like a Karate-belt around his waist.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at the young man, questioningly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s pretty",
+          "Description": "deadpan"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you know what it means?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "young man",
+        "CharacterName": "Young man",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That you killed someone who had one",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "In a bare-knuckles fight. No weapons!",
+          "Description": "proud grin"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "\u0027Alright\u0027 Jacob thinks \u0027Test his striking game, and take it to the ground if you don\u0027t have superiority within the first 30 seconds\u0027.\r\nJacob sends a kick to the young man\u0027s thigh with his left leg, then follows up with two quick jabs, does a slight cross-fake and goes for a hook, when he feels the man\u0027s knife go through his throat.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "jacob",
+        "CharacterName": "Jacob",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So, he lied... How did I not see that coming?",
+          "Description": null
+        }
+      ],
+      "IsThought": true,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Jacob may be able to send off a few more strikes, but at this point, what\u0027s the point? \r\n\r\nAt least the young man makes it quick: when Jacob stops resisting, the young man sweeps his legs and drives him to the floor on his stomach, pulls the knife across Jacob\u0027s throat in one smooth movement pulling hard on the knife to make it go as deep into Jacob\u0027s throat as possible, maintains a hold of Jacob\u0027s hair pulling the throat apart across the seam to allow for maximum spillage, and waits for Jacob to bleed out. He then pulls up Jacob\u0027s shirt to expose his lower back, carves \u0027\u00A4BB02651\u0027 and covers the back by the shirt again. \r\nThe young man leaves the knife on the floor, looks around the locker room to make sure he hasn\u0027t forgotten anything, turns off the light and leaves. \r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 0,
+  "ChapterHash": "TVMQFxC9ID9tFT3mXZQ\u002Bca2FQplg5guCiGfrzxxDVOEaPsPSb9\u002BI0YELoC/4OGXQpF5f34/f7WO6eV\u002BDQImMBA==",
+  "Video": {
+    "FileName": "deep-sea.gif",
+    "AttributionText": "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

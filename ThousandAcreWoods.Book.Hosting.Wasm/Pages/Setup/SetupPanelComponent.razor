@@ -1,0 +1,48 @@
+﻿@using ThousandAcreWoods.Book.Hosting.Wasm.Pages.AboutTheAuthor
+<div class="taw-site-setup-panel">
+    @if (IsCondensed)
+    {
+        <div class="taw-site-setup-expand-cond">
+            <ExpandSidePanelButtonComponent Size="15"></ExpandSidePanelButtonComponent>
+        </div>
+        <div class="taw-site-setup-play-cond">
+            <PlayButtonComponent Size="15"></PlayButtonComponent>
+        </div>
+    }
+    else
+    {
+        <div class="taw-site-setup-logo">
+            <img src="images/angela-and-john-logo.webp" width="200" />
+        </div>
+
+        <div class="taw-site-setup-play-uncond">
+            <div class="taw-site-setup-play-label-uncond">Automatic play</div>
+            <PlayButtonComponent Size="15"></PlayButtonComponent>
+        </div>
+        <div class="taw-site-setup-play-speed-uncond">
+            <label class="taw-site-setup-play-speed-label-uncond" for="taw-site-setup-play-speed-uncond-range">Play speed</label>
+            <input id="taw-site-setup-play-speed-uncond-range" type="range" min="@(MinRangeValue)" max="@(MaxRangeValue)" step="1" value="@((int) SiteState.CurrentReadingSpeed * 100)" @onchange="@((ev) => OnPlaySpeedChanged(ev))" disabled="@DisableReadingSpeedRange" />
+        </div>
+
+        <div class="taw-site-setup-download-pimped-pdf">
+            <DownloadAsPdfComponent IsPimped="true" Size="10"></DownloadAsPdfComponent>
+        </div>
+
+        <div class="taw-site-setup-download-plain-pdf">
+            <DownloadAsPdfComponent IsPimped="false" Size="10"></DownloadAsPdfComponent>
+        </div>
+        <div class="taw-site-setup-about">
+            <button type="button" class="btn btn-sm btn-outline-light" style="color: black;" @onclick="(() => OnAboutClicked())">About</button>
+        </div>
+
+
+        @if (ShowBackToStoryButton)
+        {
+            <div class="taw-site-setup-story-cond">
+                <button type="button" class="btn btn-sm btn-primary taw-site-setup-about-btn" @onclick="(() => OnBackToStoryClicked())">Story >></button>
+            </div>
+        }
+    }
+
+
+</div>

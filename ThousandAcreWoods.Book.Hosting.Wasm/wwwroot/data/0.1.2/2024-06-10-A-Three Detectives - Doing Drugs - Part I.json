@@ -1,0 +1,2077 @@
+{
+  "ChapterDate": "2024-06-10T00:00:00",
+  "ChapterName": "The 3 Detectives: Doing Drugs (Part I)",
+  "ChapterFileName": "2024-06-10-A-Three Detectives - Doing Drugs - Part I.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Seriously, why is it so damn hot in here",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ve been here less than 5 minutes, and my shirt is as good as see-through",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah...",
+          "Description": null
+        },
+        {
+          "PartText": "You should apologize for that...",
+          "Description": null
+        },
+        {
+          "PartText": "Maybe hit the gym once in a while",
+          "Description": null
+        },
+        {
+          "PartText": "But, we forgive you...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s not your fault the damn Air Condition is broken",
+          "Description": null
+        },
+        {
+          "PartText": "Have some ice-cold Coca-Cola...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027ll do you wonders",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Sune starts pouring from the - not even refrigerator-cold - bottle of cola into the 3 glasses on the table while laying it on John and Albert with his usual \u0022compliment, weird-ramble, unbelievable insult, quasi-wise mysticism\u0022-kombo, that John has come to think of as the man\u0027s standard MO, and they therefore don\u0027t object too much to the weird Eastern European Coke off-brand the guy was offering as repairs for an unbelievably poor work environment.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jeesus Christ... Where did you even get this?",
+          "Description": "twisting his face as if drinking pure vinegar"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "is about the only remarks to the sub-par conditions of the beverage situation John and Albert think to inject into the conversation. Partly because the first glass pretty much kills off whatever taste buds they had going into today\u0027s session, but mostly from the usual fight of trying to keep up with the verbal shenanigans of the Basement Prankster, so as to not inadvertently agree to something stupid like securing that 100 kg of fertilizer the guy so badly wants (a fate that almost befell Albert and his credit card the day before). After about 15 minutes of introductory rambling - also something John and Albert has pretty much accepted as part of the daily ritual - the room falls quiet and they get back into the analysis of Angela\u0027s \u0027lab notes\u0027. After about 20 minutes more, the heat finally gets to Albert:\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Seriously...",
+          "Description": null
+        },
+        {
+          "PartText": "We have to get out of this room...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t want to sound like a cry-baby, but I think I\u0027m getting pretty close to having a stroke",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t worry about it, I\u0027ll just turn down the Air Condition",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert and john",
+        "CharacterName": "Albert and John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "both staring in bewilderment at the man, sweat streaming down the sides of their faces"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "DUDE!",
+          "Description": null
+        },
+        {
+          "PartText": "You...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "said the air conditioner was broken, in order to get you to drink the soda pop",
+          "Description": null
+        },
+        {
+          "PartText": "and now that you have finished your meat and soda pop, you can have cold",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What was in that bottle?",
+          "Description": "looking tired at the man, having a bad premonition"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "A bunch of C\u0027s and D\u0027s mostly...",
+          "Description": null
+        },
+        {
+          "PartText": "2C-D, 2C-I, 2C-P",
+          "Description": null
+        },
+        {
+          "PartText": "Your MDMA, DET, LSD, LSZ, DMT...",
+          "Description": null
+        },
+        {
+          "PartText": "Honestly, I\u0027m not really sure...",
+          "Description": null
+        },
+        {
+          "PartText": "I targeted some specifics and then splurged the last Monero\u0027s on a surprise pack",
+          "Description": null
+        },
+        {
+          "PartText": "Let Lady Fortuna decide you know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shock"
+        },
+        {
+          "PartText": "What does that even mean?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It means we will be tripping balls within half an hour tops",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You drugged us?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now Sunny, I don\u0027t want to hear that kind of talk!",
+          "Description": null
+        },
+        {
+          "PartText": "When 3 people are bound by a holy quest, there is no room for suspicion and scornful accusations",
+          "Description": null
+        },
+        {
+          "PartText": "We all agreed that John has to make the jump, and we are going to help him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, first of all...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t remember agreeing to anything about no damn jump!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s because you weren\u0027t paying attention...",
+          "Description": null
+        },
+        {
+          "PartText": "Don\u0027t blame us for your shortcomings",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Secondly: why did you have to drug ME if John is the one making the jump?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What kind of friends...",
+          "Description": null
+        },
+        {
+          "PartText": "no: QUEST MATES...",
+          "Description": null
+        },
+        {
+          "PartText": "would we be, if we just sent him flying off alone...",
+          "Description": null
+        },
+        {
+          "PartText": "Not the type of people your mother would have wanted you to associate with, that\u0027s for darn sure",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Dude, just let it go",
+          "Description": "tired, motioning to Albert that arguing with the man is only going to make it worse"
+        },
+        {
+          "PartText": "BUT WOULD YOU AT LEAST TURN DOWN THE DAMN HEAT?!",
+          "Description": "as he drops off his chair to lie down on the much cooler basement floor"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And maybe most importantly:",
+          "Description": null
+        },
+        {
+          "PartText": "WHY DO YOU HAVE A GUN?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That man\u0027s a damn psychopath...",
+          "Description": "whispering while pointing at John"
+        },
+        {
+          "PartText": "There\u0027s no telling what he might do... As soon as we think we\u0027re safe, he\u0027ll crawl across the floor with murderous intent in his eyes, to gut you open and eat your intestines",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Quit scaring the guy and turn down the damn heat!",
+          "Description": null
+        },
+        {
+          "PartText": "What do you think will happen when he runs upstairs and tells everyone who\u0027s unlucky to run into him about how his \u0027Quest Mates\u0027 fed him a week\u0027s worth of leftovers from a large-scale chemical drug lab?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If they get a hold of you, you mustn\u0027t tell them about the plunger trick!",
+          "Description": "looking dead-serious at Albert"
+        },
+        {
+          "PartText": "It will only carry so many of us to the other side...",
+          "Description": null
+        },
+        {
+          "PartText": "if shit hit\u0027s the fan",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "THE HEAT!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ll do it on the next turn...",
+          "Description": null
+        },
+        {
+          "PartText": "just gotta land something a liiiitle higher than \u0027hoovy\u0027",
+          "Description": "looking worried at his own legs"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Sune watches his legs intently for the next 15 seconds, then suddenly jumps up and makes the 4 meters to the counter-top where the air condition remote is lying in full sprint and as he runs past the spot where John is lying on the floor, he lets the remote control fall.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "BOMBS AWAY",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John lets out an indecipherable protest as the remote control lands on his face, but then contents himself with trying to figure out how this alien piece of machinery works. It\u0027s hard to ascertain another person\u0027s exact level of comprehension regarding a specific subject, but the changing climate in the room over the course of the following 3 hours - going from \u0027freezing cold\u0027 over \u0027scorching heat\u0027 to \u0027humid like a tropical forest\u0027 - suggests that he never achieves a state of supreme practitioner in the craft of weather-regulatorism. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So... How do we do \u0027jump\u0027?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You muzzt heeer thee zztorii",
+          "Description": null
+        },
+        {
+          "PartText": "ferhst",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not coming down from up here",
+          "Description": null
+        },
+        {
+          "PartText": "You tell your story Old Man, but I\u0027m staying up here",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You do you, man!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "It\u0027s pretty telling of the mental temperature in the room, that Albert is at this point lying on his stomach looking directly into the floor. John hasn\u0027t moved from his position on the floor, lying on his back, staring up into a colorful array of lights, while Sune has re-conquered his office chair, and is now fiddling with the gun, apparently trying to figure out where the handle is. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "STORY TIME AZZHOLES",
+          "Description": "pointing the gun around the room"
+        },
+        {
+          "PartText": "Do you guys know Blender?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah... My dad had one of those",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "HookerBoy knows all about Blendah Old Man",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "struggling a little with pronunciation throughout"
+        },
+        {
+          "PartText": "Blender is a three dee animatronix software",
+          "Description": null
+        },
+        {
+          "PartText": "And it is soooooo good",
+          "Description": null
+        },
+        {
+          "PartText": "but I wouldn\u0027t know nothing about that, because I get dizzy...",
+          "Description": null
+        },
+        {
+          "PartText": "because you can move around in the computer...",
+          "Description": null
+        },
+        {
+          "PartText": "but then, you get lost on the Z-axis and you can\u0027t come down to the plane again...",
+          "Description": null
+        },
+        {
+          "PartText": "you displace...",
+          "Description": null
+        },
+        {
+          "PartText": "Did you guys know that I was a normal guy once?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "BULL SHIT!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aaarrkwaaard siiilence",
+          "Description": "actually articulating the words"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I had a family once",
+          "Description": "unphased"
+        },
+        {
+          "PartText": "Before I displaced",
+          "Description": null
+        },
+        {
+          "PartText": "A loving wife, a smart and beautiful daughter, and a sweet little boy",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The boy wasn\u0027t smart?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh yes! A very smart boy!",
+          "Description": null
+        },
+        {
+          "PartText": "But then one day, something scary happened",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Please lower your voice...",
+          "Description": null
+        },
+        {
+          "PartText": "I can\u0027t \u0027loud scary\u0027 right now!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "A cloud came by",
+          "Description": "in a whisper"
+        },
+        {
+          "PartText": "and shifted the man",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The man was you, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It was!",
+          "Description": null
+        },
+        {
+          "PartText": "The cloud drifted in at night and shifted my v-coordinate...",
+          "Description": null
+        },
+        {
+          "PartText": "And then the daughter said something like: \u0027Where is dad?\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "And the wife said something like: \u0027Goddammit, where have you gone off to now you miserable psycho?\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "And the poor little boy kept looking for me all throughout the house",
+          "Description": "sobbing slightly"
+        },
+        {
+          "PartText": "AND I WAS RIGHT THERE!",
+          "Description": null
+        },
+        {
+          "PartText": "But they couldn\u0027t see me, because I was off-V-coordinate to them!",
+          "Description": null
+        },
+        {
+          "PartText": "I could look into their plane and see them...",
+          "Description": null
+        },
+        {
+          "PartText": "But they couldn\u0027t see me!",
+          "Description": "now crying"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why did the cloud do that?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What cloud?",
+          "Description": null
+        },
+        {
+          "PartText": "Stick with the story man!",
+          "Description": null
+        },
+        {
+          "PartText": "John...",
+          "Description": null
+        },
+        {
+          "PartText": "We have to change your V-coordinate...",
+          "Description": null
+        },
+        {
+          "PartText": "But you must jump...",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ll get you back when it\u0027s time...",
+          "Description": null
+        },
+        {
+          "PartText": "back to this plane",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Haaoooww?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Quit fucking around John!",
+          "Description": null
+        },
+        {
+          "PartText": "You know how!",
+          "Description": null
+        },
+        {
+          "PartText": "Get your feet wet!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No!",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not going in there with her!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m sorry buddy",
+          "Description": null
+        },
+        {
+          "PartText": "There is no other way",
+          "Description": null
+        },
+        {
+          "PartText": "The quantum gate is open now, but it won\u0027t be for long!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "She wants to draaaoowwnn meee",
+          "Description": null
+        },
+        {
+          "PartText": "In blood!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ok, so you close your eyes and think about something nice!",
+          "Description": null
+        },
+        {
+          "PartText": "I made an even 100 off HookerBoy\u0027s old girlfriend like that the other day",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ve never seen her before in my life!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Just listen to my voice John...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll talk you through it",
+          "Description": null
+        },
+        {
+          "PartText": "But we need to hurry, the draft from the quantum state is sucking the evil into the room",
+          "Description": null
+        },
+        {
+          "PartText": "And HookerBoy is sitting right upwind...",
+          "Description": null
+        },
+        {
+          "PartText": "he won\u0027t be HookerBoy for long if you don\u0027t hurry up and jump",
+          "Description": null
+        },
+        {
+          "PartText": "I need you to take a deep breath in, John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "DO IT FOR CHRIST\u0027S SAKE!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now blow it out, John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "RELEASE THE FUCKING AIR JOHN!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now close your eyes, John!",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll count to 6, and while I do that, you breathe air into your lungs",
+          "Description": null
+        },
+        {
+          "PartText": "When I count down from 9, you release the air",
+          "Description": null
+        },
+        {
+          "PartText": "1...2...3...4...5...6...",
+          "Description": null
+        },
+        {
+          "PartText": "Hold it in",
+          "Description": null
+        },
+        {
+          "PartText": "9...8...7...6...5...4...3...2...1...",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ll do that again John, but this time, you let go of space...",
+          "Description": null
+        },
+        {
+          "PartText": "you\u0027ll be carried up, up, up to the clouds John",
+          "Description": null
+        },
+        {
+          "PartText": "1...2...3...4...5...6...",
+          "Description": null
+        },
+        {
+          "PartText": "With your inside voice, say:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Ohm tat zat\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "It means... \u0027So long space\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "SAY IT JOHN!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "HookerBoy is already starting to turn pale with evil",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s it, John...",
+          "Description": null
+        },
+        {
+          "PartText": "Now breathe out John... 9...8...7...6...5...4...3...2...1...",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s good John...",
+          "Description": null
+        },
+        {
+          "PartText": "Now, I\u0027m not going to count for you anymore, so you have to learn to breathe on your own or die",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s very important that you use your inside eyes for the next bit...",
+          "Description": null
+        },
+        {
+          "PartText": "If you open your OUTSIDE eyes, you are going to cause a rupture in quantum space and kill everyone within a 5-kilometer radius",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "OPEN YOUR FUCKING INSIDE EYES JOHN!",
+          "Description": "said with a voice that indicates sheer terror, but a huge evil grin"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do as he says John, he only wants what\u0027s best for you",
+          "Description": null
+        },
+        {
+          "PartText": "Open your inside eyes",
+          "Description": null
+        },
+        {
+          "PartText": "Ada boy",
+          "Description": null
+        },
+        {
+          "PartText": "Now look around with your inside eyes...",
+          "Description": null
+        },
+        {
+          "PartText": "you are standing on a cloud, John...",
+          "Description": null
+        },
+        {
+          "PartText": "below you is the lake...",
+          "Description": null
+        },
+        {
+          "PartText": "she is waiting for you in the lake...",
+          "Description": null
+        },
+        {
+          "PartText": "but you have to jump down there John",
+          "Description": null
+        },
+        {
+          "PartText": "And when you jump, you have to say \u0027Gung Ho Fat Jahn\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "It means... \u0027Adi\u00F3s Time\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "You will be V-coordinate-free...",
+          "Description": null
+        },
+        {
+          "PartText": "At last, John...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I am quantum...?",
+          "Description": "mouthing the words in surprise"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "On the count of 3, you jump John",
+          "Description": null
+        },
+        {
+          "PartText": "3...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I am quantum!",
+          "Description": "mouthing with a look of realization"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "2...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I...",
+          "Description": "saying out loud"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "1",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "AM...",
+          "Description": "yelling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "JUMP JOHN!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "albert",
+        "CharacterName": "Albert",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "QUANTUM!!!",
+          "Description": "yelling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As Albert yells this last part of what is to become his mantra for the next couple of hours as he ravages the air ducts of the FinaLibre building, he gets up and takes off running down the long corridor outside Sune\u0027s office, screaming at the top of his lungs.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "YOU FORGOT THE GUN QUANTUM-MAN...",
+          "Description": null
+        },
+        {
+          "PartText": "I DON\u0027T TRUST MYSELF WITH IT",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "And just like that, the room goes silent. \r\n\r\nFor whatever else can be said about Sune, he certainly is a damn liar, and the only slightly redeeming quality to this fact is that he at least believes his own lies more than anyone else does. This for instance means, that when he had talked John into the clouds and convinced him to jump, he was 100% certain that John would land in his lake. It also meant that he was now fully convinced that the death of his family life had been caused by a shift of position out of the V-axis, and not one very patient woman deciding for the sake of herself and her children that enough was finally enough. If he had been the kind of person who would learn from making a mistake just once, he would surely have reminded himself that filling his own head with that kind of nonsense is a very bad starting point when going for a deep sea swim in the ocean of psychedelic designer drugs... but he isn\u0027t and thus, while John takes off to pursue his destiny with Angela and the mysterious girl in the lake and Quantum-Man is having the time of his life causing mayhem to the floors above by means of airborne psychological terror distributed through the air vents, Sune spends most of that time bawling his eyes out, trying to reach across the V-axis-offset to comfort the little boy he can see pacing the empty house calling out for his father. ",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 29,
+  "ChapterHash": "rFIvSRmXkTvxftrHz5CYdjl0RxCtNdBc/VWDqG9KBeEW5Zb8xPQf2TIjt/a2KlpcTjXSBDCWdhUB/JZ2A2Exyw==",
+  "Video": {
+    "FileName": "blood.gif",
+    "AttributionText": "Murder Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/murder"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

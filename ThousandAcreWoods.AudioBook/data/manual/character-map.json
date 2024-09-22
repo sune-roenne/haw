@@ -1,0 +1,368 @@
+[
+  {
+    "CharacterName": "narrator",
+    "Voice": "en-US-AndrewNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": "newscast-casual"
+  },
+
+  {
+    "CharacterName": "albert",
+    "Voice": "en-US-GuyNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "angela",
+    "Voice": "en-US-JaneNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "angry voice from a car parked a couple of rows in front",
+    "Voice": "en-US-GuyNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": "angry"
+  },
+  {
+    "CharacterName": "another voice",
+    "Voice": "en-IE-ConnorNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": "OlderAdultMale",
+    "Style": "disgruntled"
+  },
+  {
+    "CharacterName": "ben",
+    "Voice": "en-US-JacobNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": 7
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "brain",
+    "Voice": "en-US-JaneNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -7
+    },
+    "Role": "SeniorFemale",
+    "Style": "serious"
+  },
+  {
+    "CharacterName": "carol",
+    "Voice": "en-US-LunaNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "cecil",
+    "Voice": "en-GB-ElliotNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "creep",
+    "Voice": "en-US-EricNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -14
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "donnie",
+    "Voice": "en-GB-ThomasNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -5
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "elderly drunk man 1",
+    "Voice": "en-IE-ConnorNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -15
+    },
+    "Role": "SeniorMale",
+    "Style": "angry"
+  },
+  {
+    "CharacterName": "elderly drunk man 2",
+    "Voice": "en-AU-DarrenNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -12
+    },
+    "Role": null,
+    "Style": "empathetic"
+  },
+  {
+    "CharacterName": "frank",
+    "Voice": "en-GB-RyanNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -7
+    },
+    "Role": null,
+    "Style": "serious"
+  },
+  {
+    "CharacterName": "jacob",
+    "Voice": "en-GB-RyanNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": "fearful"
+  },
+  {
+    "CharacterName": "janet",
+    "Voice": "en-IE-EmilyNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": "customerservice"
+  },
+  {
+    "CharacterName": "john",
+    "Voice": "en-US-KaiNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": "calm"
+  },
+  {
+    "CharacterName": "karl",
+    "Voice": "en-US-DavisNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "leo",
+    "Voice": "en-US-DavisNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -10
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "louisa",
+    "Voice": "en-US-AshleyNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "mike",
+    "Voice": "en-US-RogerNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -3
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "miss jansen",
+    "Voice": "en-GB-MiaNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -9
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "oldjohn",
+    "Voice": "en-US-BrandonNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -7
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "sune",
+    "Voice": "en-IE-ConnorNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": null
+    },
+    "Role": null,
+    "Style": "lyrical"
+  },
+  {
+    "CharacterName": "suneasevilman",
+    "Voice": "en-IE-ConnorNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": -10,
+      "RateInPercent": 5
+    },
+    "Role": null,
+    "Style": "angry"
+  },
+  {
+    "CharacterName": "suneaslessevilman",
+    "Voice": "en-IE-ConnorNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -5
+    },
+    "Role": null,
+    "Style": "empathetic"
+  },
+
+  {
+    "CharacterName": "susan",
+    "Voice": "en-US-AmberNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -4
+    },
+    "Role": null,
+    "Style": null
+  },
+  {
+    "CharacterName": "thomas",
+    "Voice": "en-US-GuyNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": null,
+      "RateInPercent": -10
+    },
+    "Role": null,
+    "Style": "terrified"
+  },
+
+  {
+    "CharacterName": "previousjohn",
+    "Voice": "en-US-KaiNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": 3,
+      "RateInPercent": -3
+    },
+    "Role": "YoungAdultMale",
+    "Style": "friendly"
+  },
+
+  {
+    "CharacterName": "previousangela",
+    "Voice": "en-US-JaneNeural",
+    "Prosody": {
+      "ContourChanges": null,
+      "PitchInHertz": null,
+      "PitchChangeInPercent": 3,
+      "RateInPercent": -3
+    },
+    "Role": "YoungAdultFemale",
+    "Style": "friendly"
+  }
+
+
+]

@@ -1,0 +1,31 @@
+.taw-navbar {
+    height:70px;
+    background-color: rgba(255,255,255,0.01);
+    &::before {
+                  content:'';
+                  position: absolute;
+                  top:0px;
+                  right:0px;
+                  bottom:0px;
+                  left:0px;
+                  background-size: contain;
+                  opacity:0.3;
+                  background-color: rgba(255,255,255,1);
+                  z-index: 1;
+              }
+}
+
+.taw-nav-ribbon {
+    height: 40px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    background-color: rgba(255,255,255,0.4);
+    z-index:1000;
+    font-family: 'Ink Free';
+    font-weight: bold;
+}
+
+.taw-nav {
+    margin-left:50px;
+    margin-right:50px;
+}

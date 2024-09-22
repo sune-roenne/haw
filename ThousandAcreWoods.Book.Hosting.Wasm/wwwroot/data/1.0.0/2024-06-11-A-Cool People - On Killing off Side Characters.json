@@ -1,0 +1,1236 @@
+{
+  "ChapterDate": "2024-06-11T00:00:00",
+  "ChapterName": "On Killing Side Characters",
+  "ChapterFileName": "2024-06-11-A-Cool People - On Killing off Side Characters.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I just don\u0027t see why it was necessary to kill the boy, that\u0027s all",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I agree with you in principle Susan",
+          "Description": null
+        },
+        {
+          "PartText": "but in this specific instance, it served a purpose in showing his dedication to/obsession with, reaching his goal",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And what principle would that be that be Ben?",
+          "Description": "challenging"
+        },
+        {
+          "PartText": "The \u0027Principle of Susan is Always Right\u0027?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The principle of killing off side-characters for emotional effect",
+          "Description": null
+        },
+        {
+          "PartText": "Hollywood does it to a fault:...",
+          "Description": null
+        },
+        {
+          "PartText": "here\u0027s  a story about a guy...",
+          "Description": null
+        },
+        {
+          "PartText": "or a girl...",
+          "Description": "looking at Susan"
+        },
+        {
+          "PartText": "oh, and here is a friend for them...",
+          "Description": null
+        },
+        {
+          "PartText": "take some adventure why don\u0027t you?...",
+          "Description": null
+        },
+        {
+          "PartText": "oh, it\u0027s starting to get interesting, isn\u0027t it?...",
+          "Description": null
+        },
+        {
+          "PartText": "and that friend is beginning to show themselves as really invaluable to the main character...",
+          "Description": null
+        },
+        {
+          "PartText": "it would be a shame if something were to happen to them, wouldn\u0027t it...",
+          "Description": null
+        },
+        {
+          "PartText": "like BAM!",
+          "Description": "almost yelling"
+        },
+        {
+          "PartText": "have a piano on the head \u0027slightly-unattractive-but-somehow-incredibly-all-knowing-and-fun-side-character\u0027!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone else",
+        "CharacterName": "Everyone else",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "watching Ben"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...or it could be bees...?",
+          "Description": "starts snapping fingers"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...and I guess...",
+          "Description": "singing, picking up on Mike\u0027s lead as on queue"
+        },
+        {
+          "PartText": "... you say...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike, cecil, susan and carol",
+        "CharacterName": "Mike, Cecil, Susan and Carol",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "WHAT can make me feel this waaaayy",
+          "Description": null
+        },
+        {
+          "PartText": "MY GIRL",
+          "Description": "singing/yelling"
+        },
+        {
+          "PartText": "MY GIRL",
+          "Description": null
+        },
+        {
+          "PartText": "Talking about my girl",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know, you guys are assholes!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You never should have told us",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "MY GIRL! UUUUUUUUUHHHHHHH",
+          "Description": "really getting into it"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "All jokes aside, Ben does have a point:",
+          "Description": null
+        },
+        {
+          "PartText": "If you need to kill off a beloved character just to make your story interesting",
+          "Description": null
+        },
+        {
+          "PartText": "Your story is not interesting",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027d say it really depends on the story",
+          "Description": null
+        },
+        {
+          "PartText": "If you are telling a story about a man trying to make it in the world, and you kill off his son...",
+          "Description": null
+        },
+        {
+          "PartText": "you\u0027re an asshole!",
+          "Description": null
+        },
+        {
+          "PartText": "If you\u0027re telling a story about a man climbing a mountain and you end up killing one of the lovable Sherpa....",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, that goes with a story about mountain climbing, doesn\u0027t it?",
+          "Description": null
+        },
+        {
+          "PartText": "so it\u0027s OK...",
+          "Description": null
+        },
+        {
+          "PartText": "because climbing mountains is about dedication and sacrifice...",
+          "Description": null
+        },
+        {
+          "PartText": "on a symbolic level",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But actually, in that specific case, I\u0027d say the storyteller doesn\u0027t HAVE to kill the Sherpa...",
+          "Description": null
+        },
+        {
+          "PartText": "because anyone who knows mountain climber stories...",
+          "Description": null
+        },
+        {
+          "PartText": "knows that the Sherpa is liable to take a sudden fall on the last climb of the journey...",
+          "Description": null
+        },
+        {
+          "PartText": "and so, the storyteller can just play with the suspense...",
+          "Description": null
+        },
+        {
+          "PartText": "let him dangle around dangerously close to the edge on a couple of occasions",
+          "Description": null
+        },
+        {
+          "PartText": "let the listener/reader/watcher know, that the storyteller CAN kill the lovable Sherpa...",
+          "Description": null
+        },
+        {
+          "PartText": "but will he?",
+          "Description": null
+        },
+        {
+          "PartText": "the suspense is enough, to convince you about the very real dangers of mountain climbing",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, that\u0027s mountain climbing, but there are movies where something\u0027s got to give",
+          "Description": null
+        },
+        {
+          "PartText": "if you do a war story, and people don\u0027t die...!!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course",
+          "Description": null
+        },
+        {
+          "PartText": "But I have to agree with Ben, it\u0027s alright to mix it up a little now and then",
+          "Description": null
+        },
+        {
+          "PartText": "The shtick about a naive lovable guy, who only ever acts in the interest of the regiment",
+          "Description": null
+        },
+        {
+          "PartText": "in the middle of a war zone, gets killed in an ultimate act of self-sacrifice, saving his buddies...?",
+          "Description": null
+        },
+        {
+          "PartText": "Please!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Kill the fucker at base camp!",
+          "Description": null
+        },
+        {
+          "PartText": "Seven-six-two millimeter",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john, cecil, ben and mike",
+        "CharacterName": "John, Cecil, Ben and Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "FULL METAL JACKET!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wauw you guys!",
+          "Description": null
+        },
+        {
+          "PartText": "All that masculinity is making my seat damp",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "applying an imaginary fan with her one hand"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... All jokes aside, you do know why they do that, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do what?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Kill off the side-kick?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone else",
+        "CharacterName": "Everyone else",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking a little puzzled, since the topic seemed debated"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus... and you guys work in Finance!",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, then listen up and take notes",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s very simple:",
+          "Description": null
+        },
+        {
+          "PartText": "Hollywood kills off the lovable side character...",
+          "Description": null
+        },
+        {
+          "PartText": "to make money",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone else",
+        "CharacterName": "Everyone else",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "[shock sound]",
+          "Description": "mock shock"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But wait, there\u0027s more",
+          "Description": null
+        },
+        {
+          "PartText": "A study conducted between 2000 and 2020 showed, that 93% of all Hollywood blockbusters had 2 recurring characteristics:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " a love story involving the main protagonist",
+        " and some form of sacrifice on the side of the main protagonist, usually a close friend"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "and I can hear your mind working to find the connection...",
+          "Description": null
+        },
+        {
+          "PartText": "PROMOTING A LIFESTYLE!",
+          "Description": null
+        },
+        {
+          "PartText": "A lifestyle in which you ultimately have to sacrifice your friendships, to achieve love...",
+          "Description": null
+        },
+        {
+          "PartText": "Because, believe it or not:",
+          "Description": null
+        },
+        {
+          "PartText": "Hollywood earns more money...",
+          "Description": null
+        },
+        {
+          "PartText": "that is: A LOT MORE MONEY...",
+          "Description": null
+        },
+        {
+          "PartText": "on the average Western civilization COUPLE than they do from 2 average Western civilization SINGLES",
+          "Description": null
+        },
+        {
+          "PartText": "all other things equal",
+          "Description": null
+        },
+        {
+          "PartText": "Think about it:",
+          "Description": null
+        },
+        {
+          "PartText": "what do you spend your money on when you are single:",
+          "Description": null
+        },
+        {
+          "PartText": "getting shit-faced and trying to hook up",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, so you may catch a top flick with your homies when you are single",
+          "Description": null
+        },
+        {
+          "PartText": "but compare that to the amount of movie dates you have during the dating-phase...",
+          "Description": null
+        },
+        {
+          "PartText": "the \u0027Netflix n\u0027 chill\u0027s during the commitment phase...",
+          "Description": null
+        },
+        {
+          "PartText": "and the amount of electronic entertainment consumed once the relationship spawns offspring, because:",
+          "Description": null
+        },
+        {
+          "PartText": "what else can you do for those first 10 years",
+          "Description": null
+        },
+        {
+          "PartText": "Alright, I see your doubts, but then let\u0027s let the facts tell their undeniable truth...",
+          "Description": null
+        },
+        {
+          "PartText": "and feel free to verify this afterward...",
+          "Description": null
+        },
+        {
+          "PartText": "The amount of adults of Western civilizations between the ages of 18 and 40 either married or living in a committed \u0027marriage-like\u0027 relationship increased by 53% between 2004 and 2019...",
+          "Description": null
+        },
+        {
+          "PartText": "and guess which sector increased it\u0027s net annual income ",
+          "Description": null
+        },
+        {
+          "PartText": "- WHEN ADJUSTED FOR INFLATION -",
+          "Description": null
+        },
+        {
+          "PartText": "by almost 300%...",
+          "Description": null
+        },
+        {
+          "PartText": "THE ELECTRONIC ENTERTAINMENT INDUSTRY",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "bowing"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring in amazement"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shaking his head, folding"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "gesturing throwing his card in a fold, almost absolutely certain that every figure Cecil has just cited is complete bullshit, but not invested enough in today\u0027s pot to go for it"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone",
+        "CharacterName": "Everyone",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at Mike"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ll give you 10 seconds to name just 1 movie produced between the years 2000 and 2020 with the aforementioned characteristics...",
+          "Description": null
+        },
+        {
+          "PartText": "starting now",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "... hold up...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "... I\u0027ve got one...",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... Time\u0027s up...",
+          "Description": null
+        },
+        {
+          "PartText": "I even gave you 15 seconds",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "bowing head in acceptance of defeat"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "everyone else",
+        "CharacterName": "Everyone else",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "getting up from their seat"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m hard man!",
+          "Description": "to Cecil, bowing in recognition"
+        },
+        {
+          "PartText": "That was the most beautiful load of mind fuck in the history of cool people!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Nice try brother...",
+          "Description": "folding hands and bowing to Cecil"
+        },
+        {
+          "PartText": "That was some first-class \u0027pulling-figures-out-of-your-ass\u0027 if I\u0027ve ever heard some!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That was sick man!",
+          "Description": "to Cecil, while extending his hand to him for a hand shake"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "In my eyes, you\u0027re still a real winner",
+          "Description": "to Cecil"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 32,
+  "ChapterHash": "98UqryyLpqOVEE\u002BjhpPHFQRqNTZ9C3rIKp8rgpkGH1Adu1e4AGROkkyP2\u002BWoVxbQ/E1ASw6ng9QXomwLqBGkEQ==",
+  "Video": {
+    "FileName": "lunch.gif",
+    "AttributionText": "Lunch Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/lunch"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

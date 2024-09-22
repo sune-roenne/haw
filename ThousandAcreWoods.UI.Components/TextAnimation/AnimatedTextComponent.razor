@@ -1,0 +1,35 @@
+﻿@using ThousandAcreWoods.UI.Components.Util
+<div class="@ComponentId">
+    <style>
+        @FontCssRule()
+
+        @PartAnimationRules()
+
+        @ComponentAnimation()
+    </style>
+    <div class="@ContainerId" style="display:flex; flex-direction: row; flex-wrap: wrap;">
+        @foreach(var word in _words)
+        {
+            <div style="display:flex; flex-direction: row; flex-wrap: nowrap;" class="@(word.WordId + (word.Parts.Count == 1 ? (" " +  word.Parts.First().PartId) : ""))">
+                @if(word.Parts.Count > 1)
+                {
+                    foreach(var part in word.Parts)
+                    {
+                        <div class="@part.PartId">@part.Text</div>
+                    }
+                }
+                else if(word.Parts.Count == 1 && word.Parts.First().Text == " ")
+                {
+                    <span>&nbsp;</span>
+                }
+                else if(word.Parts.Count == 1)
+                {
+                    <div style="display: flex;">@word.Parts.First().Text</div>
+                }
+
+            </div>
+        }
+    </div>
+
+
+</div>

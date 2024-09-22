@@ -1,0 +1,260 @@
+{
+  "ChapterDate": "2024-05-15T00:00:00",
+  "ChapterName": "Angela\u0027s Last Dream",
+  "ChapterFileName": "2024-05-15-Angelas Last Dream.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know it all now John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What would catch your eye most efficiently:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Jess needs help catching Shadow-Man?",
+          "Description": null
+        },
+        {
+          "PartText": "or \u0027Girl from Lake needs help to catch Shadow-Man?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Girl from Lake",
+          "Description": null
+        },
+        {
+          "PartText": "But are you sure you want to mention the Shadow-Man?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t want to, but I fear we\u0027ll only have one shot",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ll go with \u0027Lake-Girl\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "but I don\u0027t want to talk about it anymore now...",
+          "Description": null
+        },
+        {
+          "PartText": "or think about it",
+          "Description": null
+        },
+        {
+          "PartText": "Would you hold me through the night John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I would love to",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "laying in John\u0027s arms"
+        },
+        {
+          "PartText": "I hope I see you again soon!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know I feel the same",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angela",
+        "CharacterName": "Angela",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I do",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 8,
+  "ChapterHash": "EktDDWsUgspgm3FtbXD9EJ\u002BNxyjTK7me7W28\u002BXgGz7RH6wkiZMz9FWcF4SoQAD1AQk169bwsGNRkLCiDL/ixXA==",
+  "Video": {
+    "FileName": "floating-clouds.gif",
+    "AttributionText": "Floating Clouds Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/floating-clouds"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Shadows Into Light",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Shadows Into Light",
+    "TheFontFamily": "Shadows Into Light",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

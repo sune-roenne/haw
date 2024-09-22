@@ -1,0 +1,104 @@
+﻿@using ThousandAcreWoods.UI.Util
+<div class="taw-story-image-scene">
+    <style>
+        @((_id).CssRule("background-color", [
+            ("position", "absolute"),
+            ("background", "rgb(0,0,0)" ), 
+            ("width", "100%"),
+            ("height", "100%"),
+            ("z-index","1")
+        ]))
+
+        @((_id).CssRule("background", [
+            ("position", "absolute"),
+            ("background-image", $"url({Image})" ), 
+            ("background-size", "contain"),
+            ("width", $"{ImageWidth}px"),
+            ("height", $"{ImageHeight}px"),
+            ("overflow", "hidden"),
+            ("animation", "bg-anim 20s linear infinite"),
+            ("z-index","10")
+        ]))
+
+        @((_id).CssRule("frame-top", [
+            ("position", "absolute"),
+            ("background", $"rgb(0,0,0)"), 
+            ("width", $"{Width}px"),
+            ("height", $"{FrameHeight}px"),
+            ("top","0px"),
+            ("left","0px"),
+            ("overflow", "hidden"),
+            ("z-index","11")]
+            ))
+
+        @((_id).CssRule("frame-left", [
+            ("position", "absolute"),
+            ("background", $"rgb(0,0,0)"), 
+            ("width", $"{FrameWidth}px"),
+            ("height", $"{Height}px"),
+            ("top","0px"),
+            ("left","0px"),
+            ("overflow", "hidden"),
+            ("z-index","11")]
+            ))
+
+        @((_id).CssRule("frame-bottom", [
+            ("position", "absolute"),
+            ("background", $"rgb(0,0,0)"), 
+            ("width", $"{Width}px"),
+            ("height", $"{FrameHeight}px"),
+            ("bottom","0px"),
+            ("top",$"{Height - FrameHeight}px"),
+            ("overflow", "hidden"),
+            ("z-index","11")]
+            ))
+
+        @((_id).CssRule("frame-right", [
+            ("position", "absolute"),
+            ("background", $"rgb(0,0,0)"), 
+            ("width", $"{FrameWidth}px"),
+            ("height", $"{Height}px"),
+            ("top","0px"),
+            ("left",$"{Width - FrameWidth}px"),
+            ("overflow", "hidden"),
+            ("z-index","11")]
+            ))
+
+        @@keyframes bg-anim {
+            0% {
+                filter: blur(0.01px) grayscale(1%);
+                top:0px;
+                left:0px;
+            }
+            25% {
+                top:@(Height - ImageHeight)px;
+                left:0px;
+            }
+            50% {
+                filter: blur(5px) grayscale(60%);
+                top:@(Height - ImageHeight)px;
+                left:@(Width - ImageWidth)px;
+
+            }
+            75% {
+                top:0px;
+                left:@(Width - ImageWidth)px;
+            }
+            100% {
+                filter: blur(0.01px) grayscale(1%);
+                top:0px;
+                left:0px;
+            }
+
+
+        }
+    </style>
+    <div class="@_id.IdFor("background-color")"></div>
+    <div class="@_id.IdFor("background")"></div>
+    <div class="@_id.IdFor("frame-top")"></div>
+    <div class="@_id.IdFor("frame-left")"></div>
+    <div class="@_id.IdFor("frame-bottom")"></div>
+    <div class="@_id.IdFor("frame-right")"></div>
+
+
+</div>

@@ -1,0 +1,185 @@
+{
+  "ChapterDate": "2024-05-22T00:00:00",
+  "ChapterName": "Official Announcement on Email Fraud and Angela",
+  "ChapterFileName": "2024-05-22-B-Angela is Dead.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you all for coming on such short notice!",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "I understand that you have all received an email from Frank at 14:03 today",
+          "Description": null
+        },
+        {
+          "PartText": "stating that FinaLibre is looking a catastrophic quarterly earnings, with downsizing measures an unavoidable result",
+          "Description": null
+        },
+        {
+          "PartText": "I want to be 100% clear:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " Frank did not send that email! Our IT service supplier has established the origin of the email to be somewhere in Siberia",
+        " Our quarterly earnings are looking as good as ever",
+        " We will not be downsizing in the near future; on the contrary"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "We don\u0027t know why the email was sent, but we are looking at measures to tighten security around our mailing setup as we speak",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "And now for the horrible news...",
+          "Description": "looking grave"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "This announcement is the worst I have had to make during my years as CEO of FinaLibre",
+          "Description": "looking sad"
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "At 14:38, our colleague Angela was found dead in the Northern-most bathroom of the 2nd floor",
+          "Description": null
+        },
+        {
+          "PartText": "The police were called immediately and we expect them to be here within 5 minutes from now",
+          "Description": null
+        },
+        {
+          "PartText": "I have seen the scene myself, and I can say with great certainty that Angela did not die of natural causes",
+          "Description": null
+        },
+        {
+          "PartText": "I therefore expect the police will want to talk to everyone here",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "I request that all personnel remain in the building until the police allow you to leave, or you are otherwise instructed by me or Frank personally",
+          "Description": "nodding at Frank"
+        },
+        {
+          "PartText": "If you have any guests with you in the building that for some reason have not been registered upon arrival, please come talk to me so we know that every person present is accounted for",
+          "Description": null
+        },
+        {
+          "PartText": "Let me be clear: ",
+          "Description": null
+        },
+        {
+          "PartText": "I do not specifically suspect any of you of any crime, but given the gravity of the situation, I hope you understand our motivation for detaining you:",
+          "Description": null
+        },
+        {
+          "PartText": "to ensure the police have the best possible conditions for solving this",
+          "Description": null
+        },
+        {
+          "PartText": "I know that many of you have families to attend to...",
+          "Description": null
+        },
+        {
+          "PartText": "We request that you do what you can to arrange alternative accommodations, but if for some reason or other this cannot be done, please come see me personally and we will try to find a solution that works for all parties",
+          "Description": null
+        },
+        {
+          "PartText": "You are of course welcome to use your telephone to call friends and family",
+          "Description": null
+        },
+        {
+          "PartText": "For the few people among you that have details about Angela\u0027s death other than what I have just mentioned - I ask that you do not share these details with anyone but the police, since doing so might hinder the investigation",
+          "Description": null
+        },
+        {
+          "PartText": "Does anyone have any questions?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 13,
+  "ChapterHash": "iacIkZkgO7HtGbnBLrQAQ5rhYay93\u002BATGoRZd3qL6DXsxyouo/jJC881k5uo98Q/W1eX6JzC3onczBu51PXhgA==",
+  "Video": {
+    "FileName": "work-meeting.gif",
+    "AttributionText": "Video by Tiger Lily from Pexels",
+    "AttributionLink": "https://www.pexels.com/video/team-meeting-7147921/"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Old Standard TT",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Old Standard TT",
+    "TheFontFamily": "Old Standard TT",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

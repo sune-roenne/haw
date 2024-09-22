@@ -1,0 +1,3059 @@
+{
+  "ChapterDate": "2024-05-23T00:00:00",
+  "ChapterName": "John (and John) and the Cool People",
+  "ChapterFileName": "2024-05-23-B-John meets the Cool People.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hey psycho-boy... Do you eat?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "When I\u0027m hungry I do",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wanna join the cool kids?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As they are walking in silence towards the cafeteria, Carol - without any apparent instigation - says: \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John, you seem like a nice person, but I\u0027m not going to have sex with you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m sorry to hear that, might have been fun",
+          "Description": "looks at her while talking, expressionless, never stops walking"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looks at her, raises eyebrow"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "deciding against a retort"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Uuuh... There\u0027s the gang... I\u0027ll introduce you",
+          "Description": null
+        },
+        {
+          "PartText": "Hello gang, say hello to John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "the gang",
+        "CharacterName": "The gang",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hello John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And John, this is Susan, Ben, Mike, Cecil, Karl and... John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look, I can already tell this isn\u0027t going to work out... You guys are going to have to duke it out about who\u0027s John and who\u0027s Not-John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Without moving, John does a bottom-to-top scan of... John, then looks at him and shrugs his shoulder in the universal \u0027You wanna go?\u0027-gesture.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "other john",
+        "CharacterName": "Other John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know what, why don\u0027t you be New John and I\u0027ll be Old John...",
+          "Description": null
+        },
+        {
+          "PartText": "That works for you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shrugs shoulders in the universal \u0027works for me\u0027-gesture"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Dude, that guy looked like he was ready to go a 5-rounder with John... and for \u0027John\u0027",
+          "Description": "whispering at Ben"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Who\u0027s gonna win the weekend?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ve got a party at my old dorm tonight... If the place is anyway like it used to be, that party could go on until Sunday",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s not bad...",
+          "Description": null
+        },
+        {
+          "PartText": "not a sure winner, but not bad...",
+          "Description": null
+        },
+        {
+          "PartText": "of course, it depends on whether or not YOU go on until Sunday",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I probably won\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m getting old",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m going to the new Club Coka tonight...",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s almost guaranteed to be banger!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Holy hell! I\u0027d say he has you beat Mike...",
+          "Description": null
+        },
+        {
+          "PartText": "What about you Karl?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m benched this weekend...",
+          "Description": null
+        },
+        {
+          "PartText": "Girlfriend wants me to go with her to her niece\u0027s birthday...",
+          "Description": null
+        },
+        {
+          "PartText": "Like... the fucking kid is turning 2",
+          "Description": null
+        },
+        {
+          "PartText": "what the fuck will she care if I\u0027m there or not...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But of course, you could see it as a chance to spend quality time with your girlfriend and her family...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I like spending quality time with my girlfriend, but it involves me railing fat lines off her lower back, going at it like little furry creatures with rabies",
+          "Description": null
+        },
+        {
+          "PartText": "and certainly does not involve her family sitting around eating cake and talking about plans for the Summer!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I see you are a man of culture as well",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know about the \u0027railing fat lines\u0027-bit, but I\u0027m with Karl on this one:",
+          "Description": null
+        },
+        {
+          "PartText": "why does quality time have to involve their family?",
+          "Description": null
+        },
+        {
+          "PartText": "Brian just sprung on me yesterday that he expects me to go to his mom\u0027s 70th birthday celebration tomorrow!",
+          "Description": null
+        },
+        {
+          "PartText": "Like, sure... It\u0027s not like I would like to have a life of my own",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Listen to this...",
+          "Description": null
+        },
+        {
+          "PartText": "This woman is spitting pure truth and nothing but the truth!",
+          "Description": null
+        },
+        {
+          "PartText": "We should elope together...",
+          "Description": null
+        },
+        {
+          "PartText": "Freedom from tyranny...",
+          "Description": null
+        },
+        {
+          "PartText": "We\u0027ll be naked!",
+          "Description": "whispered at Susan with a blink and the shot of a finger-gun"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wait a minute! Isn\u0027t it only a couple of months ago, that you sat in this exact spot and complained about how Brian was objecting to going with you to your dad\u0027s birthday party?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That is different!",
+          "Description": null
+        },
+        {
+          "PartText": "His family is different!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "mouthing the words \u0027working class\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And your family isn\u0027t different to him?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Brian loves my family!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you sure he isn\u0027t just being nice?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course not... And my family is lovable and fun",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure they are, but honestly:",
+          "Description": null
+        },
+        {
+          "PartText": "why should he come to your dad\u0027s birthday celebration if you shouldn\u0027t come to his mom\u0027s?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I didn\u0027t say I absolutely wasn\u0027t going to go, but you know...",
+          "Description": "looking at Carol for backup"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t have any hand at all...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s been a long time since I\u0027ve had a boyfriend...",
+          "Description": null
+        },
+        {
+          "PartText": "Sorry honey",
+          "Description": "apologetic at Susan"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Much as I\u0027d hate to admit it, Old John does have a point here",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m not saying this is the case with you guys Susan...",
+          "Description": null
+        },
+        {
+          "PartText": "but in general terms, it\u0027s alright for the woman in a relationship to decide an activity is stupid but when a man does it...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh no! Stop that!",
+          "Description": null
+        },
+        {
+          "PartText": "Did we not agree that we wouldn\u0027t be having THAT discussion again?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes we did!",
+          "Description": null
+        },
+        {
+          "PartText": "Because you guys always end up sounding like a pair of whining bitches whenever we discuss this like the world is run by evil women who\u0027s only pleasure comes from killing your fun!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s crossing a line, but since it\u0027s coming from you...",
+          "Description": "shrugs"
+        },
+        {
+          "PartText": "But alright, let\u0027s de-personalize here:",
+          "Description": null
+        },
+        {
+          "PartText": "Do you guys agree or disagree that in general terms, in this society we live in now, it\u0027s usually the woman who is in control of what activities the couple participates in?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Disagree... It can be either one!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I kinda see where you\u0027re coming from Karl, and I\u0027ll concede, that if we speak strictly statistics, the woman is the one in control in most relationships",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I agree",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "cecil",
+        "CharacterName": "Cecil",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Me two",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Mike?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know the data here, but I\u0027m guessing someone has done some kind of research on the topic, and surely the findings are out there on the internet.",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027ll turn it around a little and go with: \u0027In any relationship, it\u0027s the one that is least emotionally involved in the relationship who is in control\u0027",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thank you r/RelationShipAdvice... Straight from the hive-mind",
+          "Description": null
+        },
+        {
+          "PartText": "You know, it must have been less than a week since that sentiment was last expressed there",
+          "Description": null
+        },
+        {
+          "PartText": "and I always have this kinda \u0027close-but-no-dice\u0027-feeling about it",
+          "Description": null
+        },
+        {
+          "PartText": "It may be right most of the time, but I think the essence is, that it\u0027s the one who is willing to risk the relationship who is in charge",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Potato, potarto! I don\u0027t see a big difference here...",
+          "Description": null
+        },
+        {
+          "PartText": "wouldn\u0027t the person least emotionally involved in the relationship also be the person most likely willing to risk it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes, speaking in general terms, that would be the case, but there is a huge difference in the implications",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Go on...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "In the case of the former, the implication is, that you have to choose between being with someone you really like or having a \u0027cozier/easier\u0027 life",
+          "Description": null
+        },
+        {
+          "PartText": "assuming that being in control in a relationship leads to that",
+          "Description": null
+        },
+        {
+          "PartText": "In the latter case, there\u0027s a third option:",
+          "Description": null
+        },
+        {
+          "PartText": "you can be with someone you really like without getting pushed around",
+          "Description": null
+        },
+        {
+          "PartText": "you just have to be willing to risk it every time you fight!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmm... You have at least gone above \u0027women evil, poor men\u0027... You have my vote",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The notion does kinda resonate, and I have to agree with Susan: any theory is better than man-whining",
+          "Description": null
+        },
+        {
+          "PartText": "What\u0027s your take on all this New John?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know any of the couples",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Don\u0027t let that hold you back",
+          "Description": null
+        },
+        {
+          "PartText": "This is just friendly collegiate bonding...",
+          "Description": null
+        },
+        {
+          "PartText": "real people do that, you know",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, if you don\u0027t want to go to your boyfriend\u0027s mother\u0027s birthday party",
+          "Description": "looking at Susan"
+        },
+        {
+          "PartText": "you should stay home",
+          "Description": null
+        },
+        {
+          "PartText": "and if you\u0027d rather stay home and snort cocaine, then that\u0027s what you should do",
+          "Description": "looking at Karl"
+        },
+        {
+          "PartText": "Anybody being dragged to something they don\u0027t want to go to is just going to kill the mood, and that affects more than just the couple",
+          "Description": null
+        },
+        {
+          "PartText": "As for being in control in a relationship...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t think it really matters to me...",
+          "Description": null
+        },
+        {
+          "PartText": "If I\u0027m not happy in a relationship, I should end it...",
+          "Description": null
+        },
+        {
+          "PartText": "as I would expect her to do if she wasn\u0027t happy",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So I don\u0027t know if I agree or disagree with you just yet, but allow me - in the spirit of collegiate bonding - to play devil\u0027s advocate",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Go ahead",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not only would you be OK with - but actually have it as a requirement for a relationship - that she might up and leave you tomorrow?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I hope she leaves a note, but essentially: yes",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And you would be OK with the constant uncertainty? ... Not knowing if what you\u0027ll have tomorrow what you have today?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What do I have today?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Her!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can\u0027t have another person",
+          "Description": null
+        },
+        {
+          "PartText": "I know what you mean, that you have her in the sense that if she says she loves you today, she is also going to love you tomorrow",
+          "Description": null
+        },
+        {
+          "PartText": "But nobody can make such a guarantee, because they would be making it on behalf of someone else:",
+          "Description": null
+        },
+        {
+          "PartText": "the person they are tomorrow",
+          "Description": null
+        },
+        {
+          "PartText": "We say: sleep on it, and it will all seem better tomorrow, but usually, it\u0027s not the world that changes, it\u0027s us:",
+          "Description": null
+        },
+        {
+          "PartText": "we become someone different, but then how can we issue any types of guarantees about how we will feel in the future?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So what does that leave us with in terms of love and romance, if you can\u0027t make any plans for things to do together...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Just the here and now... Which is all we are really ever guaranteed anyway",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, of course, what you say is all fine in theory and I\u0027m sure Buddha is sitting somewhere nodding along...",
+          "Description": null
+        },
+        {
+          "PartText": "I know my yoga teacher would love it anyways...",
+          "Description": null
+        },
+        {
+          "PartText": "but in real life, where people buy cars together, take up mortgages to buy houses together and start families together, you HAVE to make long-term commitments, and that means making promises that extend a long way into the future",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Family life is not for me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, and that\u0027s good for you I suppose, but if we were to generalize here, and see if we can\u0027t find a set of principles that appeal to more than the die-hard romantics...",
+          "Description": null
+        },
+        {
+          "PartText": "how would you reconcile this understanding of love as something that can be here today, gone tomorrow, with having the buying power to acquire the things needed to secure a safe environment for raising children?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I wouldn\u0027t",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking expectantly at New John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Buying cars and taking up mortgages is not my strong suit, but if we generalize to:",
+          "Description": null
+        },
+        {
+          "PartText": "how would two people go about entering into long-term legally binding commitments...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m thinking: just do it!",
+          "Description": null
+        },
+        {
+          "PartText": "Nobody can tell the future, and if you are comfortable with taking up commitments with someone else, then by all means",
+          "Description": null
+        },
+        {
+          "PartText": "But I think you would make things a lot easier for yourself if you keep whatever compels you to enter into said commitments separate from love",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think I like this idea...",
+          "Description": null
+        },
+        {
+          "PartText": "Then I could appease the missus and play along with her nesting thing on more of a contractual basis, while you and I could snort fat ones and go at it like wild animals on Saturday afternoons",
+          "Description": "nodding at Susan"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, that would make me quite the winner, wouldn\u0027t it?",
+          "Description": "eyes expressing ironic intent"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course you like it, contracting family life while maintaining a buffer for acting retarded...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s such a \u0027guys idea\u0027 if ever there was one!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl, ben, old john",
+        "CharacterName": "Karl, Ben, Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Ooooohhhh!!!",
+          "Description": "pointing at Carol"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now why do you have to go and make this discussion about gender all of a sudden?!",
+          "Description": null
+        },
+        {
+          "PartText": "I thought we were better than that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright, I\u0027m man enough to admit when I\u0027m outnumbered...",
+          "Description": null
+        },
+        {
+          "PartText": "John and John: I concede to your fine points, whatever they may have been",
+          "Description": "getting up from her seat"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "This was not your best show guys...",
+          "Description": null
+        },
+        {
+          "PartText": "Do better next time, alright?",
+          "Description": "also getting up to follow Carol"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So would you really be OK with your girlfriend deciding to up and leave you tomorrow for another man?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It would probably make me sad, but it\u0027s better than being with her and trying to figure out what is wrong",
+          "Description": "gesturing \u0027what can I say?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s tough man!",
+          "Description": "getting up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Everybody else gets up from their chair as well, but Old John motions for New John to stay seated.\r\nWhen everyone else has left:\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Who are you really?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aside from that",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve worked here for 3 years, and during that time, we\u0027ve only ever hired from the following three categories of people",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " The IT-nerds",
+        " The douche-bag Finance folk (which I, unfortunately, consider myself to belong to)",
+        " The crazies ... the people that don\u0027t have to fit into one of the above, because they possess some crazy amount of skill that makes it profitable to bear with them and their weird ways "
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Your whole personality is way too dark and gloomy to fit into either of the first two categories and... ",
+          "Description": null
+        },
+        {
+          "PartText": "no offense...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m having a hard time seeing you as the unpolished jewel of the financial sector",
+          "Description": null
+        },
+        {
+          "PartText": "Add to that, that our most prominent representative of the latter category was just found murdered yesterday, I can\u0027t help but suspect said murder to be related to your employment here at FinaLibre",
+          "Description": null
+        },
+        {
+          "PartText": "Or am I missing something?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s very perceptive of you",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "I received an anonymous message suggesting that I show up for a job interview here yesterday, which I did",
+          "Description": null
+        },
+        {
+          "PartText": "I think I handled the job interview just... ",
+          "Description": null
+        },
+        {
+          "PartText": "horribly, and the guy even said as much to me before he practically kicked me out",
+          "Description": null
+        },
+        {
+          "PartText": "Then late last night I got a call from the CEO, asking me to be here at 8:00",
+          "Description": null
+        },
+        {
+          "PartText": "so I was here at 8:00",
+          "Description": null
+        },
+        {
+          "PartText": "All in all, I think he was on the up and up with me:",
+          "Description": null
+        },
+        {
+          "PartText": "he thinks Angela sent me the message about the interview...",
+          "Description": null
+        },
+        {
+          "PartText": "and then he offered me a job to do some snooping around about Angela and who might have killed her",
+          "Description": null
+        },
+        {
+          "PartText": "He asked me not to stir up any panic, and to keep my assignment to myself",
+          "Description": null
+        },
+        {
+          "PartText": "so I will in turn ask you to keep this talk between the two of us",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m no rat... I\u0027ll keep it tight",
+          "Description": null
+        },
+        {
+          "PartText": "If at all possible, see if you can avoid Karl and Ben finding out about anything, because if they start to sense that something is up, the rumors are going to spread like a wildfire",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s good advice. Thank you",
+          "Description": null
+        },
+        {
+          "PartText": "Did you know Angela well?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I can\u0027t say that I did",
+          "Description": null
+        },
+        {
+          "PartText": "To be honest, she always scared me a little",
+          "Description": null
+        },
+        {
+          "PartText": "There was absolutely no doubt that she was brilliant, but she also gave off this vibe of being...",
+          "Description": null
+        },
+        {
+          "PartText": "completely unbounded!",
+          "Description": null
+        },
+        {
+          "PartText": "She was the kind of person I would suspect capable of anything if she found it beneficial",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Anything... like what? Murder?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If she believed it to be for a good cause: totally",
+          "Description": null
+        },
+        {
+          "PartText": "Don\u0027t get me wrong, I don\u0027t have any reason to suspect that she\u0027s murdered anyone...",
+          "Description": null
+        },
+        {
+          "PartText": "but do I believe she COULD do it?: absolutely!",
+          "Description": null
+        },
+        {
+          "PartText": "Do you remember that one guy from the Bible, where God told him to kill his son to prove his love for God?",
+          "Description": null
+        },
+        {
+          "PartText": "Well, Angela would have sliced the kid\u0027s throat before God had even finished the sentence",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hmmm... From my experience, those types of people have a tendency to attract enemies",
+          "Description": null
+        },
+        {
+          "PartText": "Do you know of anyone who would stand to benefit from her death?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "As I said: Angela was brilliant, and a true asset to the company, and given the kind of corporate structure we have here at the company...",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, FinaLibre is not perfect, but in my experience, it is almost always the case that what benefits the company also benefits the employees in some tangible way...",
+          "Description": null
+        },
+        {
+          "PartText": "usually through bonuses at year-end",
+          "Description": null
+        },
+        {
+          "PartText": "In that sense, everybody stood to lose from her death, and it probably doesn\u0027t sound like much, but I actually think it means a little more here, than it would most other places",
+          "Description": null
+        },
+        {
+          "PartText": "You may want to have a casual 1-on-1 with Carol",
+          "Description": null
+        },
+        {
+          "PartText": "She and Angela had sort of a love/hate relationship, though there was certainly more cool air between the two than there was warm winds",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t think they have spoken much since Angela hooked up with this one guy Carol was low-key in love with a couple of months ago...",
+          "Description": null
+        },
+        {
+          "PartText": "And let me just be clear about this: I know Carol, and I know 100% that she is not responsible for Angela\u0027s death",
+          "Description": null
+        },
+        {
+          "PartText": "She hides behind this tough, promiscuous attitude...",
+          "Description": null
+        },
+        {
+          "PartText": "and she\u0027s certainly been around the block, but once you get to know her you get a sense it\u0027s just a hard cover to protect a soft core",
+          "Description": null
+        },
+        {
+          "PartText": "I really can\u0027t see her ever killing anyone, let alone out of a heartbreak",
+          "Description": null
+        },
+        {
+          "PartText": "But you should talk to her yourself",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t know if you noticed it, but she was kinda looking at you during lunch today",
+          "Description": null
+        },
+        {
+          "PartText": "I think you could probably get her to open up to you during some pillow talk",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not going to use sex to get her to talk",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I respect that...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s mostly just the tone here...",
+          "Description": null
+        },
+        {
+          "PartText": "But, there\u0027s no reason why you can\u0027t get her to talk AND show her a good time",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I agree...",
+          "Description": null
+        },
+        {
+          "PartText": "Though she did explicitly tell me that she wasn\u0027t going to do that on the way down here",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "She does that with everyone... ",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s a kinda gimmick she has...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve never known her to actually live up to it",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "smiles"
+        },
+        {
+          "PartText": "Anyone else might know something important about Angela?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, I think you were on the money with your assessment of our CEO, Donnie: I also mostly think he\u0027s on the up and up with people",
+          "Description": null
+        },
+        {
+          "PartText": "Did he tell you about his own personal dealings with Angela?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You may want to ask him at some point",
+          "Description": null
+        },
+        {
+          "PartText": "There were rumors going around at some point, that he was seeing Angela a lot outside of the office, and that she was a very frequent guest at his and his wife\u0027s home",
+          "Description": null
+        },
+        {
+          "PartText": "There is nothing totally out of the ordinary with that...",
+          "Description": null
+        },
+        {
+          "PartText": "He has been known to go to soccer matches and other such activities with employees outside of work...",
+          "Description": null
+        },
+        {
+          "PartText": "but with a pretty young woman like Angela... ",
+          "Description": null
+        },
+        {
+          "PartText": "Well, the office rumors of course had to turn it into something sexual",
+          "Description": null
+        },
+        {
+          "PartText": "Personally, I don\u0027t think there was anything to those rumors",
+          "Description": null
+        },
+        {
+          "PartText": "First of all, I don\u0027t see him as the type of person who would cheat on his wife with an employee half his age",
+          "Description": null
+        },
+        {
+          "PartText": "Secondly, I saw their relationship more like a father/daughter relationship...",
+          "Description": null
+        },
+        {
+          "PartText": "he and the missus don\u0027t have children of their own...",
+          "Description": null
+        },
+        {
+          "PartText": "In any case: you should ask him about her",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ll do that",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "You mentioned that Angela was the kind of person capable of murdering for the right cause",
+          "Description": null
+        },
+        {
+          "PartText": "There are people who believe that getting rich is a good cause...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "She wasn\u0027t like that...",
+          "Description": null
+        },
+        {
+          "PartText": "Quite the contrary...",
+          "Description": null
+        },
+        {
+          "PartText": "She was an idealist if ever there was one",
+          "Description": null
+        },
+        {
+          "PartText": "She didn\u0027t care much about fancy clothing or any other high-life accessories, and I don\u0027t think she had any other expensive hobbies",
+          "Description": null
+        },
+        {
+          "PartText": "Her goals were usually altruistic at the core, but in a way that was strange and dangerous to most people",
+          "Description": null
+        },
+        {
+          "PartText": "One day during lunch, we had a round-the-table discussion about ethics",
+          "Description": null
+        },
+        {
+          "PartText": "You know, the old problem of: would you rather that 1.000 people be killed in some far away outskirt of the world, or that a close family member dies... ",
+          "Description": null
+        },
+        {
+          "PartText": "You know: the type of problem designed to make you realize your own bias, as you unavoidably opt for the death of 1.000 strangers",
+          "Description": null
+        },
+        {
+          "PartText": "Well, that wasn\u0027t Angela\u0027s take; there were absolutely no grounds for discussion: the lives of 1.000 strangers were more important than even the closest family member, and at one point...",
+          "Description": null
+        },
+        {
+          "PartText": "I can\u0027t remember who said what...",
+          "Description": null
+        },
+        {
+          "PartText": "but someone said something along the lines of:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027So if I gave you a gun right now and told you that 1.000 people in Asia would be saved if you shot one of us...\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "and a collective chill went down our spines as we realized that she was evaluating the options of who to shoot while we were talking....",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": null
+        },
+        {
+          "PartText": "For what it\u0027s worth, I think she might have been the kind of person to shoot herself in the head...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t want you to get the picture that she was the kind of person who lived in her own spaced-out world and only looked out for #1",
+          "Description": null
+        },
+        {
+          "PartText": "In fact, I think she saw the world much clearer than most other people",
+          "Description": null
+        },
+        {
+          "PartText": "but knowing how much shit goes on in the world that the rest of us are able to block out in some way...",
+          "Description": null
+        },
+        {
+          "PartText": "the fact that she took it all in...",
+          "Description": null
+        },
+        {
+          "PartText": "It seems kinda scary to me in it\u0027s own right",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "slight nod to one side gesturing \u0027you are right about that!\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "old john",
+        "CharacterName": "Old John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Psychopath or extremist or whatever or not; the way she was done in wasn\u0027t right",
+          "Description": null
+        },
+        {
+          "PartText": "I think I have told you everything I know that could be of relevance to you, but if ever there is anything, feel free to reach out",
+          "Description": null
+        },
+        {
+          "PartText": "Take care John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "new john",
+        "CharacterName": "New John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You too",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 15,
+  "ChapterHash": "efx4BFDispbYkdFd0p1cMwuj08jpa1qs7LyXe8xg/\u002B5Pu\u002Bu5kKUlu6dXLI8A9YcRbpiJv0kN5UhVuj0Lpooh7g==",
+  "Video": {
+    "FileName": "lunch.gif",
+    "AttributionText": "Lunch Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/lunch"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

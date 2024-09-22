@@ -1,0 +1,21 @@
+﻿.taw-chalkboard {
+}
+
+
+.taw-chalkboard::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-image: url('images/chalkboard/chalkboard.webp');
+    background-size:cover;
+
+}
+
+.taw-chalkboard-text-container {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    z-index:2;
+}

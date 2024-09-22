@@ -1,0 +1,49 @@
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage} % Suppresses headers and footers on the title page
+
+%	\raggedleft % Right align everything
+	
+%	\vspace*{\baselineskip} % Whitespace at the top of the page
+	
+	%------------------------------------------------
+	%	Author
+	%------------------------------------------------
+	
+%	{\Large [AUTHORNAME]} % Author name
+	
+%	\vspace*{0.167\textheight} % Whitespace before the title
+	
+	%------------------------------------------------
+	%	Title and subtitle
+	%------------------------------------------------
+	
+	%\textbf{\LARGE The Big Book of}\\[\baselineskip] % First title line
+	
+%	{\textcolor{Gray}{\Huge Angela \& John Forever}}\\[\baselineskip] % Main title line which draws the focus of the reader
+	
+%	{\Large\textit{v.  [BOOKVERSION]}} % Subtitle
+	
+%	\vfill % Whitespace between the titles and the publisher
+\begin{tikzpicture}[remember picture,overlay]
+\coordinate (dectopright) at (current page.north east);
+\coordinate (dectopleft) at (current page.north west);
+\coordinate (decbottomright) at (current page.south east);
+\coordinate (decbottomleft) at (current page.south west);
+\begin{pgfonlayer}{back}
+\path[draw, fill stretch image=front-page-image, fill image opacity=0.99] %, fill image scale=0.5
+    (dectopright) -- (dectopleft) -- (decbottomleft) -- (decbottomright) -- (dectopright);
+\end{pgfonlayer}
+\end{tikzpicture}
+	%------------------------------------------------
+	%	Publisher
+	%------------------------------------------------
+	
+	%{\large ~~\plogo} % Publisher and logo
+	
+%	\vspace*{3\baselineskip} % Whitespace at the bottom of the page
+
+\end{titlepage}

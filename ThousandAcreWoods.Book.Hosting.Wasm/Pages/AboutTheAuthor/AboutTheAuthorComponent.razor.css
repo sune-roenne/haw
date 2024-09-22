@@ -1,0 +1,50 @@
+﻿.taw-site-ata-header {
+    margin-left: 60px;
+    font-family: 'Trade Winds';
+    font-size: 40pt;
+}
+
+.taw-site-ata-header-row {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.taw-site-ata-author-img {
+    width: 400px;
+}
+
+.taw-site-ata-section-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.taw-site-ata-narration-row {
+}
+
+
+.taw-site-ata-narration-list-row {
+
+}
+
+.taw-site-ata-section-header {
+    font-family: 'Trade Winds';
+    font-size: 20pt;
+}
+
+.taw-site-ata-narration {
+    font-family: 'Old Standard TT';
+    font-size: 10pt;
+    color: black;
+}
+
+.taw-site-ata-narration-list {
+    font-family: 'Old Standard TT';
+    font-size: 10pt;
+    color: black;
+}
+
+
+.taw-site-ata-bts-btn-holder {
+    margin-top: 40px;
+    margin-left: 60px;
+}

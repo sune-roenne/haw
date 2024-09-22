@@ -1,0 +1,477 @@
+{
+  "ChapterDate": "2024-06-09T00:00:00",
+  "ChapterName": "Thomas has a Bad Day",
+  "ChapterFileName": "2024-06-09-John Kills Thomas.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "\u0027What a night!\u0027 Thomas thinks as he begins regaining consciousness. Thomas knows that this is going to be a hard day to get through, but luckily he doesn\u0027t have any plans and just thinking about last night dulls the headache a little and brings a smile to his face. And hey, doesn\u0027t he still have half a baggy? ... Yes, he thinks so. If only he can conjure up the initiative to get out of bed, then lining up and getting started will come automatically. Maybe he can even get in a few glasses of gin before the headache can really get a hold of him, and hey: then this day might turn out above descent after all. It\u0027s all about standing up, but before that, he has to open his eyes. Hmmm, that\u0027s weird! He opens his eyes and it\u0027s still dark. And what the fuck?! Is he tied to the bed?! He can\u0027t move! Thomas starts pulling the restraints around his ankles and wrists when he hears a \u0027whoosh\u0027 and feels something hitting him hard in the ribs. He opens his mouth to let out a scream of pain and then feels something being jammed into his mouth. That might be a sock! A used sock! Thomas hears a weird robotic voice coming from somewhere to his right.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "robotic voice",
+        "CharacterName": "Robotic voice",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I will not lie to you",
+          "Description": null
+        },
+        {
+          "PartText": "The next 5 minutes will be painful",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "And then, the beating begins. Thomas isn\u0027t sure what he is being beaten with, but it could very well be his own baseball bat. He is fairly sure that a few of his ribs break during those 5 minutes, that to Thomas feels more like 2 hours but other than that, he believes he may be able to get away from this with just a lot of bruises.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "robotic voice",
+        "CharacterName": "Robotic voice",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I will now talk, and you will listen, and then you will choose",
+          "Description": null
+        },
+        {
+          "PartText": "3 years ago, I found myself in the exact position that you are in now, and I survived. As can you",
+          "Description": null
+        },
+        {
+          "PartText": "I believe that you will be able to walk from this",
+          "Description": null
+        },
+        {
+          "PartText": "- if you so choose -",
+          "Description": null
+        },
+        {
+          "PartText": "which is more than you could say about me",
+          "Description": null
+        },
+        {
+          "PartText": "I spent 4 months in recovery before I could stand on my own feet again",
+          "Description": null
+        },
+        {
+          "PartText": "I came out of recovery to ruination, bankruptcy, and federal charges due to information I had released under duress",
+          "Description": null
+        },
+        {
+          "PartText": "- namely, while I was in the position you are in now - ",
+          "Description": null
+        },
+        {
+          "PartText": "and used against me while I was unable to dispute",
+          "Description": null
+        },
+        {
+          "PartText": "I am now among the 20 richest men in Northern Europe, with a fortune hidden away in offshore accounts",
+          "Description": null
+        },
+        {
+          "PartText": "The reason I am telling you this is, that the time has come for you to make a choice as my time had come to me 3 years ago",
+          "Description": null
+        },
+        {
+          "PartText": "Put your trust in the Banshees and give us what we want or...",
+          "Description": null
+        },
+        {
+          "PartText": "try to survive when I walk out of this door",
+          "Description": null
+        },
+        {
+          "PartText": "You will only be given the choice once, so I recommend that you think it through",
+          "Description": null
+        },
+        {
+          "PartText": "You need to know what is at stake:",
+          "Description": null
+        },
+        {
+          "PartText": "I will ask you for your personal credentials for your FinaLibre laptop, and we will use your credentials to embezzle 100 million EUR to the Banshees through European and South American tax havens",
+          "Description": null
+        },
+        {
+          "PartText": "You stand a 50% chance of facing indictments, as your credentials will be all over all of the transactions, but...",
+          "Description": null
+        },
+        {
+          "PartText": "and this is the important part:",
+          "Description": null
+        },
+        {
+          "PartText": "you will not go to prison",
+          "Description": null
+        },
+        {
+          "PartText": "The Banshees will make sure the case is dropped and forgotten about within a year",
+          "Description": null
+        },
+        {
+          "PartText": "I personally believe, that the Pruning will occur within the next 3 weeks and everybody ranked worse than 200, will be forcibly resigned and terminated, but only 2 people in the organization know the exact date",
+          "Description": null
+        },
+        {
+          "PartText": "You are currently ranked 189 but your cooperation in this job will clinch your position within the top 50 when we realize the profits of Project Banshee",
+          "Description": null
+        },
+        {
+          "PartText": "If you choose not to cooperate, I will leave this room immediately and let you enjoy the rest of your Sunday",
+          "Description": null
+        },
+        {
+          "PartText": "I will let the door stand open, so somebody will surely come along soon to unlock you",
+          "Description": null
+        },
+        {
+          "PartText": "The keys to your restraints are on the floor",
+          "Description": null
+        },
+        {
+          "PartText": "The Banshees will not contact you in this capacity again.",
+          "Description": null
+        },
+        {
+          "PartText": "I will give you a minute to consider your options... starting now",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John sits back in the chair and starts a timer. A minute goes by.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "robotic voice",
+        "CharacterName": "Robotic voice",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Minute is up!",
+          "Description": null
+        },
+        {
+          "PartText": "In a moment, I will remove the sock from your mouth so you can provide me with your answer",
+          "Description": null
+        },
+        {
+          "PartText": "Say \u0027YES\u0027 if you choose to accept our offer and cooperate with our demands",
+          "Description": null
+        },
+        {
+          "PartText": "say \u0027NO\u0027 if you choose to decline our offer. ",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John removes the sock. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "thomas",
+        "CharacterName": "Thomas",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "yes",
+          "Description": "very faint"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "robotic voice",
+        "CharacterName": "Robotic voice",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I am very happy to hear that",
+          "Description": null
+        },
+        {
+          "PartText": "Now tell me the password to your account at FinaLibre",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "thomas",
+        "CharacterName": "Thomas",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "honeysuckle459",
+          "Description": null
+        },
+        {
+          "PartText": "With a capital H and capital S... no spaces...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The sock is stuffed back in Thomas\u0027s mouth, and he hears tapping from a keyboard. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "robotic voice",
+        "CharacterName": "Robotic voice",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Very good",
+          "Description": null
+        },
+        {
+          "PartText": "I will be done for now in 5 minutes, and then I will untie you and leave you to it",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "When Thomas\u0027s personal profile is done loading, John browses through Thomas\u0027s sent-box to get a feel for the man\u0027s style of writing, and then sends the following email to Thomas\u0027s boss:\r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " Title: Im sick",
+        " Content: I think its corona. Im throwing up. Ill let you know when Im better."
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "\r\n\r\nJohn then turns off the computer.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "robotic voice",
+        "CharacterName": "Robotic voice",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What is the PIN to your phone?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John removes the sock from Thomas\u0027s mouth.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "thomas",
+        "CharacterName": "Thomas",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "1 1 1 1 1 1... Six one\u0027s",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John brings out the phone - tape covering the cameras - from a lead-covered box in a satchel, verifies that he is able to unlock it, places the sock back in Thomas\u0027s mouth and puts the phone back in the box. \r\nHe then walks to the kitchen and browses through the SMS log and the social messaging logs in order to determine if Thomas has loved ones who might stop by within the next couple of days. It doesn\u0027t appear to be the case, but to be on the safe side he sends an SMS to the contact listed as \u0027Mom - ICE\u0027: \u0027Im staying at Lindas for a couple of days... In case you stop by... Love Tommy\u0027.\r\nJohn then turns off the phone and leaves it on the kitchen counter, takes a filet knife from a drawer, goes into the living room, and slices Thomas\u0027s throat. He double-checks that the blood draining from Thomas and running off the bed stays in the confined area he has wrapped in plastic. He then verifies that he hasn\u0027t forgotten anything, and leaves the apartment. \r\n\r\nFor all the mental anguish his time in the basement of FinaLibre has caused him, he has to hand it to the old weirdo that it has taught him the value of disguising his intent behind insane amounts of emotional misdirection and made-up bullshit.",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 28,
+  "ChapterHash": "ZWN3NAv4DKD8BSynbdj0zpYv\u002Bdt5ES7scCsV4CxTfZMb19B3J8NHkqpQFiWBCGeH2rcPeWZvbsj\u002BOhlgNGKlfw==",
+  "Video": {
+    "FileName": "deep-sea.gif",
+    "AttributionText": "Dark underwater ocean waves ripple and flow with light rays by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/video/5314132-dark-underwater-ocean-waves-ripple-and-flow-with-light-rays-loop"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

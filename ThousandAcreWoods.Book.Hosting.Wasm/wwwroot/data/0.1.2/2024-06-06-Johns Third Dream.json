@@ -1,0 +1,461 @@
+{
+  "ChapterDate": "2024-06-06T00:00:00",
+  "ChapterName": "John Meets Someone Familiar",
+  "ChapterFileName": "2024-06-06-Johns Third Dream.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "As has now become a daily ritual for John, the first thing he does when waking up in the morning is to check his wrist. \u0027AWAY\u0027 it says... That must mean he is awake. Wait a minute... John checks again and notices that his hands look... off. \u0027I was wrong\u0027 John thinks and gets out of bed. John doesn\u0027t bother with any type of morning routine; he just walks out of his main entrance and into the stairway outside in his underwear. Once down on the street, he sets off running towards the train station.\r\n\r\nHe is running at a steady pace when he passes his Elementary School teacher Miss Jansen.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How about that radical John?",
+          "Description": "shouting after him"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s just Frank Miss Jansen",
+          "Description": "without stopping or turning around"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And the Lake Girl and the corridor?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s on my ToDo",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "miss jansen",
+        "CharacterName": "Miss Jansen",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Hurry up and apply yourself John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Once again, he is just in time to see the train pull away from the station. John knows that trying to catch up to it is futile since it has already gathered up speed to be going faster than he can run, but he does begin to accelerate his run. A well-dressed gentleman is standing some 10 meters away from John, and when he notices that John is closing in on him at high speed he addresses him.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "well dressed gentleman",
+        "CharacterName": "Well dressed gentleman",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s no outfit for going to...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "And that is all the man has a chance to say before John lands a flying knee to his face, and yet another blood-dripping therapy session plays out.\r\n\r\nJohn is looking down at the sad remains of what was once the head of the aforementioned well-dressed gentleman, cursing the circumstances of this damn scenario that will not let him catch that train, when he is interrupted by the voice of a train station service attendant with a mop and a bucket of water.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "service attendant",
+        "CharacterName": "Service attendant",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you mind, sir?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John stares in amazement at the young woman in the denim overalls and denim cap as she begins washing away the blood, splinters of skull, and chunks of brain matter off the platform.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "service attendant",
+        "CharacterName": "Service attendant",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Can I help you sir?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You look familiar",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "familiar service attendant",
+        "CharacterName": "Familiar service attendant",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "How\u0027s that sir?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You look like a young woman who was murdered a few weeks ago",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "familiar service attendant",
+        "CharacterName": "Familiar service attendant",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "tsk tsk tsk",
+          "Description": null
+        },
+        {
+          "PartText": "Don\u0027t you just hate that...?",
+          "Description": null
+        },
+        {
+          "PartText": "You go about minding your own business, and then somebody stabs you in the guts 38 times...",
+          "Description": null
+        },
+        {
+          "PartText": "Late-stage capitalism in a nut-shelf",
+          "Description": "shaking her head"
+        },
+        {
+          "PartText": "...",
+          "Description": "looking up at John, smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think she was on that train I just missed",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "familiar service attendant",
+        "CharacterName": "Familiar service attendant",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh John",
+          "Description": "looking intensely at John, wiping a bloody thumb across his cheek as if to say \u0027you silly boy\u0027"
+        },
+        {
+          "PartText": "If she\u0027s dead, it doesn\u0027t really matter if you catch the train or not, does it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring at her, puzzled"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "familiar service attendant",
+        "CharacterName": "Familiar service attendant",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are lost John",
+          "Description": "looking at him sympathetically"
+        },
+        {
+          "PartText": "Let\u0027s find you",
+          "Description": "leans in and kisses him on the cheek leaving a bloody lip-print"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The familiar-looking service attendant walks away from John, dragging her mop and bucket behind her as John stares at her in bewilderment. ",
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 26,
+  "ChapterHash": "nrOhmLwfec5vlI7wbVsW1fZE0KGXqhJp1nBLhFOuaKWw6prisZyCltbJzl7RyFVdhAL\u002BbgIAHrngbYfIVcAwDQ==",
+  "Video": {
+    "FileName": "floating-clouds.gif",
+    "AttributionText": "Floating Clouds Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/floating-clouds"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Shadows Into Light",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Shadows Into Light",
+    "TheFontFamily": "Shadows Into Light",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

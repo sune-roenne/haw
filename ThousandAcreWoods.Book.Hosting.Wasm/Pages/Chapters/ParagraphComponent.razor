@@ -1,0 +1,35 @@
+﻿<div
+    style="@(DefaultFontSettings.ToCssRules()) margin-top: @(MarginY)pt; margin-bottom: @(MarginY)pt;"
+     class="taw-site-chapter-paragraph @(Animate ? "taw-site-chapter-animated-text-box" : "")"
+     id="@(Paragraph.ParagraphId)">
+    <CascadingValue Value="DefaultFontSettings" Name="@(nameof(BlockComponent.DefaultFontSettings))">
+        @if (Paragraph.ParagraphType == Model.DisplayParagraphType.List)
+        {
+            <ul>
+                @foreach (var it in _currentlyRendering)
+                {
+                    <BlockComponent Block="it.Block"
+                                    CenterFont="@(it.FontSettingsCenter)"
+                                    DelayPerCharacter="it.DelayPerCharacter"
+                                    ParagraphType="Paragraph.ParagraphType"
+                                    ShowRightSide="it.ShowRightSide"
+                                    Animate="Animate">
+                    </BlockComponent>
+                }
+            </ul>
+        }
+        else
+        {
+            @foreach (var it in _currentlyRendering)
+            {
+                <BlockComponent Block="it.Block"
+                                CenterFont="@(it.FontSettingsCenter)"
+                                DelayPerCharacter="it.DelayPerCharacter"
+                                ParagraphType="Paragraph.ParagraphType"
+                                ShowRightSide="it.ShowRightSide"
+                                Animate="Animate">
+                </BlockComponent>
+            }
+        }
+    </CascadingValue>
+</div>

@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "ME",
+    "Name": "John",
+    "ColorLight": "rgb(74, 71, 230)",
+    "ColorDark": "rgb(11, 29, 66)"
+  },
+  {
+    "Id": "HER",
+    "Name": "Dolores",
+    "ColorLight": "rgb(217, 134, 17)",
+    "ColorDark": "rgb(41, 32, 8)"
+  },
+  {
+    "Id": "HR1",
+    "Name": "Nina",
+    "ColorLight": "rgb(168, 50, 78)"
+  },
+  {
+    "Id": "BOASSAC",
+    "Name": "Michael",
+    "ColorLight": "rgb(0, 123, 199)"
+  }
+
+
+]

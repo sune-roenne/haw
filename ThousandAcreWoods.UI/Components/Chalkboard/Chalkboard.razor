@@ -1,0 +1,26 @@
+﻿@using ThousandAcreWoods.UI.Components.AnimatedFonts
+@using ThousandAcreWoods.UI.Components.AnimatedFonts.Kalam;
+
+<style>
+    .taw-chalkboard {
+        width: 1280px;
+        height: 890px;
+    }
+</style>
+
+<div class="taw-chalkboard">
+    <div class="taw-chalkboard-text-container">
+        <div style="display:flex;flex-direction:column;">
+            @AnimatedLetterRenderer.RenderFragmentFrom(
+                "This is animated text on a chalkboard."+
+                "\r\n¿Isn't it neat to be able to animate text on a chalkboard?" +
+                "\r\n¡Yo creo que si!"
+                
+                , 
+                KalamFontFamily.FontFamily, 
+                containerWidthInPixels: 1280, 
+                height: 100);
+        </div>
+
+    </div>
+</div>

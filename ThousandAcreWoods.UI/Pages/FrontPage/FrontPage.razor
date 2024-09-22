@@ -1,0 +1,50 @@
+﻿@using ThousandAcreWoods.UI.Pages.Common
+@using ThousandAcreWoods.UI.Components.TextUtilities;
+@layout EmptyLayout
+
+@page "/"
+<div class="taw-front-page-bg">
+    <div class="taw-front-page-bg-image">
+        <div class="taw-front-page-finalibre-sign">
+            <BlinkingNeonLights 
+                                Text="FinaLibre" 
+                                SlowBlinkingIndexes="[0,2,4,6]" 
+                                FastBlinkingIndexes="[1,3]" 
+                                FontSettings="@(new FontSettings(Family: "Curlz MT", Size: 130, Color: "rgb(255,213,255)", ShadowColor: "rgb(212,44,202)"))">
+            </BlinkingNeonLights>
+        </div>
+        <div class="taw-front-page-opening-for-business-sign">
+            <FlashOnOffText 
+                FontSettings="@(new FontSettings(Family: "Blackadder ITC", Color: "rgb(255,213,255)"))"
+                Text="Opening for business late Summer of 2024" 
+                LoopForever="true" 
+                TimeAlivePerCharacter="TimeSpan.FromSeconds(0.1)"
+                TimeToAnimatePerLetter="TimeSpan.FromSeconds(0.3)"
+            
+            ></FlashOnOffText>
+        </div>
+
+        <div class="taw-front-page-come-home-john">
+            <FlashOnOffText 
+                FontSettings="@(new FontSettings(Family: "Flesheater", Color: "rgb(153, 18, 6)"))"
+                Text="Come Home John"
+                LoopForever="true"
+                TimeAlivePerCharacter="TimeSpan.FromSeconds(0.01)"
+                TimeToAnimatePerLetter="TimeSpan.FromSeconds(1)"
+                OpacityOnShowing="0.3m"
+                CooldownPeriod="TimeSpan.FromSeconds(10)"
+            ></FlashOnOffText>
+        </div>
+
+        <div class="taw-front-page-welcome-to-taw">
+            <BlinkingNeonLights Text="Thousand Acre Woods ▶"
+                                SlowBlinkingIndexes="[10]"
+                                FastBlinkingIndexes="[4,14]"
+                                FontSettings="@(new FontSettings(Family: "Jokerman", Size: 50, Color: "rgb(94,239,78)", ShadowColor: "rgb(44,149,32)"))">
+            </BlinkingNeonLights>
+        </div>
+
+
+
+    </div>
+</div>

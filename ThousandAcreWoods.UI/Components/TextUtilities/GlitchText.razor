@@ -1,0 +1,123 @@
+﻿<div>
+    <style>
+        .@GlitchId {
+          color: rgb(223, 191, 191);
+          position: relative;
+          font-family:'@TheFontSettings.TheFontFamily';
+          font-size: @(TheFontSettings.TheFontSize)px;
+          animation: @ClassId("glitch") 5s 5s infinite;
+
+          &::before {
+              content: attr(data-text);
+              position: absolute;
+              left: -2px;
+              text-shadow: -5px 0 magenta;
+              background: @BackgroundColor;
+              overflow: hidden;
+              top: 0;
+              animation: @ClassId("noise-1") 3s linear infinite alternate-reverse, @ClassId("glitch") 5s 5.05s infinite;
+          }
+
+          &::after {
+              content: attr(data-text);
+              position: absolute;
+              left: 2px;
+              text-shadow: -5px 0 lightgreen;
+              background: @BackgroundColor;
+              overflow: hidden;
+              top: 0;
+              animation: @ClassId("noise-2") 3s linear infinite alternate-reverse, @ClassId("glitch") 5s 5s infinite;
+          }
+
+        }
+
+
+        @@keyframes @ClassId("glitch") {
+          1%{
+            transform: rotateX(10deg) skewX(90deg);
+          }
+          2%{
+            transform: rotateX(0deg) skewX(0deg);
+          }
+        }
+
+        @@keyframes @ClassId("noise-1") {
+            @GenerateGlitchAnimationSteps()
+        }
+
+        @@keyframes @ClassId("noise-2") {
+            @GenerateGlitchAnimationSteps()
+        }
+
+        .@ClassId("scanlines") {
+          overflow: hidden;
+          mix-blend-mode: difference;
+
+          &::before {
+              content: "";
+              position: absolute;
+              width: 100%;
+              height: 100%;
+              top: 0;
+              left: 0;
+
+              background: repeating-linear-gradient(
+                to bottom,
+                transparent 0%,
+                rgba(255, 255, 255, 0.05) .5%,
+                transparent 1%
+              );
+
+              animation: @ClassId("fudge") 7s ease-in-out alternate infinite;
+           }
+        }
+
+
+
+        @@keyframes @ClassId("fudge") {
+          from {
+            transform: translate(0px, 0px);
+          }
+          to {
+            transform: translate(0px, 2%);
+          }
+        }
+
+        .@ClassId("glow") {
+          @@extend @ClassId("glitch");
+          text-shadow: 0 0 1000px rgb(223, 191, 191);
+          color: transparent;
+          position: absolute;
+          top: 0;
+        }
+
+        .@ClassId("subtitle") {
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 100;
+          font-size: .8vw;
+          color: rgba(165, 141, 141, .4);
+          text-transform: uppercase;
+          letter-spacing: 1em;
+          text-align: center;
+          position: absolute;
+          left: 17%;
+          animation: @ClassId("glitch-2") 5s 5.02s infinite;
+        }
+
+        @@keyframes @ClassId("glitch-2") {
+          1%{
+            transform: rotateX(10deg) skewX(70deg);
+          }
+          2%{
+            transform: rotateX(0deg) skewX(0deg);
+          }
+        }
+
+    </style>
+    <div class="@GlitchId" data-text="@Text">@Text</div>
+    <div class="@ClassId("glow")">@Text</div>
+    
+    <p class="@ClassId("subtitle")">@Subtitle</p>
+    <div class="@ClassId("scanlines")"></div>
+</div>
+

@@ -1,0 +1,31 @@
+﻿.taw-site-chapter-header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-bottom-color: rgb(228,228,228);
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+}
+
+.taw-site-chapter-header-text {
+    text-align: center;
+}
+
+.taw-site-chapter-header-progress {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 40px;
+}
+
+.taw-site-chapter-header-progress-slider-lab {
+    font-size: 14pt;
+    font-family: 'Old Standard TT';
+}
+
+.label-uncertain {
+    color: rgb(128, 128, 128);
+}
+
+.label-certain {
+    color: rgb(0, 0, 0);
+}

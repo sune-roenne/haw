@@ -1,0 +1,41 @@
+version: 2
+plan:
+  project-key: SI
+  name: ThousandAcreWoods
+  key: TAW
+
+variables:
+  Version: '0.1.${bamboo.buildNumber}'
+
+stages:
+  - BuildTestPublish:
+    - Build
+
+Build:
+  key: TAWBUILD
+  tasks:
+  - clean
+  - artifact-download:
+      source-plan: TEM-SCRIP
+      artifacts:
+      - name: Scripts
+        destination: Scripts
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Move_All_To_Source_Folder.ps1
+#  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\SonarQube_Scanner_Begin.ps1 -singleBuildBranchPrefixesPositiveList "" -sonarProjectId "Acorn.UI"
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Build_Core.ps1 -publish
+# - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Nuget_Package.ps1 -project "Acorn.Client.API.csproj" -id "NYK.Acorn.Client"
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Solution_Package.ps1 
+#  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\XUnit_Core.ps1
+#  - test-parser:
+#      type: mstest
+#      test-results: 'TestResult/*.trx'
+ # - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\SonarQube_Scanner_End.ps1 -performedSonarScanning "true"
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Git_Tag.ps1 -gitUrl "git.tools.nykredit.it/scm/csi/ThousandAcreWoods.git"
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Nuget_Publish.ps1 
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Nuget_Publish.ps1 -source "itcm_solutions" -nugetDir ".\Output"
+  - script: powershell.exe -ExecutionPolicy ByPass -file Scripts\\Deploy_Test.ps1 -deploymentTarget "Test"
+  requirements:
+  - system.git.executable
+  - system.builder.command.Nuget
+  - system.builder.msbuild.MsBuild 2019
+  - system.builder.command.OctopusCli

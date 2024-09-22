@@ -1,0 +1,163 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@using ThousandAcreWoods.TextRendering.Pages.TextRendering.Model
+@using ThousandAcreWoods.UI.Components.Common
+@using ThousandAcreWoods.UI.Components.TextAnimation
+
+<PageTitle>Text Rendering</PageTitle>
+
+<script src="javascript/screen-capture.js"></script>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-3">
+            <div class="taw-tr-selection-panel">
+                <div class="taw-tr-selection-panel-text taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-text">Text</label>
+                    <textarea id="taw-tr-selection-panel-text" @bind="Text" rows="4" cols="40" class="form-control" />
+                </div>
+
+
+                <div class="taw-tr-selection-panel-div">
+                   <label for="taw-tr-selection-panel-text-type">Animation Type</label>
+                    <select id="taw-tr-selection-panel-text-type" @bind="TextType" class="form-select">
+                        @foreach(var tt in SelectableTypes)
+                        {
+                            <option value="@tt">@tt</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-font">Font Family</label>
+                    <select id="taw-tr-selection-panel-font" @bind="FontFamily" class="form-select" style="font-family: '@FontFamily';">
+                        @foreach(var fnt in FontFamilies)
+                        {
+                            <option value="@fnt" style="font-family: '@fnt';">@fnt</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-size">Size</label>
+                    <input id="taw-tr-selection-panel-size" type="number" step="1" min="3" @bind="FontSize" class="form-control" />
+                </div>
+
+                <div class="taw-tr-selection-panel-color taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-color">Color</label>
+                    <input id="taw-tr-selection-panel-color" type="color" @bind="Color" class="form-control"  />
+                </div>
+
+                <div class="taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-timing-func">Timing Function</label>
+                    <select id="taw-tr-selection-panel-timing-func" @bind="TimingFunction" class="form-select">
+                        @foreach (var fnc in TimingFunctions)
+                        {
+                            <option value="@fnc">@fnc</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-text-split">Text Split Mode</label>
+                    <select id="taw-tr-selection-panel-text-split" @bind="SplitMode" class="form-select">
+                        @foreach (var mod in SplitModes)
+                        {
+                            <option value="@mod">@mod</option>
+                        }
+                    </select>
+                </div>
+                
+                <div class="taw-tr-selection-panel-div">
+                    <label for="taw-tr-selection-panel-speed">Speed</label>
+                    <input id="taw-tr-selection-panel-size" type="range"  step="1" min="1" max="1000" @bind="Speed" class="form-control" />
+                </div>
+
+                <div class="taw-tr-selection-panel-div">
+                    <input id="taw-tr-selection-panel-record" type="checkbox" @bind="Record" class="form-check-input" />
+                    <label class="form-check-label" for="taw-tr-selection-panel-record">Record</label>
+
+                </div>
+
+
+                <div class="taw-tr-selection-panel-div">
+                    <div class="container">
+                        <button type="button" class="btn btn-outline-info" disabled="@(_enableAnimate ? null : "disabled")" @onclick="OnAnimateClick">Animate</button>
+                        <button type="button" class="btn btn-outline-warning" style="display: @( _startedRecording ? "auto" : "none");" @onclick="OnStopRecordingClick">Stop</button>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="col-9">
+            <div class="taw-tr-render-pane">
+                @if(_textToAnimate != null && _fontSettings != null)
+                {
+                    if(TextType == AnimatedTextType.FlashOnOff)
+                    {
+                        <FlashOnOffText 
+                            FontSettings="_fontSettings" 
+                            Text="@_textToAnimate" 
+                            TextSplitMode="SplitMode" 
+                            TimeToAnimatePerPart="TimeToAnimate" 
+                            TimingFunction="TimingFunction"
+                        ></FlashOnOffText>
+                    }
+                    else if(TextType == AnimatedTextType.RotateIn)
+                    {
+                        <RotateInText 
+                            FontSettings="_fontSettings" 
+                            Text="@_textToAnimate" 
+                            TextSplitMode="SplitMode" 
+                            TimeToAnimatePerPart="TimeToAnimate"
+                            TimingFunction="TimingFunction"
+                        ></RotateInText>
+                    }
+                    else if (TextType == AnimatedTextType.GlidingIn)
+                    {
+                        <GlidingInText 
+                            FontSettings="_fontSettings" 
+                            Text="@_textToAnimate" 
+                            TextSplitMode="SplitMode" 
+                            TimeToAnimatePerPart="TimeToAnimate"
+                            TimingFunction="TimingFunction"
+                        ></GlidingInText>
+                    }
+                    else if (TextType == AnimatedTextType.SlamIn)
+                    {
+                        <SlamInText 
+                            FontSettings="_fontSettings" 
+                            Text="@_textToAnimate" 
+                            TextSplitMode="SplitMode" 
+                            TimeToAnimatePerPart="TimeToAnimate"
+                            TimingFunction="TimingFunction"
+                        ></SlamInText>
+                    }
+                    else if (TextType == AnimatedTextType.BlinkingNeonLight)
+                    {
+                        <BlinkingNeonLights
+                           FastBlinkingIndexes="FastBlinkinIndexes"
+                           SlowBlinkingIndexes="SlowBlinkinIndexes"
+                           FontSettings="@(_fontSettings + new FontSettings(RgbShadowColorString: " rgb(150,150,150)", Size: _fontSize ))"
+                           Text="@(_textToAnimate)"
+                        ></BlinkingNeonLights>
+                    }
+                    else if (TextType == AnimatedTextType.Glitch)
+                    {
+                        <GlitchText 
+                            FontSettings="@(_fontSettings + new FontSettings(RgbShadowColorString: " rgb(150,150,150)", Size: _fontSize ))"
+                            Text="@(_textToAnimate)"
+                            BackgroundColor="rgba(255,255,255,0)"
+                        
+                        ></GlitchText>
+                    }
+
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+

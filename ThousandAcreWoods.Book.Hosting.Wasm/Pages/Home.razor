@@ -1,0 +1,48 @@
+﻿@page "/"
+@using ThousandAcreWoods.Book.Hosting.Wasm.Pages.AboutTheAuthor
+@using ThousandAcreWoods.Book.Hosting.Wasm.Pages.Chapters
+@using ThousandAcreWoods.Book.Hosting.Wasm.Pages.Setup
+@using ThousandAcreWoods.UI.Components.TextAnimation
+
+
+@if (ScreenData != null)
+{
+    <div class="taw-site-home-page">
+        @if (ScreenData.IsSmallWidthScreen && SiteState.CurrentPageSelection == State.SitePageSelection.Setup)
+        {
+            <div class="taw-site-full-screen">
+                <SetupPanelComponent IsCondensed="false" ShowBackToStoryButton="true"></SetupPanelComponent>
+            </div>
+        }
+        else if(ScreenData.IsSmallWidthScreen && SiteState.CurrentPageSelection == State.SitePageSelection.Chapters)
+        {
+            <div class="taw-site-condensed-side-panel">
+                <SetupPanelComponent IsCondensed="true" ShowBackToStoryButton="false"></SetupPanelComponent>
+            </div>
+                <div class="taw-site-rest-right">
+                <ChapterComponent></ChapterComponent>
+            </div>
+        }
+        else if(SiteState.CurrentPageSelection == State.SitePageSelection.AboutTheAuthor)
+        {
+            <div class="taw-site-full-screen">
+                <AboutTheAuthorComponent></AboutTheAuthorComponent>
+            </div>
+        }
+        else
+        {
+            <div class="taw-site-uncondensed-side-panel">
+                <SetupPanelComponent IsCondensed="false" ShowBackToStoryButton="false"></SetupPanelComponent>
+            </div>
+            <div class="taw-site-rest-right">
+                <ChapterComponent></ChapterComponent>
+            </div>
+
+        }
+
+    </div>
+    
+
+}
+
+

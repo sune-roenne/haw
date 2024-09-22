@@ -1,0 +1,1567 @@
+{
+  "ChapterDate": "2024-06-10T00:00:00",
+  "ChapterName": "John Makes a Choice",
+  "ChapterFileName": "2024-06-10-C-Johns Says Goodbye to Carol.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Welcome to The House of Role-play...",
+          "Description": null
+        },
+        {
+          "PartText": "How may I service you tonight?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I thought this was The House of the Triple Bacon Burger?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, many people make that mistake...",
+          "Description": null
+        },
+        {
+          "PartText": "During even hours we\u0027re The House of Role-play, and during odd hours we\u0027re The House of the Triple Bacon Burger...",
+          "Description": null
+        },
+        {
+          "PartText": "Do you want to wait around?",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve heard the waitress at the burger joint is kinda hot",
+          "Description": null
+        },
+        {
+          "PartText": "It will only be another 45 minutes",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And may I interest you in something from our menu while you wait?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You might... Anything in particular you can recommend?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "We do a \u0027Customer-with-Burger-Joint-waitress\u0027-scene that\u0027s pretty good...",
+          "Description": null
+        },
+        {
+          "PartText": "Or so I\u0027ve been told",
+          "Description": null
+        },
+        {
+          "PartText": "But no... I think you are more of a \u0027Dirty Thirties\u0027 kinda fella...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh my...",
+          "Description": null
+        },
+        {
+          "PartText": "Tell me more, please",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Surely sir...",
+          "Description": null
+        },
+        {
+          "PartText": "Our Dirty Thirties Monday Night Special is the preferred choice for the seasoned role-player",
+          "Description": null
+        },
+        {
+          "PartText": "With it\u0027s authentic atmosphere",
+          "Description": null
+        },
+        {
+          "PartText": "- rich with the smoking embers of the Roaring Twenties and saturated to the brim with the hopelessness of the 1930s US recession mixed with really unfortunate climate conditions -",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "the waitress leans forward and puts her mouth close to John\u0027s ear"
+        },
+        {
+          "PartText": "and a skimpy little dairymaid dress...",
+          "Description": "whispers"
+        },
+        {
+          "PartText": "it revolves around one young couple\u0027s everlasting love and the struggles of fighting socioeconomic distress and capitalist asshats...",
+          "Description": "now reading aloud from the menu again"
+        },
+        {
+          "PartText": "Role-players Weekly has on no less than 12 occasions nominated this specific play for Aficionados Top-Choice Award...",
+          "Description": null
+        },
+        {
+          "PartText": "10 of which it won",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t see how I can say no to that!...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll have one of those",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "1 x Dirty Thirties",
+          "Description": "writing on notepad while saying out loud"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do I order drinks separately, or are they included in the selection?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh no sir, I\u0027m afraid we don\u0027t allow the consumption of beverages during the play...",
+          "Description": null
+        },
+        {
+          "PartText": "For sanitary reasons",
+          "Description": null
+        },
+        {
+          "PartText": "Alright sir...",
+          "Description": null
+        },
+        {
+          "PartText": "Our room is ready for us, so if you would come this way...",
+          "Description": "takes John by the hand and leads him into a changing room"
+        },
+        {
+          "PartText": "Right this way, sir...",
+          "Description": null
+        },
+        {
+          "PartText": "Now you just have to change before we begin",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John unbuttons his pants and reaches for the denim overalls hanging on the wall.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh no sir...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m afraid those aren\u0027t for you...",
+          "Description": null
+        },
+        {
+          "PartText": "Did you not hear me say \u0027skimpy dairymaid dress\u0027?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at the waitress"
+        },
+        {
+          "PartText": "You mean, when you leaned forward and whispered \u0027skimpy little dairymaid dress\u0027 into my ear out there, right?",
+          "Description": "pointing outside"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Certainly sir...",
+          "Description": null
+        },
+        {
+          "PartText": "Are you feeling alright?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Now that you mention it, I DO remember",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m terribly sorry, I must have been distracted",
+          "Description": "slapping his own forehead"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s perfectly fine sir...",
+          "Description": null
+        },
+        {
+          "PartText": "It happens to the best of us",
+          "Description": "big customer-is-always-right-smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Without taking his eyes off the waitress, John finishes undressing, grabs the blue dairymaids dress, unzips it in the back, and then slides first one leg and then the other leg down the dress. The dress has clearly been made for a person of much smaller proportions than John, but he pretends he doesn\u0027t notice this, grabs the most sturdy part of the dress his hands can find, and pulls the dress up with all his might, causing a huge rupture in the crotch of the dress. John and the waitress are still staring at each other looking very serious, but as the dress lets out its cry of pain, the waitress can\u0027t hold back the laughter anymore.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh John... You look splendid!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The waitress runs to John and jumps onto him, with her legs clasping around his mid-section and kisses him violently. John - not able to move from being trapped in a dress 10 sizes and 1 sex too small - lets himself fall backwards onto his lower back with the waitress landing on top of him. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t want to do it in the Dirty Thirties John",
+          "Description": null
+        },
+        {
+          "PartText": "I want to milk you right here in the dirty changing room",
+          "Description": "drawing out the \u0027i\u0027 in \u0027dirty\u0027 on each occurrence"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I thought I was the dairymaid...?",
+          "Description": "looking confused"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "waitress",
+        "CharacterName": "Waitress",
+        "Color": "rgb(224,45,75)",
+        "Font": "Shadows Into Light",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I want you, John",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I want you, Angela",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "When John awakes, Carol is sitting upright in her bed staring at him, tears streaming down her face.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What were you dreaming about?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Angela",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Did you fuck her?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "We made love",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Was it good?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m not going to answer that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "HOW FUCKING CONSIDERATE OF YOU!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at her, rather expressionless"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You don\u0027t see anything wrong here, do you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at her, waiting for her to continue"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can\u0027t see how FUCKED UP it is for you to be dreaming about fucking a dead girl?",
+          "Description": null
+        },
+        {
+          "PartText": "In MY bed??!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "She wasn\u0027t dead in my dream",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You are obsessed!",
+          "Description": null
+        },
+        {
+          "PartText": "This is so far from normal that you have to bounce the signal off satellites to establish radio contact with normal",
+          "Description": null
+        },
+        {
+          "PartText": "Do you think that solving this case will bring her back?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And let\u0027s just pretend it did...",
+          "Description": null
+        },
+        {
+          "PartText": "That\u0027s about the most fucked up assumption to a conversation I\u0027ve ever had, but let\u0027s roll with it",
+          "Description": null
+        },
+        {
+          "PartText": "What do you think would happen if she came back and magically fell in love with the great amateur detective who solved the mystery of her murder?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know how to answer...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ll tell you what would happen: IT WOULD NEVER WORK!",
+          "Description": null
+        },
+        {
+          "PartText": "She\u0027d tire from you within the month...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m sure she would find the whole angry/gloomy-avenger thing exciting to begin with, but it gets boring pretty quickly and Angela of all people would realize that...",
+          "Description": null
+        },
+        {
+          "PartText": "but, know what... let\u0027s keep rolling...",
+          "Description": null
+        },
+        {
+          "PartText": "let\u0027s say that you are JUST what she\u0027s ALWAYS been looking for, and the two of you complement each other like yin and fucking yang and you spent a couple of months fucking like mad rabbits and exchanging views on \u0027How to get by with severe anti-social disorders in the year 2024\u0027, then what?",
+          "Description": null
+        },
+        {
+          "PartText": "When the honeymoon is over, here comes everyday life!",
+          "Description": null
+        },
+        {
+          "PartText": "and do you know what everyday life is full of?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Angry people yelling at you when you wake up?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "RICH!",
+          "Description": null
+        },
+        {
+          "PartText": "Everyday life is full of little disagreements;",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Oh, you want the recliner honey, well, I was thinking we could go with the antiques\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "and you know what that means right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Compromises",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s right! Compromises!",
+          "Description": null
+        },
+        {
+          "PartText": "And that\u0027s the one thing neither of you know how to do!",
+          "Description": null
+        },
+        {
+          "PartText": "But alright, let\u0027s assume you don\u0027t give a shit about what chairs you have in your living room and have no problem letting Angela get that one",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think it would be the other way around...",
+          "Description": null
+        },
+        {
+          "PartText": "when it comes to the chairs that is...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "staring in amazement"
+        },
+        {
+          "PartText": "Even if you somehow never had to deal with that great destroyer of marriages:",
+          "Description": null
+        },
+        {
+          "PartText": "everyday nagging and bickering, you know who would be waiting there to take you down, and keep you down?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The world around us",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s RIGHT!",
+          "Description": null
+        },
+        {
+          "PartText": "Because the world DEMANDS compromises, and the world DEMANDS that you pay rent on time and that you pick up your kids before kindergarten closes and the world doesn\u0027t give a shit how much you love each other, and you would never be able to accept that",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The world is changing",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Somehow, we are having two different conversations at the same time here!",
+          "Description": null
+        },
+        {
+          "PartText": "I want you to leave now",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "gets up"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You know what really drives me nuts?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking at Carol, waiting"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "THAT!",
+          "Description": null
+        },
+        {
+          "PartText": "That thing right there!",
+          "Description": null
+        },
+        {
+          "PartText": "Because I can\u0027t even be mad can I...?",
+          "Description": null
+        },
+        {
+          "PartText": "Because you never promised me anything, right?",
+          "Description": null
+        },
+        {
+          "PartText": "Hell, you even agreed with me from the start, that I might get hurt, and all those times when I thought:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027I think we really have something here\u0027",
+          "Description": null
+        },
+        {
+          "PartText": "you never ACTUALLY confirmed that, did you?",
+          "Description": null
+        },
+        {
+          "PartText": "You just smiled and let me think whatever I wanted, and it\u0027s not YOUR fault if I thought we were starting a real thing, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can be mad. I understand",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "John, please leave now",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": "rgb(42,42,87)",
+        "Font": "Trade Winds",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I will",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 31,
+  "ChapterHash": "iij1ESPl3s4jD\u002B0WHQSwoko6YB6tlXa2WEZCODxZFvZHuqm8KBXUzpu2LwWuLc\u002BNt9Xi4M6cc43RSrD6rAoFvQ==",
+  "Video": {
+    "FileName": "floating-clouds.gif",
+    "AttributionText": "Floating Clouds Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/floating-clouds"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Shadows Into Light",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Shadows Into Light",
+    "TheFontFamily": "Shadows Into Light",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

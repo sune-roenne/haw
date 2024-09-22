@@ -1,0 +1,1602 @@
+{
+  "ChapterDate": "2024-05-21T00:00:00",
+  "ChapterName": "Mike and Hunter in the Basement",
+  "ChapterFileName": "2024-05-21-B-Mike meets Hunter in the Basement.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Nerdy McNerd! Just the man I was looking for",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Always good to see you Karl. What can I do for you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I need a favor... But first, you gotta promise me to keep what I\u0027m about to tell you between the two of us...?",
+          "Description": "looking serious"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course... Tell me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027ve just been given my chance of making it BIG!",
+          "Description": null
+        },
+        {
+          "PartText": "There is this top-secret project about launching an HFT-fund out of FinaLibre...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "HFT?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "High-Frequency Trading... You can look it up on your own time...",
+          "Description": null
+        },
+        {
+          "PartText": "As I said, this is my big chance...",
+          "Description": null
+        },
+        {
+          "PartText": "My make-it-or-break-it...",
+          "Description": null
+        },
+        {
+          "PartText": "I just cannot fuck this one up, or I\u0027ll be answering phones for the rest of my life",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, at least until that job is automated by AI...",
+          "Description": "pensive"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Dude! I DO NOT NEED THIS RIGHT NOW!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sorry... go on...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "My success hinges on this one dude at the company, and the thing is: the guy fucking HATES me!",
+          "Description": null
+        },
+        {
+          "PartText": "I think the missus left him a couple of years ago, and he has just become this miserable old guy, and for some reason, he has directed all his passive-aggressive anger towards me!",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t even know his old lady!",
+          "Description": null
+        },
+        {
+          "PartText": "... the only thing I can think of is, that I don\u0027t speak Nerd...",
+          "Description": null
+        },
+        {
+          "PartText": "But it\u0027s not fair for him to jeopardize my career because of THAT, is it? I have other qualifications...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah... You got the best \u0027G\u0027day sir, how may I help you today?\u0027 out there...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking suspiciously at Mike"
+        },
+        {
+          "PartText": "Are you fucking with me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sorry man... Please... continue",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Look... You speak IT, and I have a feeling he\u0027ll like you like some real workplace father/son shit...",
+          "Description": null
+        },
+        {
+          "PartText": "Hell, if he does take to you, you\u0027ll be on the fast track to all sorts of insights into what is moving on the technology side of things...",
+          "Description": null
+        },
+        {
+          "PartText": "He is like the nexus of any project even remotely technical in nature",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Awesome!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And right now, I just need you to go have a short chat with him...",
+          "Description": null
+        },
+        {
+          "PartText": "Introduce yourself, shoot the shit about Japanese AI chicks or whatever the fuck gets you IT guys damp...",
+          "Description": null
+        },
+        {
+          "PartText": "and then just ask him for an update on the HFT-algorithm...",
+          "Description": null
+        },
+        {
+          "PartText": "He\u0027s probably going to go off about what kind of useless shit I am, and you can just throw me under the bus with some:",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027Yeah, what do we even need these soulless FinDevils for, but don\u0027t shoot the messenger, I\u0027m new here\u0027-spiel...",
+          "Description": null
+        },
+        {
+          "PartText": "I just need to report back to project management with a status for now",
+          "Description": null
+        },
+        {
+          "PartText": "Can you do this for me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sure... It actually sounds kinda fun",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Thanks... I owe you one",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So where do I find this wizard?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "face expresses \u0027seriously?\u0027"
+        },
+        {
+          "PartText": "You know the stairway by the Fund Accounting team...?",
+          "Description": null
+        },
+        {
+          "PartText": "Well, go down the stairs to the basement, and then when you are almost at the end of the hallway down there, there\u0027s a sign that says \u0027Sune\u0027... That\u0027s the place!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, there\u0027s no time like the present...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll get on it right away",
+          "Description": "shoots dual-wielded finger guns at Karl"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Mike sets off down the hall in a cheery little skip, and almost bumps into John as he rounds the corner.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Wooow... Easy there buddy! What are you so cheerful about?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m off to see the wizard, the wonderful wizard of Oz",
+          "Description": "continues along the hall. Skipping"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "John looks around the hall to see if he is somehow the butt of some candid camera setup when he notices Karl sitting at Mike\u0027s desk in the adjoining room, with a huge grin on his face.\r\nAs he realizes that yet another poor young soul has just been laid sacrifice on the alter of office stupidity, he seriously considers going after Mike and giving him the low-down on this stupid ritual, but somehow he knows, that would be too outside of the expectation of his role at the company, and resides to just send Karl a \u0027this-is-all-you-and-no-me\u0027-look.\r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Mike opens the door at the bottom of the staircase and immediately notices that something is off in the basement hallway: all the ceiling lights are flickering, and a bunch of the boxes of whatever is being stored down here lay scattered on the floor. And then there is a sound... A deep humming... like those drowning engine sounds they use in the horror movies... and what the hell was that? It sounded like a scream, but too high-pitched to be human. The outlook of meeting the IT Wizard of FinaLibre had seemed really enticing to Mike just a few minutes ago, but right now, he could do without anything the old man might be able to teach him to just be back at his desk. But of course, he had made a promise to Karl. It\u0027s not like he\u0027s so oblivious to Karl\u0027s character that he has any illusions that Karl wouldn\u0027t have stiffed him at the first sign of trouble had things been the other way around, but Mike is a firm believer in being the change you wish to see in the world, and thinking about changing the world is what propels him - granted: rather slowly - forwards. Mike is 100% focused on what is at the far end of the hallway and is therefore caught off-guard when a hand grabs his shirt and drags him into the washing room.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What...?",
+          "Description": "shocked, scared"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Shut up! Do you want those damn things to eat you?",
+          "Description": "looking intensely at Mike"
+        },
+        {
+          "PartText": "Let me tell you: you don\u0027t want that... whatever else... you don\u0027t want that",
+          "Description": "stare becomes more distant"
+        },
+        {
+          "PartText": "... They hammer those fangs through your eye-sockets and ears and... Oh God... those screams...",
+          "Description": "trailing off"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...?",
+          "Description": "bewildered"
+        },
+        {
+          "PartText": "Who are you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "angry man",
+        "CharacterName": "Angry man",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Who the fuck do you think I am?!",
+          "Description": null
+        },
+        {
+          "PartText": "...",
+          "Description": "looking at Mike as if waiting for the penny to drop"
+        },
+        {
+          "PartText": "I\u0027m Hunter for fuck\u0027s sake!",
+          "Description": null
+        },
+        {
+          "PartText": "Did you bring the guns?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What guns?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "The M10s and A15s... for fuck\u0027s sake! Why else did you come down here?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...I... I just came to see the wizard... this guy... Sune...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus Christ! Management hasn\u0027t reacted yet?!",
+          "Description": null
+        },
+        {
+          "PartText": "Are you telling me that the people up there don\u0027t know that... they are on the loose...?",
+          "Description": null
+        },
+        {
+          "PartText": "How could you not have heard?! The yelling! Those horrible screams... Oh God",
+          "Description": "trailing off again"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I don\u0027t know... I don\u0027t know any of this...",
+          "Description": "voice breaking... close to crying"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus Fuck! That\u0027s why Management ordered \u0027maintenance\u0027 those months ago! They are burying this whole operation and every living soul in this building along with it",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What are you talking about?",
+          "Description": "almost yelling, tears rolling down his cheeks"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright son... I want you to consider something...",
+          "Description": "cold and bitter expression"
+        },
+        {
+          "PartText": "How would you rather die: over the course of 15 minutes as extremely potent poison from genetically engineered bats spread through your blood, making it feel like every part of your body is being burned at 1000 degrees Celsius, or actually burn to death in a building that has been shut down to cover up the evidence of a sick experiment gone horribly wrong...",
+          "Description": null
+        },
+        {
+          "PartText": "all while the greedy, no-good board of directors get rich off military subsidies and YOUR death!?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I DON\u0027T WANT ANY OF THAT!",
+          "Description": "in a scream that clearly expresses that he doesn\u0027t think it\u0027s fair he should even have to make that choice"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... Then we have to act fast...",
+          "Description": null
+        },
+        {
+          "PartText": "We don\u0027t have time for me to explain the details...",
+          "Description": null
+        },
+        {
+          "PartText": "We have to warn the people upstairs...",
+          "Description": null
+        },
+        {
+          "PartText": "Even if it ends up being the death of us. Are you with me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I guess, but... I don\u0027t want to die!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "... and I don\u0027t think you\u0027ll have to...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ll do a countdown and then you need to head for the stairway as fast as you can",
+          "Description": null
+        },
+        {
+          "PartText": "I still have two shots left in this old thing...",
+          "Description": "holds up a gun"
+        },
+        {
+          "PartText": "and I know where to aim them...",
+          "Description": null
+        },
+        {
+          "PartText": "I know just where to aim them!",
+          "Description": "sadistic grin"
+        },
+        {
+          "PartText": "I can cover you long enough for you to reach the stairs, and then it\u0027s up to you...",
+          "Description": null
+        },
+        {
+          "PartText": "Can you do this?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think so",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s not good enough! Promise me that you will save those people upstairs",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I promise! I really do! I promise",
+          "Description": null
+        },
+        {
+          "PartText": "But what about you?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "If I can make it, I\u0027ll come after you as soon as you\u0027ve cleared the door...",
+          "Description": null
+        },
+        {
+          "PartText": "but even if I do...",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t know if I can keep on living with the things I\u0027ve seen down here... the things I\u0027ve done!",
+          "Description": null
+        },
+        {
+          "PartText": "Oh God! How could I let this happen?",
+          "Description": null
+        },
+        {
+          "PartText": "... I know how: greed! Stupid greed! That\u0027s all it ever was",
+          "Description": "looking despaired"
+        },
+        {
+          "PartText": "Alright... Time to move!",
+          "Description": "opens the door to the hallway, and peeks out"
+        },
+        {
+          "PartText": "Clear!",
+          "Description": null
+        },
+        {
+          "PartText": "On the count of 3, I step into the hall, and then you come out behind me and sprint for that door! Got it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I got it!",
+          "Description": "looking determined"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Good son! You\u0027ve got spirit! Just remember to keep your head down... They attack high!",
+          "Description": null
+        },
+        {
+          "PartText": "3...2...1... GO GO GO",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Hunter jumps into the hallway and aims his gun at whatever is waiting out there in the flickering dark. Mike takes off sprinting for the door, and as he is about halfway there, he hears a loud scream of despair and 2 shots being fired. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "hunter",
+        "CharacterName": "Hunter",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Aaaaaarrrrgggghhhh! What the fuck are you doing son! RUN FOR FUCKS SAKE! COMPLETE THE MISSION!",
+          "Description": null
+        },
+        {
+          "PartText": "Oh God, that hurts!",
+          "Description": null
+        },
+        {
+          "PartText": "Oh fuck... THE SPIDERS ARE OUT! DON\u0027T LET THEM GET INTO YOUR EARS...",
+          "Description": null
+        },
+        {
+          "PartText": "WHATEVER YOU DO SON, DON\u0027T LET THE SPIDERS GET IN YOUR EARS",
+          "Description": null
+        },
+        {
+          "PartText": "Aaaaarggghhhhh....",
+          "Description": "screaming, fading to a rattle"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Mike is an enlightened person, and though his main interests lay within the realm of Computer Science and Technology, he doesn\u0027t shy away from also consuming highlights from a variety of other domains, like for instance Psychology. Mike therefore knows quite a bit about the complex relationship between the human body and mind, and knows that you can\u0027t talk about one without the other. It for instance, makes no sense to imagine a mind producing conscious thought without a body to power the operation, yet were you to ask Mike at this specific moment, he would have sworn - against better judgment - that his mind and body had gone two separate ways when the screaming began. One part of Mike - his mind - knew that he should help the poor guy, if for no other reason than it was the RIGHT thing to do. His body however, had no intention at all of sticking around to see just how genetically engineered bats actually go about the business of killing with their fangs and - seeing as it was Mike\u0027s body who was in charge of charting out the course at that moment - Mike\u0027s mind had to content itself with fleeing the scene at high pace. Luckily for Mike\u0027s mind, it got something else to worry about instead of diving into the bottomless pits of guilt it might otherwise have thrown itself into: \u0027did he say spiders? Oh God... I HATE SPIDERS... What was that... Did I just feel something in my hair?\u0027.\r\n\r\nAs the door next to the Fund Accounting team is swung open and a young man comes screaming out of it, John is talking to Carol.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh fuck... Oh God... Is there anything in my hair?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looks skeptical at John"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No you\u0027re fine... Look, there\u0027s something I gotta tell you",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "WE DON\u0027T HAVE TIME FOR THAT NOW!",
+          "Description": null
+        },
+        {
+          "PartText": "THEY ARE ON THE LOOSE!",
+          "Description": null
+        },
+        {
+          "PartText": "THE BATS AND THE SPIDERS AND GOD ONLY KNOWS WHAT OTHER MONSTROSITIES MANAGEMENT HAVE KEPT HIDDEN FROM US DOWN THERE",
+          "Description": null
+        },
+        {
+          "PartText": "WE HAVE TO GET OUT OF HERE RIGHT NOW, BEFORE WE\u0027RE LOCKED DOWN AND MANAGEMENT BURNS THIS PLACE TO THE GROUND!",
+          "Description": null
+        },
+        {
+          "PartText": "LISTEN UP EVERYBODY!",
+          "Description": null
+        },
+        {
+          "PartText": "I KNOW THIS IS GOING TO COME AS A SHOCK TO A LOT OF YOU, BUT YOUR VERY SURVIVAL DEPENDS ON YOU DOING EXACTLY WHAT I SAY NOW:",
+          "Description": null
+        },
+        {
+          "PartText": "EVACUATE THE PREMISES RIGHT NOW! DO NOT WASTE TIME SALVAGING ANY PROPERTY, JUST GET THE FUCK OUT OF HERE NOW!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "The entire office looks in puzzlement at Mike.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "mike",
+        "CharacterName": "Mike",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "DO YOU WANT TO DIE???! JESUS CHRIST! HAVE IT YOUR WAY THEN!",
+          "Description": null
+        },
+        {
+          "PartText": "Carol, these people don\u0027t want to listen... Fucking pandas... I can\u0027t lose you... Please, please, please... I\u0027ll explain it all to you but would you please just come with me and not waste time asking questions?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking judgingly at John, then looks at Mike"
+        },
+        {
+          "PartText": "Of course Mike... Take me out of this dreadful place",
+          "Description": "reaches out hand for Mike to lead her out"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Mike grabs her hand and takes off running towards the main exit. \r\n\r\nJohn looks after them, shaking his head, as Karl joins him, capturing the dying seconds of this epic scene on his cell phone.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well... You might just have lucked out on this one...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m guessing Carol will fill him in when she\u0027s done with him...",
+          "Description": null
+        },
+        {
+          "PartText": "Unless she seizes the opportunity to take him for some twisted Bonnie and Clyde spree, in which case Management is probably going to want to talk to you! And the Police!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "karl",
+        "CharacterName": "Karl",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m just a minor player in this game... What about the freak in the basement?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah, like that\u0027s going to happen!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 11,
+  "ChapterHash": "ZelJjefQq7WSrfseX12EmFlsmnX4VGXSb\u002BEdMYfWaVLI6JXrong4c9nq\u002BQKGJMK5YLXknWBgN/IJh5870JHTuw==",
+  "Video": {
+    "FileName": "blood.gif",
+    "AttributionText": "Murder Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/murder"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Trade Winds",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "RgbColorString": null,
+    "HexColorString": null,
+    "RgbShadowColorString": null,
+    "HexShadowColorString": null,
+    "FontFamily": "Trade Winds",
+    "TheFontFamily": "Trade Winds",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

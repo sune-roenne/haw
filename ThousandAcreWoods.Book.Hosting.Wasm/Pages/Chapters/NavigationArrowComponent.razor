@@ -1,0 +1,10 @@
+﻿<button 
+    type="button"
+        class="taw-site-chapter-navigation-button@(IsDisabled ? " taw-nav-btn-disabled" : "" )"
+        @onclick="(() => OnClick())" 
+    disabled="@(IsDisabled ? "disabled" : null)"
+    style="background-image: url('@(IsLeft ? "images/bloody-arrow-left.webp" : "images/bloody-arrow-right.webp" )');"
+
+>
+
+</button>

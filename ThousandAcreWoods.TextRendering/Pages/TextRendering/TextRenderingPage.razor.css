@@ -1,0 +1,27 @@
+﻿.taw-tr-selection-panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.taw-tr-selection-panel-div {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.taw-tr-selection-panel-color {
+    padding:0px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 50px;
+}
+
+.taw-tr-render-pane {
+    padding-left: 61px;
+    margin-top: 10px;
+    width: 98%;
+    height: 98%;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgba(80,80,80,0.5);
+    border-style: solid;
+}

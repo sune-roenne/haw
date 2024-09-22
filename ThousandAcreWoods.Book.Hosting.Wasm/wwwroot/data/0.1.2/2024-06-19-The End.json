@@ -1,0 +1,2415 @@
+{
+  "ChapterDate": "2024-06-19T00:00:00",
+  "ChapterName": "After the Rain, Comes the Storm",
+  "ChapterFileName": "2024-06-19-The End.json",
+  "SerializableChapterContents": [
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Susan is looking troubled today. She is wearing sunglasses inside the building, and she hardly says a word unless someone directly addresses her. Most of her colleagues notice, but most of her colleagues feel they don\u0027t know her well enough to ask her about it. Ben, however, does not consider himself to be in the set of \u0027most of Susan\u0027s colleagues\u0027. In fact: he is more than happy to have a reason to talk to Susan.\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What\u0027s wrong Susan?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s nothing",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That\u0027s a bad cliche... Your sunglasses don\u0027t even cover the bruising around your eye completely",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "shaking, on the verge of crying"
+        },
+        {
+          "PartText": "I\u0027ll tell you, but you HAVE TO promise me two things:",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 6,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": [
+        " You won\u0027t tell any of the others",
+        " You won\u0027t make me go to the police if I don\u0027t want to"
+      ],
+      "IsNumbered": false
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Do you promise?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I promise",
+          "Description": "looking serious and concerned"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I can\u0027t talk about it here",
+          "Description": null
+        },
+        {
+          "PartText": "Can we go outside where people can\u0027t see us",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course",
+          "Description": "smiling comfortingly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Can I come in?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You\u0027re the boss",
+          "Description": "vague smile"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking nervously around Sune\u0027s office"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Quit with the damn paranoia... There\u0027s nothing here!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You can\u0027t blame me for taking precautions...",
+          "Description": null
+        },
+        {
+          "PartText": "Last time I came down here, \u0027my wife\u0027 was hiring a couple of meth-heads to find and torture me...",
+          "Description": null
+        },
+        {
+          "PartText": "very life-like",
+          "Description": "compliment"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yeah... That was a good one!",
+          "Description": "wipes a small tear from the corner of one eye"
+        },
+        {
+          "PartText": "Look, if you\u0027re here about my character-development program, you might as well..",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "raises hand dismissively"
+        },
+        {
+          "PartText": "Wouldn\u0027t dream of it",
+          "Description": null
+        },
+        {
+          "PartText": "The organization seems to have adopted the \u0027rite of passage\u0027 as a natural part of life...",
+          "Description": null
+        },
+        {
+          "PartText": "\u0027the bitter, that makes the sweet taste good\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "and as long as the effects are no worse than what can be cured by a couple of days off and a prescription for sedatives...",
+          "Description": "gesturing \u0027who am I to object?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "You were right about Albert",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "HookerBoy!",
+          "Description": "not so much correcting Donnie, as correcting a trivial wrong in the world"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "He did propose a continuation of Angela\u0027s research... Led by him",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Good for him!",
+          "Description": null
+        },
+        {
+          "PartText": "What did you tell him?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I gave him six months to show results",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Which I am sure he will",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Me too...",
+          "Description": null
+        },
+        {
+          "PartText": "but you were wrong about him wanting an office down here",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What a loser!",
+          "Description": null
+        },
+        {
+          "PartText": "The boy lacks ambition",
+          "Description": "gesturing \u0027what can I say?\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well...",
+          "Description": null
+        },
+        {
+          "PartText": "Look, I really need to talk to you about another thing...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I need to have a word with you Carol",
+          "Description": "looking very stern"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is something wrong?",
+          "Description": "concerned"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes!",
+          "Description": "looking very serious"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Is it about you and me?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes...",
+          "Description": "thinking"
+        },
+        {
+          "PartText": "But not the way you think",
+          "Description": "attempting a smile, not convincingly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Whatever it is, can we at least talk about it outside?",
+          "Description": null
+        },
+        {
+          "PartText": "I don\u0027t think I can handle it in here",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Actually, I think that would be for the best",
+          "Description": "smiling, a little more convincingly"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Carol is too old to even think stuff like \u0027the last 48 hours have been the best hours of my life\u0027, or so she tells herself, but if she\u0027s being honest with herself she can\u0027t think of any time in her life when she\u0027s felt so happy. And of course, something has come along to ruin it. \u0027No!\u0027 she tells herself. She shouldn\u0027t think like that! It\u0027s just her own stupid fears playing tricks on her. John had been right about everything he said the other day and she really DOES want a serious, committed relationship and she really wants it with HIM. And she has been true to her word on everything she has told him these last days... not that she had made a habit of lying to him before. Now, why does she feel like she\u0027s done something to upset him? Has something come out about her past that he didn\u0027t know about? \r\nNO! She knew that this would in some way or other come down to being a leap of faith, and she is determined to take it. With eyes open. \r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m scared John. Will you hold my hand",
+          "Description": "worried"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Of course",
+          "Description": "smiling at her"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Why did Frank do the things he did?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s hard to say",
+          "Description": null
+        },
+        {
+          "PartText": "Some of what I am about to say is based on conjectures on my part, while some of it is based on hard facts",
+          "Description": null
+        },
+        {
+          "PartText": "At the end of the day, I think Frank was a small, rotten person and I think he knew that better than anyone",
+          "Description": null
+        },
+        {
+          "PartText": "A lot of people talk about karma like it\u0027s someone keeping score...",
+          "Description": null
+        },
+        {
+          "PartText": "but it really isn\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "If anyone\u0027s keeping score, it\u0027s just yourself",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s more about \u0027takes one to know one\u0027 I guess",
+          "Description": null
+        },
+        {
+          "PartText": "I think Frank saw the world through lenses shaped by his own rotten actions",
+          "Description": null
+        },
+        {
+          "PartText": "and he needed something to believe in",
+          "Description": null
+        },
+        {
+          "PartText": "And that\u0027s where you and FinaLibre came in",
+          "Description": null
+        },
+        {
+          "PartText": "In his mind, you were the sacred father figure he needed",
+          "Description": null
+        },
+        {
+          "PartText": "and FinaLibre became his Holy Cause",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Until I fell from grace...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes... Exactly that!",
+          "Description": null
+        },
+        {
+          "PartText": "He went looking for something to replace a cause he no longer believed in...",
+          "Description": null
+        },
+        {
+          "PartText": "and at least to some degree, he found it...",
+          "Description": null
+        },
+        {
+          "PartText": "but we\u0027ll get back to that...",
+          "Description": null
+        },
+        {
+          "PartText": "Because he never forgave you for destroying his holy mission",
+          "Description": null
+        },
+        {
+          "PartText": "He in fact hated you for it, and if there was one thing that drove him during the last few years, it was his lust for vengeance",
+          "Description": null
+        },
+        {
+          "PartText": "on you and FinaLibre",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But why did he kill Angela if he wanted revenge on me?",
+          "Description": null
+        },
+        {
+          "PartText": "Surely he could have found a way to get rid of me...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s not like I keep any kind of security detail",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Most importantly: it wouldn\u0027t be enough",
+          "Description": null
+        },
+        {
+          "PartText": "He wanted more than to just kill you...",
+          "Description": null
+        },
+        {
+          "PartText": "He wanted to destroy everything you had worked to build",
+          "Description": null
+        },
+        {
+          "PartText": "Which in his mind pretty much equated to FinaLibre",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But just killing Angela wouldn\u0027t destroy FinaLibre",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No, that\u0027s right",
+          "Description": null
+        },
+        {
+          "PartText": "There\u0027s a nasty little spin to this whole deal, but as I said: I\u0027ll get back to that",
+          "Description": null
+        },
+        {
+          "PartText": "Angela accidentally happened across something of Frank\u0027s worth killing her for, in her desperation to get in contact with John:",
+          "Description": null
+        },
+        {
+          "PartText": "Frank\u0027s access to a dark web society, of which both Frank and John were members...",
+          "Description": null
+        },
+        {
+          "PartText": "It may have been Frank\u0027s or it may have been Martin\u0027s...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m unsure on that part...",
+          "Description": null
+        },
+        {
+          "PartText": "she in any case used the access credentials to post an anonymous message on the society web page that John couldn\u0027t overlook",
+          "Description": null
+        },
+        {
+          "PartText": "prompting him to show up for the job interview on May 22nd",
+          "Description": null
+        },
+        {
+          "PartText": "Frank found out and promptly killed her",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m afraid to ask because I fear that I already know the answer, but:",
+          "Description": null
+        },
+        {
+          "PartText": "this isn\u0027t over yet, is it?",
+          "Description": "looking worried"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And I don\u0027t like telling you...",
+          "Description": null
+        },
+        {
+          "PartText": "or even saying it out loud:",
+          "Description": null
+        },
+        {
+          "PartText": "No, it\u0027s not over...",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s only just begun",
+          "Description": "distant, looking worried"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "What is it, John?",
+          "Description": null
+        },
+        {
+          "PartText": "You are scaring me",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "taking out a photo printout, that was tucked into the notepad he was carrying, handing the photo over to Carol"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh my God! I didn\u0027t do this John!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I believe you, Carol!",
+          "Description": "looking into her eyes with sincerity and comfort"
+        },
+        {
+          "PartText": "But I\u0027m afraid there\u0027s going to be a lot of people that won\u0027t believe you, and that puts you in grave danger",
+          "Description": null
+        },
+        {
+          "PartText": "But if it\u0027s any comfort, I think I am in equally grave danger...",
+          "Description": "sad smile"
+        },
+        {
+          "PartText": "Let me tell you about a fucked up visit I had in my apartment last night",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Have you ever heard of the Banshee Bulletin?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "No. What is it?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s a dark web bulletin board for... well, murderers",
+          "Description": null
+        },
+        {
+          "PartText": "The one John and Frank were members of",
+          "Description": null
+        },
+        {
+          "PartText": "You earn virtual currency by \u0027clearing marks\u0027 posted on the board",
+          "Description": null
+        },
+        {
+          "PartText": "Meaning: someone will put up the details of a person and a reward in aforementioned virtual currency to go to the person that kills the mark",
+          "Description": null
+        },
+        {
+          "PartText": "Only people who have directly killed someone may be put up on the board, and the poster needs to supply proof of the mark\u0027s crimes",
+          "Description": null
+        },
+        {
+          "PartText": "The term \u0027proof\u0027 here, is interpreted a bit more lax than it is in most legal courts, but every submission is reviewed by the administrators of the site before it is made accessible to the users",
+          "Description": null
+        },
+        {
+          "PartText": "On some occasions, the administrators will bend the rules a little and publish a reward for someone who has committed a specifically heinous sex crime even if he didn\u0027t murder anyone",
+          "Description": null
+        },
+        {
+          "PartText": "The currency you earn can only be spent on the site to well...",
+          "Description": null
+        },
+        {
+          "PartText": "order other murders",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And people buy into this?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, yes...",
+          "Description": null
+        },
+        {
+          "PartText": "my estimate is, that the site has around 1.500 users spread out over Scandinavia, Germany, and the Benelux",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are people really so stupid that they can\u0027t see how this could be massively abused by the wrong kinds of people?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, yes:",
+          "Description": null
+        },
+        {
+          "PartText": "people are stupid",
+          "Description": null
+        },
+        {
+          "PartText": "and of course: a lot of people aren\u0027t presented with a choice...",
+          "Description": null
+        },
+        {
+          "PartText": "sometimes the people behind the Banshee Bulletin",
+          "Description": null
+        },
+        {
+          "PartText": " - known simply as the Banshees - ",
+          "Description": null
+        },
+        {
+          "PartText": "will either catch someone in the act of killing or will uncover information and present the perpetrator with a choice:",
+          "Description": null
+        },
+        {
+          "PartText": "join or die...",
+          "Description": null
+        },
+        {
+          "PartText": "Even the people that join on their own accord, often forget to read the EULA: once you\u0027re in, you don\u0027t leave",
+          "Description": null
+        },
+        {
+          "PartText": "If anyone discovers your identity...",
+          "Description": null
+        },
+        {
+          "PartText": "well, you\u0027re a killer as well so...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "So every user is automatically a mark?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yes. Exactly",
+          "Description": null
+        },
+        {
+          "PartText": "And anyone who kills him will receive all of his virtual currency as a reward, and the crime will be covered up in the same manner that every other kill under the Banshee setup is",
+          "Description": null
+        },
+        {
+          "PartText": "Failure to execute a job at least once every three months means your contact details automatically get published",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Leaving the users to clean up after themselves. Jesus!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I believe that\u0027s what happened to Jacob from Client Management",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Who the hell is behind this?",
+          "Description": null
+        },
+        {
+          "PartText": "I take it that international law enforcement must be in on it...?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I can\u0027t see how it could work without at least some law enforcement personnel in on it...",
+          "Description": null
+        },
+        {
+          "PartText": "but I don\u0027t think it takes that many...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And I bet there\u0027s someone working a money angle as well, right?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh, most certainly",
+          "Description": null
+        },
+        {
+          "PartText": "A lot of the people on the list are very influential people",
+          "Description": null
+        },
+        {
+          "PartText": "CEOs, government officials, and so on",
+          "Description": null
+        },
+        {
+          "PartText": "If I for instance was a big swinging CEO of some multinational company, and I wanted to acquire another company...",
+          "Description": null
+        },
+        {
+          "PartText": "and I happened to find out that the CEO and some of his staff were on the list...?",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m sure there are more creative ways to cash in, but I\u0027m almost certain that someone is making a fuckton of cash somewhere out there",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Alright... Hit me with the terrible news",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "handing Donnie a photo printout"
+        },
+        {
+          "PartText": "Do you remember this?",
+          "Description": null
+        },
+        {
+          "PartText": "It\u0027s a pretty lifelike picture of you killing the fat kid",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "But I didn\u0027t kill him!",
+          "Description": null
+        },
+        {
+          "PartText": "I opened my door, found him, thought I heard something, and picked up the hammer",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I\u0027m pretty sure that was Frank driving you to pick up the hammer so he could catch that photo of you",
+          "Description": "pointing at the photo"
+        },
+        {
+          "PartText": "And I doubt very much that the photo would hold up in a court of law",
+          "Description": null
+        },
+        {
+          "PartText": "But on the Banshee Bulletin, it\u0027s undeniable proof of guilt",
+          "Description": null
+        },
+        {
+          "PartText": "About an hour ago, twenty new marks were published on the bulletin...",
+          "Description": null
+        },
+        {
+          "PartText": "you were one of them, the 19 others all work at FinaLibre...",
+          "Description": null
+        },
+        {
+          "PartText": "The so-called \u0027evidence\u0027 is akin to what you are holding in your hand...",
+          "Description": null
+        },
+        {
+          "PartText": "some of it may be legit evidence...",
+          "Description": null
+        },
+        {
+          "PartText": "I mean, there is probably a couple of real assholes working here, right?",
+          "Description": null
+        },
+        {
+          "PartText": "but no doubt a lot of it is staged, if not downright forged",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "...",
+          "Description": "looking horrified"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "And to make matters worse...",
+          "Description": null
+        },
+        {
+          "PartText": "The average net user inflow to the Banshee Bulletin over the past year has been a very steady 5 users per week",
+          "Description": null
+        },
+        {
+          "PartText": "This last week, 20 new users have joined",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027m almost certain that most of those users are from within FinaLibre",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Are you saying that up to 20 FinaLibre users have chosen to join this crazy operation?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Not voluntarily!",
+          "Description": null
+        },
+        {
+          "PartText": "But if Frank",
+          "Description": null
+        },
+        {
+          "PartText": "- and I\u0027m almost 100% certain Frank set this up before his death -",
+          "Description": null
+        },
+        {
+          "PartText": "was able to submit 20 people as marks, I\u0027m sure he could have found some way around having 20 people enlisted as users as well...",
+          "Description": null
+        },
+        {
+          "PartText": "If in no other way than by working the money angle with the Banshees",
+          "Description": null
+        },
+        {
+          "PartText": "And I\u0027m pretty sure Frank has been doing some recruiting over the past few years...",
+          "Description": null
+        },
+        {
+          "PartText": "I am sure about Jacob, Lonnie, Leo, and Martin but there could be others",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Jesus Christ!",
+          "Description": null
+        },
+        {
+          "PartText": "So we may have 20\u002B employees in this building, all highly motivated to kill 20 other employees, AT THIS MOMENT?!",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "That about sums it up",
+          "Description": "smiling"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "donnie",
+        "CharacterName": "Donnie",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Sune...",
+          "Description": null
+        },
+        {
+          "PartText": "Are you on the list?",
+          "Description": null
+        },
+        {
+          "PartText": "Are you one of the 20 \u0027marks\u0027...",
+          "Description": null
+        },
+        {
+          "PartText": "or 20\u002B assassins in this?",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Well, yes and no...",
+          "Description": null
+        },
+        {
+          "PartText": "I signed up about 2 and a half years ago...",
+          "Description": null
+        },
+        {
+          "PartText": "I didn\u0027t know about Frank...",
+          "Description": null
+        },
+        {
+          "PartText": "I was almost certain of John\u0027s membership, but the time never seemed right to bring it up until the very end",
+          "Description": "smiling satisfied"
+        },
+        {
+          "PartText": "Don\u0027t worry...",
+          "Description": null
+        },
+        {
+          "PartText": "I just signed up out of FOMO...",
+          "Description": null
+        },
+        {
+          "PartText": "You know how I always need to be on the bleeding edge of things...",
+          "Description": null
+        },
+        {
+          "PartText": "Google\u002B, Facebook...",
+          "Description": null
+        },
+        {
+          "PartText": "all those social platforms",
+          "Description": null
+        },
+        {
+          "PartText": "And I only ever kill real scumbags...",
+          "Description": null
+        },
+        {
+          "PartText": "Child molesters and rapists...",
+          "Description": null
+        },
+        {
+          "PartText": "But I\u0027m a father, so I\u0027m allowed to do that",
+          "Description": "gesturing \u0027it\u0027s nothing, believe me\u0027"
+        },
+        {
+          "PartText": "And I\u0027m certainly not going to partake in any slaughter here...",
+          "Description": null
+        },
+        {
+          "PartText": "Nope!",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027m FinaLibre all the way",
+          "Description": "proud smile"
+        },
+        {
+          "PartText": "Plus... I have a date with Valerie the Valkyrie, and I think this may be my ticket",
+          "Description": "ecstatic grin"
+        },
+        {
+          "PartText": "But we need to act fast Donnie...",
+          "Description": null
+        },
+        {
+          "PartText": "I\u0027ve been thinking about our options, and I think we stand a 50/50 chance of making it",
+          "Description": null
+        },
+        {
+          "PartText": "but we need to act fast and bring everyone on board before anyone does anything... \u0027irreversible\u0027...",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "ben",
+        "CharacterName": "Ben",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "I think we\u0027ve gone far enough Susan",
+          "Description": "smiling"
+        },
+        {
+          "PartText": "What is it? Is it Brian? Did he hit you?",
+          "Description": "worried, compassionate"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "susan",
+        "CharacterName": "Susan",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Oh Ben...",
+          "Description": "looking him into his eyes"
+        },
+        {
+          "PartText": "I\u0027m so sorry",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 5,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": "Ben brings his right hand op to brush the tear away from the corner of Susan\u0027s cheek, as she rams a knife through his left eye socket. \r\nBen lets out a terrible, primal scream of pain and Susan is surprised by her own resolve and will to stay alive, as she pulls the knife out of Ben\u0027s eye and stabs him repeatedly through the throat in order to shut him up, knowing that any proof of her involvement, could be really bad news for her.\r\n\r\n",
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "sune",
+        "CharacterName": "Sune",
+        "Color": "rgb(62,0,179)",
+        "Font": "Ink Free Web",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "Yikes!",
+          "Description": "with an expression of \u0027that\u0027s not good... but it\u0027s not my fault boss!\u0027"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 4,
+      "Title": null,
+      "Character": null,
+      "LineParts": null,
+      "IsThought": null,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "john",
+        "CharacterName": "John",
+        "Color": null,
+        "Font": null,
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "It\u0027s starting! Look, I\u0027m going \u0027all chips in\u0027, and anybody who\u0027s with me, I\u0027m with them to the end...",
+          "Description": null
+        },
+        {
+          "PartText": "I know there will be some who will break under the pressure, and maybe there will be a lot, and I guess I\u0027ll find out about that as I go...",
+          "Description": null
+        },
+        {
+          "PartText": "But I need to know where YOU stand",
+          "Description": null
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    },
+    {
+      "ContentType": 2,
+      "Title": null,
+      "Character": {
+        "CharacterKey": "carol",
+        "CharacterName": "Carol",
+        "Color": "rgb(176,7,134)",
+        "Font": "Gloria Hallelujah",
+        "FontSize": 10
+      },
+      "LineParts": [
+        {
+          "PartText": "As I see it, I don\u0027t have a choice either way... I\u0027m marked!",
+          "Description": null
+        },
+        {
+          "PartText": "But even if I wasn\u0027t...",
+          "Description": null
+        },
+        {
+          "PartText": "I stand with you!",
+          "Description": "smiling, sincere"
+        }
+      ],
+      "IsThought": false,
+      "Paragraphs": null,
+      "Text": null,
+      "Items": null,
+      "IsNumbered": null
+    }
+  ],
+  "ChapterOrder": 38,
+  "ChapterHash": "a2QGdoTlxRGuS2eERrFAZTOz9Nn3Z4V5WBrhBKwSkO9I/9w25hmtfYaHujcO/P9mGLmAV9stGe1kXLhVa5ARRA==",
+  "Video": {
+    "FileName": "orange-sky.gif",
+    "AttributionText": "Red Sun Stock Videos by Vecteezy",
+    "AttributionLink": "https://www.vecteezy.com/free-videos/red-sun"
+  },
+  "ChapterHeaderFontSettings": {
+    "Family": "Gloria Halleluja",
+    "Size": 30,
+    "Color": null,
+    "ShadowColor": null,
+    "Defaults": null,
+    "IsItalic": false,
+    "FontFamily": "Gloria Halleluja",
+    "TheFontFamily": "Gloria Halleluja",
+    "FontSize": 30,
+    "TheFontSize": 30,
+    "FontColor": null,
+    "TheFontColor": null,
+    "FontShadowColor": null,
+    "TheFontShadowColor": null
+  }
+}

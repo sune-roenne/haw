@@ -1,0 +1,3190 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+      "title": "VCClient REST API",
+      "version": "0.1.0"
+    },
+    "paths": {
+      "/api/hello": {
+        "get": {
+          "summary": "Hello",
+          "operationId": "hello_api_hello_get",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_hello": {
+        "get": {
+          "summary": "Hello",
+          "operationId": "hello_api_hello_get",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots": {
+        "get": {
+          "summary": "Get Slots",
+          "operationId": "get_slots_api_slot_manager_slots_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "post": {
+          "summary": "Post Slot",
+          "operationId": "post_slot_api_slot_manager_slots_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/{index}": {
+        "get": {
+          "summary": "Get Slot",
+          "operationId": "get_slot_api_slot_manager_slots__index__get",
+          "parameters": [
+            {
+              "name": "index",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "integer",
+                "title": "Index"
+              }
+            },
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "put": {
+          "summary": "Put Slot Info",
+          "operationId": "put_slot_info_api_slot_manager_slots__index__put",
+          "parameters": [
+            {
+              "name": "index",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "integer",
+                "title": "Index"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "delete": {
+          "summary": "Delete Slot Info",
+          "operationId": "delete_slot_info_api_slot_manager_slots__index__delete",
+          "parameters": [
+            {
+              "name": "index",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "integer",
+                "title": "Index"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/dummy/rvc": {
+        "post": {
+          "summary": "Post Slot Dummy Rvc",
+          "operationId": "post_slot_dummy_rvc_api_slot_manager_slots_dummy_rvc_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RVCModelImportParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/dummy/beatricev2": {
+        "post": {
+          "summary": "Post Slot Dummy Beatricev2",
+          "operationId": "post_slot_dummy_beatricev2_api_slot_manager_slots_dummy_beatricev2_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BeatriceV2ModelImportParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/operation/merge_models": {
+        "post": {
+          "summary": "Post Merge Models",
+          "operationId": "post_merge_models_api_slot_manager_slots_operation_merge_models_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MergeParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/operation/export_onnx": {
+        "post": {
+          "summary": "Post Export Onnx",
+          "operationId": "post_export_onnx_api_slot_manager_slots_operation_export_onnx_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OnnxExportParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/operation/move_model": {
+        "post": {
+          "summary": "Post Move Model",
+          "operationId": "post_move_model_api_slot_manager_slots_operation_move_model_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MoveModelParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/operation/move_merged_model": {
+        "post": {
+          "summary": "Post Move Merged Model",
+          "operationId": "post_move_merged_model_api_slot_manager_slots_operation_move_merged_model_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MoveMergedModelParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/operation/move_exported_onnx_model": {
+        "post": {
+          "summary": "Post Move Export Onnx Model",
+          "operationId": "post_move_export_onnx_model_api_slot_manager_slots_operation_move_exported_onnx_model_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MoveExportedOnnxModelParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/slot-manager/slots/operation/set_icon_file": {
+        "post": {
+          "summary": "Post Set Icon File",
+          "operationId": "post_set_icon_file_api_slot_manager_slots_operation_set_icon_file_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SetIconParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots": {
+        "get": {
+          "summary": "Get Slots",
+          "operationId": "get_slots_api_slot_manager_slots_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "post": {
+          "summary": "Post Slot",
+          "operationId": "post_slot_api_slot_manager_slots_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_{index}": {
+        "get": {
+          "summary": "Get Slot",
+          "operationId": "get_slot_api_slot_manager_slots__index__get",
+          "parameters": [
+            {
+              "name": "index",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "integer",
+                "title": "Index"
+              }
+            },
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "put": {
+          "summary": "Put Slot Info",
+          "operationId": "put_slot_info_api_slot_manager_slots__index__put",
+          "parameters": [
+            {
+              "name": "index",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "integer",
+                "title": "Index"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "delete": {
+          "summary": "Delete Slot Info",
+          "operationId": "delete_slot_info_api_slot_manager_slots__index__delete",
+          "parameters": [
+            {
+              "name": "index",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "integer",
+                "title": "Index"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_dummy_rvc": {
+        "post": {
+          "summary": "Post Slot Dummy Rvc",
+          "operationId": "post_slot_dummy_rvc_api_slot_manager_slots_dummy_rvc_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RVCModelImportParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_dummy_beatricev2": {
+        "post": {
+          "summary": "Post Slot Dummy Beatricev2",
+          "operationId": "post_slot_dummy_beatricev2_api_slot_manager_slots_dummy_beatricev2_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BeatriceV2ModelImportParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_operation_merge_models": {
+        "post": {
+          "summary": "Post Merge Models",
+          "operationId": "post_merge_models_api_slot_manager_slots_operation_merge_models_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MergeParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_operation_export_onnx": {
+        "post": {
+          "summary": "Post Export Onnx",
+          "operationId": "post_export_onnx_api_slot_manager_slots_operation_export_onnx_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OnnxExportParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_operation_move_model": {
+        "post": {
+          "summary": "Post Move Model",
+          "operationId": "post_move_model_api_slot_manager_slots_operation_move_model_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MoveModelParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_operation_move_merged_model": {
+        "post": {
+          "summary": "Post Move Merged Model",
+          "operationId": "post_move_merged_model_api_slot_manager_slots_operation_move_merged_model_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MoveMergedModelParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_operation_move_exported_onnx_model": {
+        "post": {
+          "summary": "Post Move Export Onnx Model",
+          "operationId": "post_move_export_onnx_model_api_slot_manager_slots_operation_move_exported_onnx_model_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MoveExportedOnnxModelParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_slot-manager_slots_operation_set_icon_file": {
+        "post": {
+          "summary": "Post Set Icon File",
+          "operationId": "post_set_icon_file_api_slot_manager_slots_operation_set_icon_file_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SetIconParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/configuration-manager/configuration": {
+        "get": {
+          "summary": "Get Configuration",
+          "operationId": "get_configuration_api_configuration_manager_configuration_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "put": {
+          "summary": "Put Configuration",
+          "description": "注意: VoiceChangerConfigurationには初期値が設定されているので、フィールドが欠けていても初期値で補われてエラーが出ない。\n　　　フィールドの型が異なる場合はエラーが出る。",
+          "operationId": "put_configuration_api_configuration_manager_configuration_put",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/VoiceChangerConfiguration"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_configuration-manager_configuration": {
+        "get": {
+          "summary": "Get Configuration",
+          "operationId": "get_configuration_api_configuration_manager_configuration_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "put": {
+          "summary": "Put Configuration",
+          "description": "注意: VoiceChangerConfigurationには初期値が設定されているので、フィールドが欠けていても初期値で補われてエラーが出ない。\n　　　フィールドの型が異なる場合はエラーが出る。",
+          "operationId": "put_configuration_api_configuration_manager_configuration_put",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/VoiceChangerConfiguration"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": null
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/audio-device-manager/input_devices": {
+        "get": {
+          "summary": "Get Input Devices",
+          "operationId": "get_input_devices_api_audio_device_manager_input_devices_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/audio-device-manager/output_devices": {
+        "get": {
+          "summary": "Get Output Devices",
+          "operationId": "get_output_devices_api_audio_device_manager_output_devices_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_audio-device-manager_input_devices": {
+        "get": {
+          "summary": "Get Input Devices",
+          "operationId": "get_input_devices_api_audio_device_manager_input_devices_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_audio-device-manager_output_devices": {
+        "get": {
+          "summary": "Get Output Devices",
+          "operationId": "get_output_devices_api_audio_device_manager_output_devices_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/gpu-device-manager/devices": {
+        "get": {
+          "summary": "Get Devices",
+          "operationId": "get_devices_api_gpu_device_manager_devices_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_gpu-device-manager_devices": {
+        "get": {
+          "summary": "Get Devices",
+          "operationId": "get_devices_api_gpu_device_manager_devices_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/module-manager/modules": {
+        "get": {
+          "summary": "Get Modules",
+          "operationId": "get_modules_api_module_manager_modules_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_module-manager_modules": {
+        "get": {
+          "summary": "Get Modules",
+          "operationId": "get_modules_api_module_manager_modules_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/sample-manager/samples": {
+        "get": {
+          "summary": "Get Samples",
+          "operationId": "get_samples_api_sample_manager_samples_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/sample-manager/samples/operation/download": {
+        "post": {
+          "summary": "Post Download",
+          "operationId": "post_download_api_sample_manager_samples_operation_download_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SampleDownloadParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_sample-manager_samples": {
+        "get": {
+          "summary": "Get Samples",
+          "operationId": "get_samples_api_sample_manager_samples_get",
+          "parameters": [
+            {
+              "name": "reload",
+              "in": "query",
+              "required": false,
+              "schema": {
+                "type": "boolean",
+                "default": false,
+                "title": "Reload"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_sample-manager_samples_operation_download": {
+        "post": {
+          "summary": "Post Download",
+          "operationId": "post_download_api_sample_manager_samples_operation_download_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SampleDownloadParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/uploader/info": {
+        "get": {
+          "summary": "Get Info",
+          "operationId": "get_info_api_uploader_info_get",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/uploader/upload_file_chunk": {
+        "post": {
+          "summary": "Post Upload File Chunk",
+          "operationId": "post_upload_file_chunk_api_uploader_upload_file_chunk_post",
+          "requestBody": {
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_upload_file_chunk_api_uploader_upload_file_chunk_post"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/uploader/concat_uploaded_file_chunk": {
+        "post": {
+          "summary": "Post Concat Uploaded File Chunk",
+          "operationId": "post_concat_uploaded_file_chunk_api_uploader_concat_uploaded_file_chunk_post",
+          "requestBody": {
+            "content": {
+              "application/x-www-form-urlencoded": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_concat_uploaded_file_chunk_api_uploader_concat_uploaded_file_chunk_post"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_uploader_info": {
+        "get": {
+          "summary": "Get Info",
+          "operationId": "get_info_api_uploader_info_get",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_uploader_upload_file_chunk": {
+        "post": {
+          "summary": "Post Upload File Chunk",
+          "operationId": "post_upload_file_chunk_api_uploader_upload_file_chunk_post",
+          "requestBody": {
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_upload_file_chunk_api_uploader_upload_file_chunk_post"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_uploader_concat_uploaded_file_chunk": {
+        "post": {
+          "summary": "Post Concat Uploaded File Chunk",
+          "operationId": "post_concat_uploaded_file_chunk_api_uploader_concat_uploaded_file_chunk_post",
+          "requestBody": {
+            "content": {
+              "application/x-www-form-urlencoded": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_concat_uploaded_file_chunk_api_uploader_concat_uploaded_file_chunk_post"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/voice-changer/convert_chunk": {
+        "post": {
+          "summary": "Post Convert Chunk",
+          "description": "音声変換を行うAPI\n\nArgs:\n    waveform (UploadFile): 音声データ np.float32のバイナリデータを想定している。\n    x_timestamp (int): タイムスタンプ",
+          "operationId": "post_convert_chunk_api_voice_changer_convert_chunk_post",
+          "parameters": [
+            {
+              "name": "x-timestamp",
+              "in": "header",
+              "required": false,
+              "schema": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": 0,
+                "title": "X-Timestamp"
+              }
+            }
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_convert_chunk_api_voice_changer_convert_chunk_post"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/voice-changer/convert_chunk_bulk": {
+        "post": {
+          "summary": "Post Convert Chunk Bulk",
+          "description": "音声変換を行うAPI\n\nArgs:\n    waveform (UploadFile): 音声データ float32のバイナリデータを想定している。\n    x_timestamp (int): タイムスタンプ",
+          "operationId": "post_convert_chunk_bulk_api_voice_changer_convert_chunk_bulk_post",
+          "parameters": [
+            {
+              "name": "x-timestamp",
+              "in": "header",
+              "required": false,
+              "schema": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": 0,
+                "title": "X-Timestamp"
+              }
+            }
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_convert_chunk_bulk_api_voice_changer_convert_chunk_bulk_post"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/voice-changer/convert_file": {
+        "post": {
+          "summary": "Post Convert File",
+          "operationId": "post_convert_file_api_voice_changer_convert_file_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ConvertFileParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/voice-changer/operation/start_server_device": {
+        "post": {
+          "summary": "Start Server Device",
+          "operationId": "start_server_device_api_voice_changer_operation_start_server_device_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/voice-changer/operation/stop_server_device": {
+        "post": {
+          "summary": "Stop Server Device",
+          "operationId": "stop_server_device_api_voice_changer_operation_stop_server_device_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/voice-changer-manager/information": {
+        "get": {
+          "summary": "Get Voice Changer Information",
+          "operationId": "get_voice_changer_information_api_voice_changer_manager_information_get",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/VoiceChangerManagerInfo"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_voice-changer_convert_chunk": {
+        "post": {
+          "summary": "Post Convert Chunk",
+          "description": "音声変換を行うAPI\n\nArgs:\n    waveform (UploadFile): 音声データ np.float32のバイナリデータを想定している。\n    x_timestamp (int): タイムスタンプ",
+          "operationId": "post_convert_chunk_api_voice_changer_convert_chunk_post",
+          "parameters": [
+            {
+              "name": "x-timestamp",
+              "in": "header",
+              "required": false,
+              "schema": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": 0,
+                "title": "X-Timestamp"
+              }
+            }
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_convert_chunk_api_voice_changer_convert_chunk_post"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_voice-changer_convert_chunk_bulk": {
+        "post": {
+          "summary": "Post Convert Chunk Bulk",
+          "description": "音声変換を行うAPI\n\nArgs:\n    waveform (UploadFile): 音声データ float32のバイナリデータを想定している。\n    x_timestamp (int): タイムスタンプ",
+          "operationId": "post_convert_chunk_bulk_api_voice_changer_convert_chunk_bulk_post",
+          "parameters": [
+            {
+              "name": "x-timestamp",
+              "in": "header",
+              "required": false,
+              "schema": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": 0,
+                "title": "X-Timestamp"
+              }
+            }
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "multipart/form-data": {
+                "schema": {
+                  "$ref": "#/components/schemas/Body_post_convert_chunk_bulk_api_voice_changer_convert_chunk_bulk_post"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_voice-changer_convert_file": {
+        "post": {
+          "summary": "Post Convert File",
+          "operationId": "post_convert_file_api_voice_changer_convert_file_post",
+          "requestBody": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ConvertFileParam"
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            },
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_voice-changer_operation_start_server_device": {
+        "post": {
+          "summary": "Start Server Device",
+          "operationId": "start_server_device_api_voice_changer_operation_start_server_device_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_voice-changer_operation_stop_server_device": {
+        "post": {
+          "summary": "Stop Server Device",
+          "operationId": "stop_server_device_api_voice_changer_operation_stop_server_device_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_voice-changer-manager_information": {
+        "get": {
+          "summary": "Get Voice Changer Information",
+          "operationId": "get_voice_changer_information_api_voice_changer_manager_information_get",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/VoiceChangerManagerInfo"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api/operation/initialize": {
+        "post": {
+          "summary": "Initialize",
+          "operationId": "initialize_api_operation_initialize_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "/api_operation_initialize": {
+        "post": {
+          "summary": "Initialize",
+          "operationId": "initialize_api_operation_initialize_post",
+          "responses": {
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "BeatriceV2ModelImportParam": {
+          "properties": {
+            "voice_changer_type": {
+              "type": "string",
+              "enum": [
+                "RVC",
+                "Beatrice_v2",
+                "RESERVED_FOR_SAMPLE",
+                "BROKEN"
+              ],
+              "title": "Voice Changer Type",
+              "default": "Beatrice_v2"
+            },
+            "name": {
+              "type": "string",
+              "title": "Name"
+            },
+            "terms_of_use_url": {
+              "type": "string",
+              "title": "Terms Of Use Url",
+              "default": ""
+            },
+            "slot_index": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Slot Index"
+            },
+            "icon_file": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "path"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Icon File"
+            },
+            "zip_file": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "path"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Zip File"
+            }
+          },
+          "type": "object",
+          "required": [
+            "name"
+          ],
+          "title": "BeatriceV2ModelImportParam"
+        },
+        "Body_post_concat_uploaded_file_chunk_api_uploader_concat_uploaded_file_chunk_post": {
+          "properties": {
+            "filename": {
+              "type": "string",
+              "title": "Filename"
+            },
+            "filename_chunk_num": {
+              "type": "integer",
+              "title": "Filename Chunk Num"
+            }
+          },
+          "type": "object",
+          "required": [
+            "filename",
+            "filename_chunk_num"
+          ],
+          "title": "Body_post_concat_uploaded_file_chunk_api_uploader_concat_uploaded_file_chunk_post"
+        },
+        "Body_post_convert_chunk_api_voice_changer_convert_chunk_post": {
+          "properties": {
+            "waveform": {
+              "type": "string",
+              "format": "binary",
+              "title": "Waveform"
+            }
+          },
+          "type": "object",
+          "required": [
+            "waveform"
+          ],
+          "title": "Body_post_convert_chunk_api_voice_changer_convert_chunk_post"
+        },
+        "Body_post_convert_chunk_bulk_api_voice_changer_convert_chunk_bulk_post": {
+          "properties": {
+            "waveform": {
+              "type": "string",
+              "format": "binary",
+              "title": "Waveform"
+            }
+          },
+          "type": "object",
+          "required": [
+            "waveform"
+          ],
+          "title": "Body_post_convert_chunk_bulk_api_voice_changer_convert_chunk_bulk_post"
+        },
+        "Body_post_upload_file_chunk_api_uploader_upload_file_chunk_post": {
+          "properties": {
+            "file": {
+              "type": "string",
+              "format": "binary",
+              "title": "File"
+            },
+            "filename": {
+              "type": "string",
+              "title": "Filename"
+            },
+            "index": {
+              "type": "integer",
+              "title": "Index"
+            }
+          },
+          "type": "object",
+          "required": [
+            "file",
+            "filename",
+            "index"
+          ],
+          "title": "Body_post_upload_file_chunk_api_uploader_upload_file_chunk_post"
+        },
+        "ConvertFileParam": {
+          "properties": {
+            "src_path": {
+              "type": "string",
+              "title": "Src Path"
+            },
+            "dst_path": {
+              "type": "string",
+              "title": "Dst Path"
+            }
+          },
+          "type": "object",
+          "required": [
+            "src_path",
+            "dst_path"
+          ],
+          "title": "ConvertFileParam"
+        },
+        "EmbedderInfo": {
+          "properties": {
+            "embedder_type": {
+              "type": "string",
+              "enum": [
+                "hubert_base_l9fp",
+                "hubert_base_l12",
+                "contentvec",
+                "hubert_base_japanese_l9fp",
+                "hubert_base_japanese_l12",
+                "whisper"
+              ],
+              "title": "Embedder Type"
+            },
+            "model_file": {
+              "type": "string",
+              "format": "path",
+              "title": "Model File"
+            },
+            "device_id": {
+              "type": "integer",
+              "title": "Device Id"
+            },
+            "candidate_onnx_providers": {
+              "anyOf": [
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Candidate Onnx Providers"
+            },
+            "candidate_onnx_provider_options": {
+              "title": "Candidate Onnx Provider Options"
+            },
+            "onnx_providers": {
+              "anyOf": [
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Onnx Providers"
+            },
+            "onnx_provider_options": {
+              "anyOf": [
+                {},
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Onnx Provider Options"
+            }
+          },
+          "type": "object",
+          "required": [
+            "embedder_type",
+            "model_file",
+            "device_id"
+          ],
+          "title": "EmbedderInfo"
+        },
+        "HTTPValidationError": {
+          "properties": {
+            "detail": {
+              "items": {
+                "$ref": "#/components/schemas/ValidationError"
+              },
+              "type": "array",
+              "title": "Detail"
+            }
+          },
+          "type": "object",
+          "title": "HTTPValidationError"
+        },
+        "MergeParam": {
+          "properties": {
+            "files": {
+              "items": {
+                "$ref": "#/components/schemas/ModelSource"
+              },
+              "type": "array",
+              "title": "Files"
+            }
+          },
+          "type": "object",
+          "required": [
+            "files"
+          ],
+          "title": "MergeParam"
+        },
+        "ModelSource": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index"
+            },
+            "strength": {
+              "type": "number",
+              "title": "Strength"
+            }
+          },
+          "type": "object",
+          "required": [
+            "slot_index",
+            "strength"
+          ],
+          "title": "ModelSource"
+        },
+        "MoveExportedOnnxModelParam": {
+          "properties": {
+            "dst": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Dst"
+            }
+          },
+          "type": "object",
+          "title": "MoveExportedOnnxModelParam"
+        },
+        "MoveMergedModelParam": {
+          "properties": {
+            "dst": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Dst"
+            }
+          },
+          "type": "object",
+          "title": "MoveMergedModelParam"
+        },
+        "MoveModelParam": {
+          "properties": {
+            "src": {
+              "type": "integer",
+              "title": "Src"
+            },
+            "dst": {
+              "type": "integer",
+              "title": "Dst"
+            }
+          },
+          "type": "object",
+          "required": [
+            "src",
+            "dst"
+          ],
+          "title": "MoveModelParam"
+        },
+        "OnnxExportParam": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index"
+            }
+          },
+          "type": "object",
+          "required": [
+            "slot_index"
+          ],
+          "title": "OnnxExportParam"
+        },
+        "PipelineInfo": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index",
+              "default": -1
+            },
+            "input_sample_rate": {
+              "type": "integer",
+              "title": "Input Sample Rate",
+              "default": -1
+            },
+            "output_sample_rate": {
+              "type": "integer",
+              "title": "Output Sample Rate",
+              "default": -1
+            },
+            "chunk_sec": {
+              "type": "number",
+              "title": "Chunk Sec",
+              "default": 0.1
+            },
+            "slot_info": {
+              "title": "Slot Info"
+            }
+          },
+          "type": "object",
+          "title": "PipelineInfo"
+        },
+        "PitchEstimatorInfo": {
+          "properties": {
+            "pitch_estimator_type": {
+              "type": "string",
+              "enum": [
+                "harvest",
+                "dio",
+                "crepe_full",
+                "crepe_large",
+                "crepe_medium",
+                "crepe_small",
+                "crepe_tiny",
+                "rmvpe",
+                "rmvpe_onnx",
+                "fcpe"
+              ],
+              "title": "Pitch Estimator Type"
+            },
+            "model_file": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "path"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Model File"
+            },
+            "device_id": {
+              "type": "integer",
+              "title": "Device Id"
+            },
+            "candidate_onnx_providers": {
+              "anyOf": [
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Candidate Onnx Providers"
+            },
+            "candidate_onnx_provider_options": {
+              "title": "Candidate Onnx Provider Options"
+            },
+            "onnx_providers": {
+              "anyOf": [
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Onnx Providers"
+            },
+            "onnx_provider_options": {
+              "anyOf": [
+                {},
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Onnx Provider Options"
+            }
+          },
+          "type": "object",
+          "required": [
+            "pitch_estimator_type",
+            "model_file",
+            "device_id"
+          ],
+          "title": "PitchEstimatorInfo"
+        },
+        "RVCInferencerInfo": {
+          "properties": {
+            "inferencer_type": {
+              "type": "string",
+              "enum": [
+                "pyTorchRVC",
+                "pyTorchRVCNono",
+                "pyTorchRVCv2",
+                "pyTorchRVCv2Nono",
+                "pyTorchDDPN",
+                "pyTorchDDPNNono",
+                "onnxRVC",
+                "onnxRVCNono"
+              ],
+              "title": "Inferencer Type"
+            },
+            "model_file": {
+              "type": "string",
+              "format": "path",
+              "title": "Model File"
+            },
+            "device_id": {
+              "type": "integer",
+              "title": "Device Id"
+            },
+            "candidate_onnx_providers": {
+              "anyOf": [
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Candidate Onnx Providers"
+            },
+            "candidate_onnx_provider_options": {
+              "title": "Candidate Onnx Provider Options"
+            },
+            "onnx_providers": {
+              "anyOf": [
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Onnx Providers"
+            },
+            "onnx_provider_options": {
+              "anyOf": [
+                {},
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Onnx Provider Options"
+            }
+          },
+          "type": "object",
+          "required": [
+            "inferencer_type",
+            "model_file",
+            "device_id"
+          ],
+          "title": "RVCInferencerInfo"
+        },
+        "RVCModelImportParam": {
+          "properties": {
+            "voice_changer_type": {
+              "type": "string",
+              "enum": [
+                "RVC",
+                "Beatrice_v2",
+                "RESERVED_FOR_SAMPLE",
+                "BROKEN"
+              ],
+              "title": "Voice Changer Type",
+              "default": "RVC"
+            },
+            "name": {
+              "type": "string",
+              "title": "Name"
+            },
+            "terms_of_use_url": {
+              "type": "string",
+              "title": "Terms Of Use Url",
+              "default": ""
+            },
+            "slot_index": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Slot Index"
+            },
+            "icon_file": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "path"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Icon File"
+            },
+            "model_file": {
+              "type": "string",
+              "format": "path",
+              "title": "Model File"
+            },
+            "index_file": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "path"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Index File"
+            }
+          },
+          "type": "object",
+          "required": [
+            "name",
+            "model_file"
+          ],
+          "title": "RVCModelImportParam"
+        },
+        "RVCPipelineInfo": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index",
+              "default": -1
+            },
+            "input_sample_rate": {
+              "type": "integer",
+              "title": "Input Sample Rate",
+              "default": -1
+            },
+            "output_sample_rate": {
+              "type": "integer",
+              "title": "Output Sample Rate",
+              "default": -1
+            },
+            "chunk_sec": {
+              "type": "number",
+              "title": "Chunk Sec",
+              "default": 0.1
+            },
+            "slot_info": {
+              "title": "Slot Info"
+            },
+            "embedder_info": {
+              "$ref": "#/components/schemas/EmbedderInfo"
+            },
+            "pitch_estimator_info": {
+              "$ref": "#/components/schemas/PitchEstimatorInfo"
+            },
+            "inferencer_info": {
+              "$ref": "#/components/schemas/RVCInferencerInfo"
+            }
+          },
+          "type": "object",
+          "required": [
+            "embedder_info",
+            "pitch_estimator_info",
+            "inferencer_info"
+          ],
+          "title": "RVCPipelineInfo"
+        },
+        "SampleDownloadParam": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index"
+            },
+            "sample_id": {
+              "type": "string",
+              "title": "Sample Id"
+            }
+          },
+          "type": "object",
+          "required": [
+            "slot_index",
+            "sample_id"
+          ],
+          "title": "SampleDownloadParam"
+        },
+        "SetIconParam": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index"
+            },
+            "icon_file": {
+              "type": "string",
+              "format": "path",
+              "title": "Icon File"
+            }
+          },
+          "type": "object",
+          "required": [
+            "slot_index",
+            "icon_file"
+          ],
+          "title": "SetIconParam"
+        },
+        "ValidationError": {
+          "properties": {
+            "loc": {
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "integer"
+                  }
+                ]
+              },
+              "type": "array",
+              "title": "Location"
+            },
+            "msg": {
+              "type": "string",
+              "title": "Message"
+            },
+            "type": {
+              "type": "string",
+              "title": "Error Type"
+            }
+          },
+          "type": "object",
+          "required": [
+            "loc",
+            "msg",
+            "type"
+          ],
+          "title": "ValidationError"
+        },
+        "VoiceChangerConfiguration": {
+          "properties": {
+            "current_slot_index": {
+              "type": "integer",
+              "title": "Current Slot Index",
+              "default": 0
+            },
+            "voice_changer_input_mode": {
+              "type": "string",
+              "title": "Voice Changer Input Mode",
+              "default": "client"
+            },
+            "sio_broadcast": {
+              "type": "boolean",
+              "title": "Sio Broadcast",
+              "default": false
+            },
+            "pass_through": {
+              "type": "boolean",
+              "title": "Pass Through",
+              "default": false
+            },
+            "recording_started": {
+              "type": "boolean",
+              "title": "Recording Started",
+              "default": false
+            },
+            "enable_performance_monitor": {
+              "type": "boolean",
+              "title": "Enable Performance Monitor",
+              "default": true
+            },
+            "enable_high_pass_filter": {
+              "type": "boolean",
+              "title": "Enable High Pass Filter",
+              "default": false
+            },
+            "high_pass_filter_cutoff": {
+              "type": "number",
+              "title": "High Pass Filter Cutoff",
+              "default": 100
+            },
+            "enable_low_pass_filter": {
+              "type": "boolean",
+              "title": "Enable Low Pass Filter",
+              "default": false
+            },
+            "low_pass_filter_cutoff": {
+              "type": "number",
+              "title": "Low Pass Filter Cutoff",
+              "default": 10000
+            },
+            "volume_tuning_type": {
+              "type": "string",
+              "title": "Volume Tuning Type",
+              "default": "sqrt"
+            },
+            "audio_input_device_index": {
+              "type": "integer",
+              "title": "Audio Input Device Index",
+              "default": -1
+            },
+            "audio_output_device_index": {
+              "type": "integer",
+              "title": "Audio Output Device Index",
+              "default": -1
+            },
+            "audio_monitor_device_index": {
+              "type": "integer",
+              "title": "Audio Monitor Device Index",
+              "default": -1
+            },
+            "wasapi_exclude_emabled": {
+              "type": "boolean",
+              "title": "Wasapi Exclude Emabled",
+              "default": true
+            },
+            "audio_input_device_sample_rate": {
+              "type": "integer",
+              "title": "Audio Input Device Sample Rate",
+              "default": -1
+            },
+            "audio_output_device_sample_rate": {
+              "type": "integer",
+              "title": "Audio Output Device Sample Rate",
+              "default": -1
+            },
+            "audio_monitor_device_sample_rate": {
+              "type": "integer",
+              "title": "Audio Monitor Device Sample Rate",
+              "default": -1
+            },
+            "audio_input_device_gain": {
+              "type": "number",
+              "title": "Audio Input Device Gain",
+              "default": 2
+            },
+            "audio_output_device_gain": {
+              "type": "number",
+              "title": "Audio Output Device Gain",
+              "default": 1
+            },
+            "audio_monitor_device_gain": {
+              "type": "number",
+              "title": "Audio Monitor Device Gain",
+              "default": 1
+            },
+            "noise_gate": {
+              "type": "number",
+              "title": "Noise Gate",
+              "default": -100
+            },
+            "extra_frame_sec": {
+              "type": "number",
+              "title": "Extra Frame Sec",
+              "default": 0.08
+            },
+            "crossfade_sec": {
+              "type": "number",
+              "title": "Crossfade Sec",
+              "default": 0.05
+            },
+            "sola_search_frame_sec": {
+              "type": "number",
+              "title": "Sola Search Frame Sec",
+              "default": 0.012
+            },
+            "gpu_device_id_int": {
+              "type": "integer",
+              "title": "Gpu Device Id Int",
+              "default": -1
+            },
+            "input_sample_rate": {
+              "type": "integer",
+              "title": "Input Sample Rate",
+              "default": 48000
+            },
+            "output_sample_rate": {
+              "type": "integer",
+              "title": "Output Sample Rate",
+              "default": 48000
+            },
+            "monitor_sample_rate": {
+              "type": "integer",
+              "title": "Monitor Sample Rate",
+              "default": 48000
+            }
+          },
+          "type": "object",
+          "title": "VoiceChangerConfiguration"
+        },
+        "VoiceChangerInformation": {
+          "properties": {
+            "slot_index": {
+              "type": "integer",
+              "title": "Slot Index",
+              "default": -1
+            },
+            "pitch_estimator_type": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "harvest",
+                    "dio",
+                    "crepe_full",
+                    "crepe_large",
+                    "crepe_medium",
+                    "crepe_small",
+                    "crepe_tiny",
+                    "rmvpe",
+                    "rmvpe_onnx",
+                    "fcpe"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Pitch Estimator Type"
+            },
+            "gpu_device_index": {
+              "type": "integer",
+              "title": "Gpu Device Index",
+              "default": -1
+            },
+            "input_sample_rate": {
+              "type": "integer",
+              "title": "Input Sample Rate",
+              "default": -1
+            },
+            "output_sample_rate": {
+              "type": "integer",
+              "title": "Output Sample Rate",
+              "default": -1
+            },
+            "monitor_sample_rate": {
+              "type": "integer",
+              "title": "Monitor Sample Rate",
+              "default": -1
+            },
+            "vc_input_sample_rate": {
+              "type": "integer",
+              "title": "Vc Input Sample Rate",
+              "default": -1
+            },
+            "vc_output_sample_rate": {
+              "type": "integer",
+              "title": "Vc Output Sample Rate",
+              "default": -1
+            },
+            "resample_ratio_in": {
+              "type": "number",
+              "title": "Resample Ratio In",
+              "default": 1
+            },
+            "resample_ratio_out": {
+              "type": "number",
+              "title": "Resample Ratio Out",
+              "default": 1
+            },
+            "resample_ratio_monitor": {
+              "type": "number",
+              "title": "Resample Ratio Monitor",
+              "default": 1
+            },
+            "resample_ratio_pass_through_in_out": {
+              "type": "number",
+              "title": "Resample Ratio Pass Through In Out",
+              "default": 1
+            },
+            "resample_ratio_pass_through_in_monitor": {
+              "type": "number",
+              "title": "Resample Ratio Pass Through In Monitor",
+              "default": 1
+            },
+            "enable_high_pass_filter": {
+              "type": "boolean",
+              "title": "Enable High Pass Filter",
+              "default": false
+            },
+            "high_pass_filter_cutoff": {
+              "type": "number",
+              "title": "High Pass Filter Cutoff",
+              "default": -1
+            },
+            "enable_low_pass_filter": {
+              "type": "boolean",
+              "title": "Enable Low Pass Filter",
+              "default": false
+            },
+            "low_pass_filter_cutoff": {
+              "type": "number",
+              "title": "Low Pass Filter Cutoff",
+              "default": -1
+            },
+            "chunk_sec": {
+              "type": "number",
+              "title": "Chunk Sec",
+              "default": 0.1
+            },
+            "pipeline_info": {
+              "anyOf": [
+                {
+                  "$ref": "#/components/schemas/PipelineInfo"
+                },
+                {
+                  "$ref": "#/components/schemas/RVCPipelineInfo"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Pipeline Info"
+            },
+            "voice_changer_type": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "RVC",
+                    "Beatrice_v2",
+                    "RESERVED_FOR_SAMPLE",
+                    "BROKEN"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Voice Changer Type"
+            },
+            "bulk_process_start_flag": {
+              "type": "boolean",
+              "title": "Bulk Process Start Flag",
+              "default": false
+            },
+            "recording_start_flag": {
+              "type": "boolean",
+              "title": "Recording Start Flag",
+              "default": false
+            },
+            "monitor_enabled": {
+              "type": "boolean",
+              "title": "Monitor Enabled",
+              "default": false
+            }
+          },
+          "type": "object",
+          "title": "VoiceChangerInformation"
+        },
+        "VoiceChangerManagerInfo": {
+          "properties": {
+            "local_voice_changer_interface_active": {
+              "type": "boolean",
+              "title": "Local Voice Changer Interface Active"
+            },
+            "voice_changer_information": {
+              "$ref": "#/components/schemas/VoiceChangerInformation"
+            }
+          },
+          "type": "object",
+          "required": [
+            "local_voice_changer_interface_active",
+            "voice_changer_information"
+          ],
+          "title": "VoiceChangerManagerInfo"
+        }
+      }
+    }
+}

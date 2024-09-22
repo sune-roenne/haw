@@ -1,0 +1,17 @@
+﻿.taw-capture-bg-container {
+    position: absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color: green;
+}
+
+.taw-capture-txt-container {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.taw-capture-txt {
+    margin-top:10px;
+}

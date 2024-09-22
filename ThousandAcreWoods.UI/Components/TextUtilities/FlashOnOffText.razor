@@ -1,0 +1,39 @@
+﻿@using ThousandAcreWoods.UI.Util
+<div class="taw-text-flash-on-off-text-@(_id)">
+    <style>
+
+        .taw-text-flash-on-off-text-@(_id) {
+            font-family: '@TheFontSettings.TheFontFamily';
+            font-size: @(TheFontSettings.TheFontSize)pt;
+            color: @(TheFontSettings.TheFontColor);
+
+        }
+
+        @CssRules
+
+
+
+        @@keyframes visibility {
+            @_startAnimatingInPercentage.AsCssPercent() {
+                filter:blur(40px);
+                opacity: 1;
+            }
+
+            @_endAnimatingInPercentage.AsCssPercent() {
+                filter:blur(0px);
+                opacity: @(OpacityOnShowing.AsCssNumber());
+            }
+            @_startAnimatingOutPercentage.AsCssPercent() {
+                filter:blur(0px);
+                opacity: @(OpacityOnShowing.AsCssNumber());
+            }
+            @_endAnimatingOutPercentage.AsCssPercent() {
+                filter:blur(140px);
+                opacity: 0.2;
+
+            }
+        }
+    </style>
+   @TextMarkup
+
+</div>
