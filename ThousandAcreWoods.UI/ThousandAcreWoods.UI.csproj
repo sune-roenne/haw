@@ -22,7 +22,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Negotiate" Version="8.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.4" />
     <PackageReference Include="NSwag.AspNetCore" Version="14.0.7" />
-    <PackageReference Include="NYK.Identity.UI" Version="1.1.27-DIABLO-14" />
   </ItemGroup>
 
   <ItemGroup>

@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ThousandAcreWoods.Language\ThousandAcreWoods.Language.csproj" />
-  </ItemGroup>
-
-
 </Project>

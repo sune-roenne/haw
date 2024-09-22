@@ -12,10 +12,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.7" />
-    <PackageReference Include="NYK.Collections" Version="1.0.21" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ThousandAcreWoods.Language\ThousandAcreWoods.Language.csproj" />
     <ProjectReference Include="..\ThousandAcreWoods.Domain\ThousandAcreWoods.Domain.csproj" />
   </ItemGroup>
 

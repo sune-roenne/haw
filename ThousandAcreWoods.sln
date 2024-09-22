@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThousandAcreWoods.AudioBook
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandAcreWoods.Lessons", "ThousandAcreWoods.Lessons\ThousandAcreWoods.Lessons.csproj", "{BD8ACE4E-F02D-4D62-BB9E-3ABE16097984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandAcreWoods.Language", "ThousandAcreWoods.Language\ThousandAcreWoods.Language.csproj", "{07E07C12-6739-4542-80BD-1FBB5905EC9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{BD8ACE4E-F02D-4D62-BB9E-3ABE16097984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD8ACE4E-F02D-4D62-BB9E-3ABE16097984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD8ACE4E-F02D-4D62-BB9E-3ABE16097984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E07C12-6739-4542-80BD-1FBB5905EC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E07C12-6739-4542-80BD-1FBB5905EC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E07C12-6739-4542-80BD-1FBB5905EC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E07C12-6739-4542-80BD-1FBB5905EC9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
