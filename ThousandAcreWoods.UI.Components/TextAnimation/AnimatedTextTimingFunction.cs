@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ThousandAcreWoods.UI.Components.TextAnimation;
+﻿namespace ThousandAcreWoods.UI.Components.TextAnimation;
 public enum AnimatedTextTimingFunction
 {
     Linear = 0,

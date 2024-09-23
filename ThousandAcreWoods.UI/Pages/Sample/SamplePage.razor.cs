@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
-using NYK.Identity.Authorization;
 
 namespace ThousandAcreWoods.UI.Pages.Sample;
 
-[NykreditAuthorization]
 public partial class SamplePage
 {
     [Inject]

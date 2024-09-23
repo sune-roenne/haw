@@ -1,7 +1,4 @@
-﻿using Microsoft.AspNetCore.Components;
-using NYK.Collections.Extensions;
-using System;
-using ThousandAcreWoods.UI.Components.Util;
+﻿using ThousandAcreWoods.Language.Extensions;
 
 namespace ThousandAcreWoods.UI.Components.TextAnimation;
 

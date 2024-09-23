@@ -1,11 +1,6 @@
-﻿using Microsoft.AspNetCore.Authentication;
-using NYK.Identity.UI;
-using ThousandAcreWoods.LocalStorage.Configuration;
+﻿using ThousandAcreWoods.LocalStorage.Configuration;
 using ThousandAcreWoods.UI.APIs;
 using ThousandAcreWoods.UI.Configuration;
-using ThousandAcreWoods.UI.Middleware;
-using ThousandAcreWoods.UI.Pages.Common;
-using ThousandAcreWoods.UI.Security;
 
 namespace ThousandAcreWoods.UI;
 
@@ -36,7 +31,6 @@ public static class DependencyInjection
 
     private static WebApplicationBuilder AddSecurity(this WebApplicationBuilder builder)
     {
-        builder.AddDefaultNykreditIdentitySetupForUiApp();
 
         /*builder.Services.AddScoped<IClaimsTransformation, UserClaimsTransformer>();
         builder.Services.AddAuthorization(authSettings =>
@@ -82,7 +76,6 @@ public static class DependencyInjection
     public static WebApplication UseUi(this WebApplication app, IConfiguration conf)
     {
 
-        app.UseNykreditOpenApiUIWithSecurity<App>();
 
         app.UseCaptureApi();
         /*app.UseUserApi()

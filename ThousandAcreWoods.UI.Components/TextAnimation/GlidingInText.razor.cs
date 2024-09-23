@@ -1,7 +1,4 @@
-﻿using Microsoft.AspNetCore.Components;
-using NYK.Collections.Extensions;
-using ThousandAcreWoods.UI.Components.Util;
-
+﻿
 namespace ThousandAcreWoods.UI.Components.TextAnimation;
 
 public partial class GlidingInText : AnimatedTextComponent

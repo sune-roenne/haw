@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
-using NYK.Collections.Extensions;
+using ThousandAcreWoods.Language.Extensions;
 using System.Text.Json;
 using ThousandAcreWoods.Book.Hosting.Wasm.Model;
 using ThousandAcreWoods.Book.Hosting.Wasm.Pages.Chapters.Model;

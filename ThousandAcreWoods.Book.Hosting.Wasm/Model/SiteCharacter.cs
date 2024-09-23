@@ -1,4 +1,4 @@
-﻿using NYK.Collections.Extensions;
+﻿using ThousandAcreWoods.Language.Extensions;
 using ThousandAcreWoods.Book.Hosting.Wasm.Configuration;
 using ThousandAcreWoods.UI.Components.Common;
 

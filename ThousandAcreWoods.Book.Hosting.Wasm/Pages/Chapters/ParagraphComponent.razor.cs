@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Components;
-using NYK.Collections.Extensions;
+using ThousandAcreWoods.Language.Extensions;
 using ThousandAcreWoods.Book.Hosting.Wasm.Pages.Chapters.Model;
 using ThousandAcreWoods.Book.Hosting.Wasm.State;
 using ThousandAcreWoods.UI.Components.Common;

@@ -1,14 +1,4 @@
-﻿using NYK.Collections.Extensions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using System.Xml;
-using System.Xml.Linq;
-using System.Xml.XPath;
-using ThousandAcreWoods.SVGTools.Calculations;
+﻿using System.Xml;
 using ThousandAcreWoods.SVGTools.Model;
 using ThousandAcreWoods.SVGTools.Util;
 

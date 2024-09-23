@@ -2,7 +2,7 @@
 using System.Drawing.Text;
 using ThousandAcreWoods.UI.Components.TextAnimation;
 using ThousandAcreWoods.UI.Components.Common;
-using NYK.Collections.Extensions;
+using ThousandAcreWoods.Language.Extensions;
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 
